@@ -31,9 +31,11 @@ The approved human premise is summarized here; the full details are in [Humanity
 - Most widely known great monarchs, major noble houses, governments, and law-enforcement institutions are predominantly human-led.
 - Human dominance varies by continent.
 - Humans have multiple subraces, each intended to have distinctive features, specialties, and other defining traits.
+- One human subrace is the preeminent lineage associated across Edrath's history with great and historically consequential people.
+- That lineage's prominence does not automatically mean it is biologically better than every other human subrace or best at every trait.
 - This subrace design framework may also be used for other races where appropriate.
 
-The lore that supports or explains humanity's established superiority is intentionally deferred for later discussion. The identities and details of all human subraces also remain to be developed.
+The lore that supports or explains humanity's established superiority is intentionally deferred for later discussion. The identities and details of all human subraces, including the preeminent lineage, also remain to be developed.
 
 ## 4. RECOGNIZABLE RACES TO EXPLORE
 
