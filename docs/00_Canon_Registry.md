@@ -1,10 +1,10 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 1.1  
+**Version:** 1.2  
 **Status:** Approved Foundational Canon
 
-This registry records the approved foundational decisions for Edrath, including the core Edraen roots and compound rules, the five continents, and the initial country-name plan.
+This registry records the approved foundational decisions for Edrath, including the core Edraen roots and compound rules, the five continents, the initial country-name plan, and the broad climate and geography profiles of each continent.
 
 ## 1. WORLD AND LANGUAGE
 
@@ -45,6 +45,18 @@ The five major continents and their pronunciations are approved canon:
 | 5 | Umbrava | um-BRAH-vah |
 
 Their proper names are approved independently of any etymology. By decision, these five names are treated as unanalyzed proper names: no root-by-root meanings are assigned to them in current canon.
+
+The broad climate and geography identities of the five continents are also approved canon:
+
+| Continent | Approved broad climate and geography |
+|---|---|
+| Kaldura | Seasonal highlands, mountain chains, and grasslands |
+| Veskara | Arid deserts and plateaus, seasonal rivers, and oases |
+| Othmere | Temperate climate, four seasons, fertile plains, river systems, and old forests |
+| Sylvaris | Humid lowlands, lush rainforests, and rivers |
+| Umbrava | Cold rugged terrain, glaciers, volcanic ranges, and severe coastal weather |
+
+The full profiles and their limits are recorded in [Continental Climate and Geography](geography/Continental_Climate_and_Geography.md).
 
 ## 4. APPROVED COMPOUND-WORD RULES
 
@@ -109,16 +121,29 @@ Edrath is inspired by the scale, layered history, and cultural depth of *The Eld
 
 The aim is a coherent world in which geography, history, politics, language, religion, and culture affect one another.
 
-## 8. FUTURE DEVELOPMENT — NOT YET AUTHORED
+## 8. APPROVED CONTINENTAL CLIMATE AND GEOGRAPHY
+
+The following broad environmental profiles are approved canon:
+
+1. **Kaldura:** Highland terrain, major mountain chains, grasslands, and strong seasonal variation.
+2. **Veskara:** Predominantly arid deserts and plateaus, with seasonal rivers and oases.
+3. **Othmere:** Temperate climate with four distinct seasons, fertile plains, river systems, and old forests.
+4. **Sylvaris:** Predominantly humid environments, lush rainforests, lowlands, and rivers.
+5. **Umbrava:** Cold rugged terrain, glacial regions, volcanic ranges, and severe coastal weather.
+
+These profiles establish broad identities only. Exact coastlines, continent placement, individual feature locations, detailed biome boundaries, and regional climates remain open. See [Continental Climate and Geography](geography/Continental_Climate_and_Geography.md).
+
+## 9. FUTURE DEVELOPMENT — NOT YET AUTHORED
 
 The following material remains open for future development:
 
-1. The geographic layout, climate, landforms, and relative placement of the five continents.
-2. Country borders, size, precise placement, governments, and political histories.
-3. Cultures, peoples, religions, languages other than Edraen, and civilizations.
-4. Additional Edraen roots, vocabulary, grammar, and idioms.
-5. Historical events, conflicts, cosmological details, and narrative lore.
-6. Whether additional countries are needed as the setting develops.
+1. The relative placement, shape, and size of the five continents, plus exact coastlines and detailed maps.
+2. Precise locations and extents of geographic features beyond the approved broad profiles.
+3. Country borders, size, precise placement, governments, and political histories.
+4. Cultures, peoples, races, religions, languages other than Edraen, and civilizations.
+5. Additional Edraen roots, vocabulary, grammar, and idioms.
+6. Historical events, conflicts, cosmological details, and narrative lore.
+7. Whether additional countries are needed as the setting develops.
 
 The current country plan contains four named countries per continent, for a total of 20. This is an approved starting scope, not a claim that the political history of Edrath has always contained exactly 20 countries.
 
