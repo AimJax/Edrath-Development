@@ -15,7 +15,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - **Twenty named countries** — four assigned to each continent in the current country plan.
 - **Five distinct continental profiles** — approved broad climate and geography for each continent.
 - **Core roots** — ED, RATH, AEN, KHAR, VAEL, NHUR, and AETH have approved meanings.
-- **Humanity** — approved as a foundational people and the intended “best” race; humans dominate much of the world's major political and institutional life, with variation by continent. Human subraces are still under development.
+- **Humanity** — approved as a foundational people and the world's “best” race as a fundamental truth from the Age of the Beginning onward, not a status earned later. Humans dominate much of the world's major political and institutional life, with variation by continent. This does not mean humans must be smarter, stronger, or best at every individual ability. The supporting lore is deferred; human subraces are still under development.
 - **Other races and peoples** — the design workshop prioritizes recognizable fantasy races, with original races to be developed alongside them. Detailed definitions remain proposals until approved.
 
 ## Documentation
