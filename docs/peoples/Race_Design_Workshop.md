@@ -26,13 +26,14 @@ Humans have an approved foundational premise documented in [Humanity](Humanity.m
 
 The approved human premise is summarized here; the full details are in [Humanity](Humanity.md).
 
-- Humans are a foundational people of Edrath and are intended to be the setting's “best” race.
+- Humans are a foundational people of Edrath and are the setting's “best” race as a fundamental truth from the Age of the Beginning onward; their superiority is not something earned later.
+- This overall superiority does not require humans to be smarter, stronger, or best at every individual ability; other peoples may exceed humans in particular specialties.
 - Most widely known great monarchs, major noble houses, governments, and law-enforcement institutions are predominantly human-led.
 - Human dominance varies by continent.
 - Humans have multiple subraces, each intended to have distinctive features, specialties, and other defining traits.
 - This subrace design framework may also be used for other races where appropriate.
 
-The meaning and source of humanity's “best” status, along with the identities and details of all human subraces, remain to be developed.
+The lore that supports or explains humanity's established superiority is intentionally deferred for later discussion. The identities and details of all human subraces also remain to be developed.
 
 ## 4. RECOGNIZABLE RACES TO EXPLORE
 
