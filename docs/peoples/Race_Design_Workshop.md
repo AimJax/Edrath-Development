@@ -1,145 +1,82 @@
 # EDRATH — RACE DESIGN WORKSHOP
 
-**Document:** Initial Race and People Concepts  
-**Version:** 0.1  
-**Status:** Working Draft — Proposals Only; Not Canon
+**Document:** Race and People Design Framework  
+**Version:** 0.2  
+**Status:** Working Draft — Proposals Only, except where linked canon is explicitly identified
 
 ## 1. PURPOSE
 
-This document begins the design of Edrath's intelligent fantasy peoples. Its concepts are starting points for discussion, not approved facts about the world. Names, anatomy, life cycles, abilities, continental associations, and terminology may all be revised or discarded.
+This workshop develops the intelligent peoples of Edrath. The design priority is to begin with **recognizable fantasy races**, redesign their identities so they belong to Edrath, and then add original races that do not simply duplicate familiar archetypes.
 
-The aim is not to rename familiar fantasy races. Each people should have a distinct biological premise and a point of view shaped by how it senses, moves through, and survives in the world.
+Humans have an approved foundational premise documented in [Humanity](Humanity.md). The other races, their subraces, and their detailed traits remain under development until explicitly approved.
 
-## 2. DESIGN PRINCIPLES
+## 2. CURRENT DESIGN DIRECTION
 
-1. **Avoid direct copies.** Do not build a people by simply renaming elves, dwarves, orcs, humans, or animal-headed beastfolk.
-2. **Give each people a defining premise.** A silhouette, sensory system, life cycle, or form of embodiment should distinguish it beyond cosmetic traits.
-3. **Connect biology to environment without making it destiny.** Adaptations can matter without forcing every member into the same occupation, temperament, morality, or culture.
-4. **Make each people internally diverse.** A species is not a single culture, nation, religion, or political faction.
-5. **Keep migration possible.** A continent can be an ancestral homeland without being the only place its people live.
-6. **Avoid automatic superiority.** No people should be universally smarter, more magical, more civilized, or better at every useful task.
-7. **Treat names as provisional.** These names have no assigned Edraen etymologies. Do not force them into Edraen root compounds.
-8. **Separate proposals from canon.** Nothing in this workshop becomes established lore until the creator explicitly approves it.
+1. **Prioritize recognizable fantasy races.** Elves, orcs, dwarves, and beastfolk are valid starting points. The goal is to redesign their defining details, not to avoid every familiar archetype.
+2. **Keep the peoples humanoid and appealing.** Races should generally read as people, with distinctive fantasy features. Do not make them alien or monstrous merely to make them different.
+3. **Do not rely on cosmetic renaming.** A familiar race needs an Edrath-specific identity in its nature, history, or defining traits—not just a new name.
+4. **Subraces are an important design tool.** A race may contain subraces with distinct appearances, specialties, and other defining traits. They need not all have the same number or structure.
+5. **Separate race from culture and nationality.** Biology and ancestry can influence life, but they do not dictate every individual's personality, occupation, morality, or political allegiance.
+6. **Make differences meaningful.** Physical traits, specialties, and limitations should be coherent and useful for worldbuilding rather than random gimmicks.
+7. **Allow internal diversity and migration.** A race may have ancestral homelands without being confined to one continent or one culture.
+8. **Do not invent details prematurely.** Names, anatomy, subrace lists, powers, lifespans, histories, and continental associations remain proposals until approved.
+9. **Keep canon and proposals separate.** Only decisions explicitly approved by the creator become established canon.
 
-## 3. FIRST-PASS CONCEPTS
+## 3. HUMANITY — APPROVED FOUNDATION
 
-These five concepts are deliberately varied in their biological premises. They are not yet a final roster, and the continent associations are provisional design suggestions based on the approved broad environments.
+The approved human premise is summarized here; the full details are in [Humanity](Humanity.md).
 
-### 3.1 KALDURA CANDIDATE — THE RETHKAI
+- Humans are a foundational people of Edrath and are intended to be the setting's “best” race.
+- Most widely known great monarchs, major noble houses, governments, and law-enforcement institutions are predominantly human-led.
+- Human dominance varies by continent.
+- Humans have multiple subraces, each intended to have distinctive features, specialties, and other defining traits.
+- This subrace design framework may also be used for other races where appropriate.
 
-**Working name:** Rethkai  
-**Possible ancestral home:** Kaldura  
-**Design premise:** A climbing-adapted people whose anatomy is built around anchoring and balance rather than simply having exceptional strength.
+The meaning and source of humanity's “best” status, along with the identities and details of all human subraces, remain to be developed.
 
-Initial biological sketch:
-- Their hands and feet have broad, independently flexing gripping pads and joints that can lock under sustained load.
-- Their torso and pelvis have unusually mobile stabilizing structures, letting them brace against steep slopes or maintain balance while carrying awkward loads.
-- Their natural gait is efficient on broken ground but not necessarily faster than other peoples on open, level terrain.
+## 4. RECOGNIZABLE RACES TO EXPLORE
 
-What this could offer:
-- A distinctive silhouette and movement style without making them generic “mountain folk.”
-- A reason their buildings, tools, and everyday movement might differ in some communities.
-- Meaningful limitations: smooth surfaces, certain kinds of restraints, or long stretches of level running may be less comfortable for them.
+These are design categories to discuss, not finalized race definitions:
 
-Still undecided: exact limb anatomy, height and build range, lifespan, reproduction, sensory abilities, and whether this concept fits Kaldura at all.
+### 4.1 Elves
 
-### 3.2 VESKARA CANDIDATE — THE SAHVREN
+The appearance of elves may vary by subrace. Do not assume all elves share one standardized look or automatically assign them immortality, forest habitats, archery, or cultural superiority.
 
-**Working name:** Sahvren  
-**Possible ancestral home:** Veskara  
-**Design premise:** A people adapted to conserve water and manage extreme heat through specialized skin and moisture handling, not simply a human-like desert culture.
+### 4.2 Orcs
 
-Initial biological sketch:
-- Fine, overlapping reflective structures beneath the outer skin help reduce solar heat absorption; they are not metal armor and do not make the body invulnerable.
-- Their bodies can sharply reduce moisture loss during dry periods, but this slows exertion and recovery.
-- Specialized tissue around the throat and nasal passages recovers some moisture from exhaled air.
+Preserve a recognizable orcish identity if selected, while developing a distinct Edrath-specific nature. Do not define the entire people through aggression or a single warrior stereotype.
 
-What this could offer:
-- A visibly distinctive skin texture that varies between individuals and populations.
-- A practical relationship with water that matters biologically without defining all their customs.
-- Trade-offs: overheating during intense exertion, vulnerability when their moisture reserves are depleted, and the need to shed stored heat after activity.
+### 4.3 Dwarves
 
-Still undecided: how these traits evolved, the limits of their heat tolerance, appearance range, lifespan, and whether they are the only people native to Veskara.
+Explore a recognizable dwarf identity without automatically copying the full package of short stature, beards, underground kingdoms, mining, and blacksmithing.
 
-### 3.3 OTHMERE CANDIDATE — THE EVRANI
+### 4.4 Beastfolk
 
-**Working name:** Evrani  
-**Possible ancestral home:** Othmere  
-**Design premise:** A people whose bodies undergo a major, recurring renewal of their outer tissue and connective structures, making age and physical identity more visibly discontinuous than in familiar humanoids.
+Decide deliberately whether animal-inspired humanoids are one broad category, several distinct races, or another arrangement. Avoid treating them as a generic interchangeable group.
 
-Initial biological sketch:
-- At certain life stages, the outermost layer of skin and some flexible connective tissue are gradually replaced over a period of weeks.
-- The process can leave temporary patterns, altered pigmentation, or changed texture, but it does not erase memory or personality.
-- Renewal requires rest and nutrition; it is a vulnerable period, not a magical cure or a route to immortality.
+### 4.5 Original races
 
-What this could offer:
-- A different relationship between bodily change, age, personal presentation, and the record of a person's life.
-- A natural biological event that communities could interpret in many different ways.
-- Clear limits: renewal does not heal every injury, reverse aging, or guarantee that a person emerges unchanged in appearance.
+After the familiar archetypes have a clear role, create original humanoid peoples that add new ideas rather than repeating the same visual or biological niche.
 
-Still undecided: how often renewal occurs, whether it is universal or variable, and how much of the process is visible to others.
+No details in this section establish the final roster or approve any race's existence, name, biology, or lore, except the human foundation described in the linked document.
 
-### 3.4 SYLVARIS CANDIDATE — THE NHALARI
+## 5. DEVELOPMENT TEMPLATE
 
-**Working name:** Nhalari  
-**Possible ancestral home:** Sylvaris  
-**Design premise:** A people whose skin is a living ecosystem, maintained through a stable symbiosis with microscopic organisms.
+Use this template as a starting point for each race and, where appropriate, each subrace:
 
-Initial biological sketch:
-- A diverse community of harmless symbiotic organisms lives in specialized layers of their skin.
-- The organisms help process certain environmental compounds and can produce subtle shifts in skin coloration or faint light under specific conditions.
-- The symbiosis depends on moisture and a balanced environment; illness, stress, climate, and treatment can change its appearance.
+1. **Name and classification** — race, subrace, and any working terminology.
+2. **Appearance** — recognizable traits, variation within the group, and visual silhouette.
+3. **Specialties** — characteristic strengths, skills, or capabilities.
+4. **Nature and biology** — lifespan, growth, reproduction, senses, and other relevant differences.
+5. **Limitations and trade-offs** — meaningful boundaries that keep the design coherent.
+6. **Origins and history** — what is known about the group's beginnings and development.
+7. **Geographic distribution** — ancestral homeland, regional populations, and migration.
+8. **Cultures and societies** — plural rather than assumed uniform.
+9. **Relationships with other peoples** — historical, political, and personal variation.
+10. **Canon status** — proposal, approved foundation, or established canon.
 
-What this could offer:
-- Skin patterns that are partly biological and partly individual, without functioning as a perfectly reliable lie detector or emotion display.
-- A distinctive relationship with medicine, hygiene, and unfamiliar environments.
-- Trade-offs: harsh dryness, certain chemicals, or disrupted symbiotic balance can cause real health problems.
+Not every section must be answered at once. Start with the appearance and defining premise, then expand only after the concept is working.
 
-Still undecided: whether the Nhalari can exchange chemical signals with one another, whether they have any additional respiratory adaptation, and how much visible light the symbiosis can produce. These should remain modest biological traits, not unrestricted magic.
+## 6. DECISION RULE
 
-### 3.5 UMBRAVA CANDIDATE — THE DRAUVETH
-
-**Working name:** Drauveth  
-**Possible ancestral home:** Umbrava  
-**Design premise:** A cold-adapted people whose bodies can store and ration heat, with a life cycle shaped by long periods of low activity rather than constant exertion.
-
-Initial biological sketch:
-- Specialized tissue near the body's core stores thermal energy and releases it slowly, helping stabilize body temperature.
-- Their metabolism can enter a controlled low-activity state during severe cold or food scarcity, reducing energy needs but also slowing thought and movement.
-- They are not immune to cold: prolonged exposure without sufficient stored energy can become dangerous.
-
-What this could offer:
-- A distinct rhythm of activity and rest, with different consequences for travel, labor, recovery, and survival.
-- A biologically grounded reason for some Drauveth to be associated with Umbrava's cold regions without reducing them to a “tough northern warrior” stereotype.
-- Trade-offs: warming up after torpor takes time, sudden exertion is costly, and the body needs reliable ways to replenish its energy reserves.
-
-Still undecided: whether geothermal environments affect them, how their heat-storage tissue looks or feels, their lifespan, and how they reproduce.
-
-## 4. IMPORTANT CAUTION: THESE ARE NOT FINAL RACE DEFINITIONS
-
-The concepts above are prompts, not a finished taxonomy. We can combine ideas, change names, reject entire concepts, or create peoples with entirely different bodies and life cycles.
-
-No one has yet decided:
-- Whether every continent has one principal ancestral people or several.
-- Whether any of these peoples are related to one another.
-- Whether Edrath has a human-like species at all.
-- How magic, if any, interacts with biology.
-- How intelligence, personhood, and legal status are understood across different societies.
-- Whether additional peoples are native to more than one continent.
-
-## 5. QUESTIONS FOR THE NEXT DESIGN PASS
-
-For each candidate, decide in order:
-
-1. Does the core biological idea feel genuinely distinctive?
-2. Is the name worth keeping, or should it be replaced?
-3. Is the body plan recognizably different without becoming impractical or merely decorative?
-4. What are its most important limitations?
-5. Does it belong on the suggested continent, or would another home make more sense?
-6. What does it experience that other peoples cannot easily experience—and what do other peoples experience more easily than it can?
-
-Only after the core biology is satisfying should we develop detailed appearances, life stages, cultures, societies, histories, and relationships.
-
-## DESIGN GOAL
-
-Edrath's peoples should not feel like familiar fantasy races wearing new names. They should feel like different answers to the question of what an intelligent living being can be.
+A concept is not canon merely because it appears in this workshop. The creator must explicitly approve it before it is treated as an established fact about Edrath.
