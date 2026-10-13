@@ -1,10 +1,10 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 1.3  
+**Version:** 1.4  
 **Status:** Approved Foundational Canon
 
-This registry records the approved foundational decisions for Edrath, including the core Edraen roots and compound rules, the five continents, the initial country-name plan, and the broad climate and geography profiles of each continent.
+This registry records the approved foundational decisions for Edrath, including the core Edraen roots and compound rules, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
 
 ## 1. WORLD AND LANGUAGE
 
@@ -133,17 +133,30 @@ The following broad environmental profiles are approved canon:
 
 These profiles establish broad identities only. Exact coastlines, continent placement, individual feature locations, detailed biome boundaries, and regional climates remain open. See [Continental Climate and Geography](geography/Continental_Climate_and_Geography.md).
 
-## 9. FUTURE DEVELOPMENT — NOT YET AUTHORED
+## 9. APPROVED HUMAN FOUNDATION
+
+The following human foundation is approved canon:
+
+- Humans are a foundational people of Edrath and are intended to be the setting's **“best” race**.
+- Most widely known great kings and queens, major noble houses, governments, and law-enforcement institutions are predominantly human-led.
+- The degree and form of human dominance varies by continent; not every country or institution must be exclusively human.
+- Humans have multiple subraces, each intended to have its own distinguishing physical features, specialties, and other defining traits.
+- The human subrace design framework may also be applied to other races where appropriate.
+
+The political prominence of humans is established. The precise meaning and source of their “best” status, the scope of their role as a founding people, and all details of human subraces remain to be developed. See [Humanity](peoples/Humanity.md).
+
+## 10. FUTURE DEVELOPMENT — NOT YET AUTHORED
 
 The following material remains open for future development:
 
 1. The relative placement, shape, and size of the five continents, plus exact coastlines and detailed maps.
 2. Precise locations and extents of geographic features beyond the approved broad profiles.
-3. Country borders, size, precise placement, governments, and political histories.
-4. Final definitions of races and peoples, their relationships, cultures, religions, and civilizations. Initial brainstorming proposals are recorded in [Race Design Workshop](peoples/Race_Design_Workshop.md); none are canon until explicitly approved.
-5. Additional Edraen roots, vocabulary, grammar, and idioms.
-6. Historical events, conflicts, cosmological details, and narrative lore.
-7. Whether additional countries are needed as the setting develops.
+3. Country borders, size, precise placement, governments, and political histories beyond the approved human-led institutional premise.
+4. Detailed definitions of non-human races and peoples, their subraces, relationships, cultures, religions, and civilizations. See [Race Design Workshop](peoples/Race_Design_Workshop.md); proposals are not canon until explicitly approved.
+5. Names, appearances, specialties, limitations, and geographic origins of human subraces.
+6. Additional Edraen roots, vocabulary, grammar, and idioms.
+7. Historical events, conflicts, cosmological details, and narrative lore.
+8. Whether additional countries are needed as the setting develops.
 
 The current country plan contains four named countries per continent, for a total of 20. This is an approved starting scope, not a claim that the political history of Edrath has always contained exactly 20 countries.
 
