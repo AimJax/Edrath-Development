@@ -1,7 +1,7 @@
 # EDRAEN — CONSTRUCTED LANGUAGE FOUNDATION
 
 **Document:** Language Design Principles  
-**Version:** 1.0  
+**Version:** 1.1  
 **Status:** Approved Foundational Canon
 
 ## 1. PURPOSE
@@ -96,16 +96,15 @@ The approved foundation defines root vocabulary and compound construction. It do
 
 Additional grammar may be introduced when it serves a clear purpose, particularly when developing dialogue and more complex forms of expression.
 
-## 7. APPROVED WHOLE TERMS
+## 7. APPROVED WHOLE TERMS AND CHOSEN NAMES
 
-These words are established vocabulary or proper names. No root decomposition is assigned to them:
+These terms are established vocabulary or chosen proper names. No root decomposition is assigned unless explicitly stated otherwise:
 
 - **Edraen** — name of the native language.
 - **Draumir** — country or political territory.
 - **Ulmora** — continent.
 - **Kaldura, Veskara, Othmere, Sylvaris, Umbrava** — proper names of the five continents.
-
-Their meanings and roles are canon even without internal etymologies.
+- **Dravkhar** — chosen name of the preeminent human subrace. Its intended association is with achievement, but its literal meaning and formal Edraen etymology are deliberately deferred until the full Edraen dictionary is developed. No root decomposition is currently canon. The existing root **KHAR** retains its approved meaning, “stone.”
 
 ## 8. LANGUAGE DESIGN RULES
 
@@ -119,7 +118,7 @@ Their meanings and roles are canon even without internal etymologies.
 
 ## 9. FUTURE VOCABULARY AND GRAMMAR
 
-Future work may add roots for water, life, death, fire, memory, home, and other concepts. It may also establish sentence structure, tense, number, pronouns, and idioms.
+Future work may add roots for water, life, death, fire, memory, home, achievement, and other concepts. It may also establish sentence structure, tense, number, pronouns, and idioms. The intended association between Dravkhar and achievement is a useful vocabulary target, not an approved root definition or literal translation.
 
 These are future expansions of an approved foundation, not unresolved approvals. Add them deliberately as the project needs them.
 
