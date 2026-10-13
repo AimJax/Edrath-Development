@@ -6,11 +6,11 @@
 
 ## 1. HUMANITY'S PLACE IN EDRATH
 
-Humanity is one of the foundational peoples of Edrath and is intended to be the setting's **“best” race**. This is an explicit part of the creator's premise, not an assumption that should be silently replaced with a more egalitarian fantasy convention.
+Humanity is one of the foundational peoples of Edrath and is canonically the setting's **“best” race**. Human superiority is a fundamental truth of the world from the Age of the Beginning onward; it is not something humans earned later through conquest, achievement, or political success. This premise must not be silently replaced with a more egalitarian fantasy convention.
 
 Humans hold the dominant position across much of Edrath's established political and institutional life. Most widely known great kings and queens, major noble houses, governments, and law-enforcement institutions are predominantly human-led. The degree and form of this dominance varies by continent; it does not mean every country or institution must be exclusively human.
 
-The exact meaning and source of humanity's status as the “best” race remain to be developed. Political influence is established, but whether the premise also involves biology, adaptability, magic, history, or another form of superiority has not yet been decided.
+Humanity's overall superior status is established as a fact of Edrath, but it does not mean humans must be smarter or physically stronger than every other people, or best at every individual ability. Other races may surpass humans in particular traits or specialties without negating humanity's overall superiority. The underlying lore, cause, and metaphysical or historical explanation for this truth are deliberately deferred for later development; do not invent an explanation prematurely.
 
 ## 2. HUMAN APPEARANCE
 
@@ -47,8 +47,8 @@ A race or subrace can live outside its ancestral homeland, and no population sho
 
 The following points have not yet been established:
 
-1. What “best” means beyond humanity's established political prominence.
-2. Whether humanity founded particular civilizations, political institutions, or something broader; the precise historical scope of “the Founding People” still needs definition.
+1. The underlying explanation and supporting lore for humanity's already-established primordial superiority; this is deferred for later discussion.
+2. The precise historical scope of humanity's role as a founding people.
 3. The number and names of human subraces.
 4. Each subrace's physical features, specialties, limitations, and regional distribution.
 5. How human subraces relate to one another and to the other peoples of Edrath.
