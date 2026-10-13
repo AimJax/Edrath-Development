@@ -15,7 +15,8 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - **Twenty named countries** — four assigned to each continent in the current country plan.
 - **Five distinct continental profiles** — approved broad climate and geography for each continent.
 - **Core roots** — ED, RATH, AEN, KHAR, VAEL, NHUR, and AETH have approved meanings.
-- **Humanity** — approved as a foundational people and the world's “best” race as a fundamental truth from the Age of the Beginning onward, not a status earned later. Humans dominate much of the world's major political and institutional life, with variation by continent. This does not mean humans must be smarter, stronger, or best at every individual ability. The supporting lore is deferred; human subraces are still under development.
+- **Humanity** — approved as a foundational people and the world's “best” race as a fundamental truth from the Age of the Beginning onward, not a status earned later. Humans dominate much of the world's major political and institutional life, with variation by continent. This does not mean humans must be smarter, stronger, or best at every individual ability.
+- **Dravkhar** — chosen name of the preeminent human subrace. Its core design is approved: broad potential across human pursuits, a recognizable but non-mandatory visual signature, and ordinary human baseline biology. The supporting lore and formal Edraen etymology are deferred.
 - **Other races and peoples** — the design workshop prioritizes recognizable fantasy races, with original races to be developed alongside them. Detailed definitions remain proposals until approved.
 
 ## Documentation
@@ -26,8 +27,8 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - [Geographic Terms and Five Continents](docs/geography/Geographic_Terms_and_Five_Continents.md) — Draumir, Ulmora, the five continents, and country distribution.
 - [Continental Climate and Geography](docs/geography/Continental_Climate_and_Geography.md) — approved broad environmental identities of the five continents.
 - [Countries of the Five Continents](docs/geography/Countries_of_the_Five_Continents.md) — the 20 approved country names and the policy for their etymologies.
-- [Humanity](docs/peoples/Humanity.md) — approved human foundation, political position, and the framework for designing human subraces.
-- [Race Design Workshop](docs/peoples/Race_Design_Workshop.md) — framework for developing recognizable fantasy races and original peoples; detailed concepts remain proposals.
+- [Humanity](docs/peoples/Humanity.md) — approved human foundation and the designed Dravkhar subrace.
+- [Race Design Workshop](docs/peoples/Race_Design_Workshop.md) — framework for developing recognizable fantasy races and original peoples; detailed concepts remain proposals except where explicitly approved.
 
 ## Canon policy
 
@@ -35,7 +36,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - Approved names and words do not require a root-by-root etymology. Where this project explicitly treats a term as an unanalyzed name or lexical item, do not invent an etymology for it.
 - Country names do not need literal meanings in Edraen; place-name origins should only be added when deliberately established.
 - The Canon Registry is the central reference for decisions. Keep all other documents consistent with it.
-- Future development of borders, governments, cultures, histories, and other lore is content that has intentionally not been authored or approved yet, except for the human political foundation recorded in the Canon Registry and Humanity document.
+- Future development of borders, governments, cultures, histories, and other lore is content that has intentionally not been authored or approved yet, except for the human political foundation and Dravkhar core design recorded in the Canon Registry and Humanity document.
 - Treat the approved broad climate and geography profiles as canon. Exact maps, detailed regional geography, peoples, and other unwritten lore must be developed deliberately and recorded in the repository.
 - Documents marked **Working Draft — Proposals Only; Not Canon** are brainstorming material, not established facts about Edrath. Explicitly approved sections remain canon as identified.
 
