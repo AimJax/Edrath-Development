@@ -1,7 +1,7 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 1.2  
+**Version:** 1.3  
 **Status:** Approved Foundational Canon
 
 This registry records the approved foundational decisions for Edrath, including the core Edraen roots and compound rules, the five continents, the initial country-name plan, and the broad climate and geography profiles of each continent.
@@ -140,7 +140,7 @@ The following material remains open for future development:
 1. The relative placement, shape, and size of the five continents, plus exact coastlines and detailed maps.
 2. Precise locations and extents of geographic features beyond the approved broad profiles.
 3. Country borders, size, precise placement, governments, and political histories.
-4. Cultures, peoples, races, religions, languages other than Edraen, and civilizations.
+4. Final definitions of races and peoples, their relationships, cultures, religions, and civilizations. Initial brainstorming proposals are recorded in [Race Design Workshop](peoples/Race_Design_Workshop.md); none are canon until explicitly approved.
 5. Additional Edraen roots, vocabulary, grammar, and idioms.
 6. Historical events, conflicts, cosmological details, and narrative lore.
 7. Whether additional countries are needed as the setting develops.
