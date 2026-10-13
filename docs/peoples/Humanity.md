@@ -28,6 +28,12 @@ Humans have multiple subraces. Each subrace is intended to have its own combinat
 
 These differences should be designed deliberately. A subrace should not be defined by a single superficial cosmetic change alone, nor should every member be forced into the same personality, occupation, culture, or moral role.
 
+### The Preeminent Human Subrace
+
+One human subrace will occupy a particularly prominent position among humanity: across Edrath's history, it has been the lineage most associated with the world's great and historically consequential people. It is the recurring, go-to lineage for figures remembered as great rulers, leaders, founders, and other major historical figures.
+
+This prominence is approved as a setting premise, but it **does not automatically mean that this subrace is biologically better than every other human subrace** or excels at every trait. Its defining appearance, inherited specialty, name, history, and the reasons for its prominence remain undecided. Do not invent the explanation for its status before it is deliberately developed.
+
 **No human subrace names, appearances, specialties, geographic origins, or biological differences have been approved yet.** Those details remain open for collaborative design.
 
 ## 4. DESIGN FRAMEWORK FOR OTHER RACES
@@ -49,9 +55,10 @@ The following points have not yet been established:
 
 1. The underlying explanation and supporting lore for humanity's already-established primordial superiority; this is deferred for later discussion.
 2. The precise historical scope of humanity's role as a founding people.
-3. The number and names of human subraces.
+3. The number and names of human subraces, including the identity of the preeminent subrace.
 4. Each subrace's physical features, specialties, limitations, and regional distribution.
-5. How human subraces relate to one another and to the other peoples of Edrath.
-6. Whether the subrace structure is primarily biological, ancestral, regional, magical, or some combination.
+5. The reasons the preeminent subrace has become the lineage most associated with Edrath's great historical figures.
+6. How human subraces relate to one another and to the other peoples of Edrath.
+7. Whether the subrace structure is primarily biological, ancestral, regional, magical, or some combination.
 
 Develop these decisions collaboratively and record them in the project repository. Do not fill the open questions with assumptions before they are agreed.
