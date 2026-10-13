@@ -143,7 +143,7 @@ The following human foundation is approved canon:
 - Humans have multiple subraces, each intended to have its own distinguishing physical features, specialties, and other defining traits.
 - The human subrace design framework may also be applied to other races where appropriate.
 
-The political prominence of humans is established. The precise meaning and source of their “best” status, the scope of their role as a founding people, and all details of human subraces remain to be developed. See [Humanity](peoples/Humanity.md).
+Humanity's overall superiority has been established as a fundamental truth from the Age of the Beginning onward; it is not earned later and does not require humans to be smarter, stronger, or best at every individual ability. The lore that supports or explains this truth is deliberately deferred for later development. The precise historical scope of humanity's role as a founding people and all details of human subraces also remain to be developed. See [Humanity](peoples/Humanity.md).
 
 ## 10. FUTURE DEVELOPMENT — NOT YET AUTHORED
 
@@ -153,7 +153,7 @@ The following material remains open for future development:
 2. Precise locations and extents of geographic features beyond the approved broad profiles.
 3. Country borders, size, precise placement, governments, and political histories beyond the approved human-led institutional premise.
 4. Detailed definitions of non-human races and peoples, their subraces, relationships, cultures, religions, and civilizations. See [Race Design Workshop](peoples/Race_Design_Workshop.md); proposals are not canon until explicitly approved.
-5. Names, appearances, specialties, limitations, and geographic origins of human subraces.
+5. Names, appearances, specialties, limitations, and geographic origins of human subraces; the underlying lore supporting humanity's established superiority is deferred for later development.
 6. Additional Edraen roots, vocabulary, grammar, and idioms.
 7. Historical events, conflicts, cosmological details, and narrative lore.
 8. Whether additional countries are needed as the setting develops.
