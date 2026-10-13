@@ -1,7 +1,7 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 1.4  
+**Version:** 1.5  
 **Status:** Approved Foundational Canon
 
 This registry records the approved foundational decisions for Edrath, including the core Edraen roots and compound rules, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
@@ -112,6 +112,7 @@ The following are approved terms or proper names. Their recorded roles are canon
 - **Brackenfell, Edevane, Morcant, Dunwery** — country names assigned to Othmere.
 - **Avenelle, Theryn, Caliseth, Ysolde** — country names assigned to Sylvaris.
 - **Dravosk, Keshvar, Oruvain, Varkesh** — country names assigned to Umbrava.
+- **Dravkhar** — chosen name of the preeminent human subrace. Its formal Edraen etymology and literal meaning are intentionally deferred until full dictionary development; do not assign a root decomposition yet.
 
 Country names do not need a literal Edraen meaning. Some may eventually be connected to Edraen or other linguistic histories, but no etymologies are established here and none should be invented merely to justify a name.
 
@@ -138,15 +139,17 @@ These profiles establish broad identities only. Exact coastlines, continent plac
 The following human foundation is approved canon:
 
 - Humans are a foundational people of Edrath and are intended to be the setting's **“best” race**.
-- Most widely known great kings and queens, major noble houses, governments, and law-enforcement institutions are predominantly human-led.
-- The degree and form of human dominance varies by continent; not every country or institution must be exclusively human.
-- Humans have multiple subraces, each intended to have its own distinguishing physical features, specialties, and other defining traits.
-- One human subrace is established as the **preeminent human lineage**: across Edrath's history, it is the lineage most associated with great and historically consequential people.
-- The preeminent lineage has unusually high potential across a broad range of fields, rooted in an inherent quality distinctive to it. Many members remain ordinary; talented members may excel, and rare outliers may reach extraordinary levels. Potential does not guarantee achievement or mastery.
-- The nature of this underlying quality, its concrete manifestations and limitations, and the reasons for the lineage's historical prominence remain open. It is not yet defined as biological, magical, metaphysical, or otherwise.
+- Humanity's overall superiority has been established as a fundamental truth from the Age of the Beginning onward; it is not earned later and does not require humans to be smarter, stronger, or best at every individual ability.
+- Most widely known great kings and queens, major noble houses, governments, and law-enforcement institutions are predominantly human-led. The degree and form of human dominance varies by continent.
+- Humans have multiple subraces with distinguishing physical features, specialties, and other defining traits.
+- **Dravkhar** is the chosen name of the preeminent human subrace. Across Edrath's history, it is the lineage most associated with great and historically consequential people.
+- Dravkhar have unusually broad potential across virtually any field humans can pursue in Edrath. This potential varies from ordinary to exceptional, with rare outliers capable of extraordinary but finite achievements. Potential does not guarantee talent, mastery, success, status, or greatness.
+- Dravkhar's approved core design includes a recognizable but non-mandatory inherited visual signature; ordinary human baseline biology and aging; ancestry-based membership; variable inheritance of appearance through mixed ancestry; moderate population prevalence concentrated in several unspecified regions; and mild tendencies toward determination and competitiveness that are not universal.
+- Dravkhar's formal Edraen etymology and literal compound meaning are deferred until the full Edraen dictionary is developed. The existing root **KHAR** retains its approved meaning, “stone.”
+- The nature of the underlying quality that enables Dravkhar potential, its supporting lore, the lineage's origins, and the reasons for its historical prominence remain open. Do not assume the quality is biological, magical, metaphysical, or otherwise before that is decided.
 - The human subrace design framework may also be applied to other races where appropriate.
 
-Humanity's overall superiority has been established as a fundamental truth from the Age of the Beginning onward; it is not earned later and does not require humans to be smarter, stronger, or best at every individual ability. The lore that supports or explains this truth is deliberately deferred for later development. The precise historical scope of humanity's role as a founding people and all details of human subraces also remain to be developed. See [Humanity](peoples/Humanity.md).
+The lore supporting or explaining humanity's overall superiority and Dravkhar's historical prominence is deliberately deferred. See [Humanity](peoples/Humanity.md).
 
 ## 10. FUTURE DEVELOPMENT — NOT YET AUTHORED
 
@@ -156,7 +159,7 @@ The following material remains open for future development:
 2. Precise locations and extents of geographic features beyond the approved broad profiles.
 3. Country borders, size, precise placement, governments, and political histories beyond the approved human-led institutional premise.
 4. Detailed definitions of non-human races and peoples, their subraces, relationships, cultures, religions, and civilizations. See [Race Design Workshop](peoples/Race_Design_Workshop.md); proposals are not canon until explicitly approved.
-5. Names, appearances, specialties, limitations, and geographic origins of human subraces; the underlying lore supporting humanity's established superiority is deferred for later development.
+5. The supporting lore for humanity's established superiority and Dravkhar's historical prominence; Dravkhar's etymology; its origins and exact regional distribution; the identities of other human subraces; and any later-defined bloodline distinctions.
 6. Additional Edraen roots, vocabulary, grammar, and idioms.
 7. Historical events, conflicts, cosmological details, and narrative lore.
 8. Whether additional countries are needed as the setting develops.
