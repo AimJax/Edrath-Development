@@ -12,21 +12,24 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - **Ulmora** — the Edraen word for a continent.
 - **Rathaen** — the Edraen general term for “the eternal world.”
 - **Five continents** — Kaldura, Veskara, Othmere, Sylvaris, and Umbrava.
+- **Twenty named countries** — four assigned to each continent in the current country plan.
 - **Core roots** — ED, RATH, AEN, KHAR, VAEL, NHUR, and AETH have approved meanings.
 
 ## Documentation
 
-- [Canon Registry](docs/00_Canon_Registry.md) — definitive list of approved foundational decisions and the boundary between established canon and content not yet developed.
+- [Canon Registry](docs/00_Canon_Registry.md) — definitive list of approved decisions and the boundary between established canon and content not yet developed.
 - [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — approved root meanings, compound patterns, and pronunciation conventions.
 - [Edrath and Rathaen](docs/cosmology/Edrath_and_Rathaen.md) — approved planetary and world terminology.
-- [Geographic Terms and Five Continents](docs/geography/Geographic_Terms_and_Five_Continents.md) — Draumir, Ulmora, and the five approved continent names.
+- [Geographic Terms and Five Continents](docs/geography/Geographic_Terms_and_Five_Continents.md) — Draumir, Ulmora, the five continents, and country distribution.
+- [Countries of the Five Continents](docs/geography/Countries_of_the_Five_Continents.md) — the 20 approved country names and the policy for their etymologies.
 
 ## Canon policy
 
 - **Approved Canon** is established unless deliberately revised by the creator.
 - Approved names and words do not require a root-by-root etymology. Where this project explicitly treats a term as an unanalyzed name or lexical item, do not invent an etymology for it.
+- Country names do not need literal meanings in Edraen; place-name origins should only be added when deliberately established.
 - The Canon Registry is the central reference for decisions. Keep all other documents consistent with it.
-- Future development of geography, countries, cultures, histories, and other lore is not an unresolved approval. It is content that has intentionally not been authored yet.
+- Future development of borders, governments, cultures, histories, and other lore is not an unresolved approval. It is content that has intentionally not been authored yet.
 - Do not silently add facts about the continents or their inhabitants. New lore must be developed deliberately and recorded in the repository.
 
 ## Design philosophy
