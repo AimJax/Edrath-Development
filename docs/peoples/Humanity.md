@@ -32,7 +32,11 @@ These differences should be designed deliberately. A subrace should not be defin
 
 One human subrace will occupy a particularly prominent position among humanity: across Edrath's history, it has been the lineage most associated with the world's great and historically consequential people. It is the recurring, go-to lineage for figures remembered as great rulers, leaders, founders, and other major historical figures.
 
-This prominence is approved as a setting premise, but it **does not automatically mean that this subrace is biologically better than every other human subrace** or excels at every trait. Its defining appearance, inherited specialty, name, history, and the reasons for its prominence remain undecided. Do not invent the explanation for its status before it is deliberately developed.
+This prominence is approved as a setting premise. The lineage's defining direction is also approved: its members have unusually high potential across a broad range of fields, grounded in an inherent quality distinctive to the lineage. This is not limited to one specialty such as strength, intelligence, or magic.
+
+That potential varies between individuals and does not guarantee achievement. Many members live entirely ordinary lives; some become notably talented, while rare outliers may reach extraordinary, almost unfair levels of capability in their chosen fields. The lineage's advantage is a higher potential ceiling, not automatic mastery or guaranteed greatness.
+
+The nature of the underlying quality remains deliberately undefined. It has not been decided whether it is biological, magical, metaphysical, or something else, and no explanation for the lineage's historical prominence should be invented prematurely. Its name, specific appearance, concrete manifestations, limitations, history, and the reasons for its prominence remain undecided.
 
 **No human subrace names, appearances, specialties, geographic origins, or biological differences have been approved yet.** Those details remain open for collaborative design.
 
@@ -57,8 +61,9 @@ The following points have not yet been established:
 2. The precise historical scope of humanity's role as a founding people.
 3. The number and names of human subraces, including the identity of the preeminent subrace.
 4. Each subrace's physical features, specialties, limitations, and regional distribution.
-5. The reasons the preeminent subrace has become the lineage most associated with Edrath's great historical figures.
-6. How human subraces relate to one another and to the other peoples of Edrath.
-7. Whether the subrace structure is primarily biological, ancestral, regional, magical, or some combination.
+5. The nature and concrete manifestations of the preeminent lineage's unusually high potential, including its limitations.
+6. The reasons the preeminent subrace has become the lineage most associated with Edrath's great historical figures.
+7. How human subraces relate to one another and to the other peoples of Edrath.
+8. Whether the subrace structure is primarily biological, ancestral, regional, magical, or some combination.
 
 Develop these decisions collaboratively and record them in the project repository. Do not fill the open questions with assumptions before they are agreed.
