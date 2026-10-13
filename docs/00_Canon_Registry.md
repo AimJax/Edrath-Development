@@ -1,89 +1,121 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 0.1  
-**Status:** Working Canon
+**Version:** 1.0  
+**Status:** Approved Foundational Canon
 
-This document summarizes the current decisions made for Edrath. It distinguishes approved names and vocabulary from unresolved etymologies and language rules.
+This registry records the approved foundational decisions for Edrath. The decisions below settle the earlier proposals about core roots, compound-word order, basic pronunciation conventions, and the names Edrath and Rathaen.
 
 ## 1. WORLD AND LANGUAGE
 
-| Concept | Term | Status | Notes |
-|---|---|---|---|
-| Planet | Edrath | Approved name | Planetary name is established; its proposed root etymology remains provisional. |
-| Native language | Edraen | Approved name | The language's definitive phonology and the name's etymology remain open. |
-| World (general concept) | Rathaen | Working term | Intended to mean “world” or “the eternal world”; construction remains unresolved. |
-| Country | Draumir | Approved vocabulary | General Edraen word for a country; not a proper name for one specific country. |
-| Continent | Ulmora | Approved vocabulary | General Edraen word for a continent; not a proper name for one specific continent. |
-
-## 2. THE FIVE CONTINENTS
-
-The world has five major continents. Their proper names are approved canon:
-
-| Number | Proper Name | Status |
+| Concept | Term | Approved meaning or role |
 |---|---|---|
-| 1 | Kaldura | Approved Canon |
-| 2 | Veskara | Approved Canon |
-| 3 | Othmere | Approved Canon |
-| 4 | Sylvaris | Approved Canon |
-| 5 | Umbrava | Approved Canon |
+| Planet | Edrath | Proper name of the planet; “The Primordial World.” |
+| Native language | Edraen | Approved name of the native language. It is an unanalyzed proper name; no root decomposition is part of canon. |
+| World (general concept) | Rathaen | “The Eternal World”; general Edraen term for a world or enduring realm of existence. |
+| Country | Draumir | General Edraen term for a country or political territory. |
+| Continent | Ulmora | General Edraen term for a continent. |
 
-Pronunciations currently used in project notes:
+## 2. APPROVED CORE ROOTS
 
-- **Kaldura** — kal-DOOR-ah
-- **Veskara** — ves-KAR-ah
-- **Othmere** — OTH-meer
-- **Sylvaris** — sil-VAIR-iss
-- **Umbrava** — um-BRAH-vah
+These meanings are approved vocabulary and may be used to construct further words according to the compound rules in Section 4.
 
-The names are approved. Their etymologies, geography, cultures, histories, civilizations, and political structures have not yet been developed.
-
-## 3. CURRENT ROOT PROPOSALS
-
-| Root | Proposed meaning | Status |
+| Root | Approved meaning | Pronunciation guide |
 |---|---|---|
-| ED | Primordial; original; that which existed from the beginning | Provisional |
-| RATH | World; encompassing realm of existence | Provisional |
-| AEN | Eternal; enduring beyond generations and ages | Provisional |
+| ED | Primordial; original; that which existed from the beginning | ed |
+| RATH | World; encompassing realm of existence | rath; TH as in “thin” |
+| AEN | Eternal; enduring beyond generations and ages | ayn, rhyming approximately with “rain” |
+| KHAR | Stone | khar; KH as in Scottish “loch” |
+| VAEL | Heart | vayl |
+| NHUR | Night | noor; NH is pronounced as N |
+| AETH | Sky | ayth; TH as in “thin” |
 
-These root meanings have appeared in working notes but have not been formally approved as definitive vocabulary.
+The pronunciation guides are practical reader aids rather than a complete phonetic transcription. Approved proper-name pronunciations listed elsewhere remain fixed.
 
-## 4. COMPOUND-WORD RULE
+## 3. THE FIVE CONTINENTS
 
-The initial Edraen compound pattern is:
+The five major continents and their pronunciations are approved canon:
 
-**DESCRIBING ROOT + MAIN CONCEPT ROOT = COMPOUND WORD**
+| Number | Proper name | Pronunciation |
+|---|---|---|
+| 1 | Kaldura | kal-DOOR-ah |
+| 2 | Veskara | ves-KAR-ah |
+| 3 | Othmere | OTH-meer |
+| 4 | Sylvaris | sil-VAIR-iss |
+| 5 | Umbrava | um-BRAH-vah |
 
-The final root identifies the main concept; preceding roots describe or modify it.
+Their proper names are approved independently of any etymology. By decision, these five names are treated as unanalyzed proper names: no root-by-root meanings are assigned to them in current canon.
 
-**Edrath = ED + RATH** follows this pattern under the current proposed etymology.
+## 4. APPROVED COMPOUND-WORD RULES
 
-**Rathaen = RATH + AEN** places the main concept first and therefore does not follow the initial pattern. Whether Edraen permits a second compound pattern has not yet been decided. Do not treat the etymology or construction of Rathaen as settled until that question is resolved.
+Edraen has two approved patterns for root compounds.
 
-## 5. LANGUAGE DESIGN PRINCIPLES
+### Pattern A — Descriptive compound
 
-- Build vocabulary from reusable roots instead of inventing every word independently.
-- Keep the rules simple, consistent, and extensible.
-- Avoid repetitive sounds and endings across major names.
-- Allow words to gain cultural, metaphorical, historical, religious, and poetic meanings when supported by plausible usage.
-- Mark examples and etymologies as provisional unless explicitly approved.
-- Resolve contradictions deliberately rather than hiding them behind exceptions.
+**DESCRIBING ROOT + MAIN CONCEPT ROOT**
 
-## 6. WORLD DESIGN DIRECTION
+The final root names the main concept; the preceding root describes or modifies it.
+
+- **ED + RATH = EDRATH** — “The Primordial World.”
+- **KHAR + VAEL = KHARVAEL** — literally “stone-heart.”
+- **NHUR + AETH = NHURAETH** — literally “night-sky.”
+
+### Pattern B — Concept plus state or quality
+
+**MAIN CONCEPT ROOT + STATE/QUALITY ROOT**
+
+The first root identifies the concept, and the second gives its defining state or quality. In natural English, the resulting meaning may be expressed with the quality first.
+
+- **RATH + AEN = RATHAEN** — literally “world-eternal,” naturally rendered “The Eternal World.”
+
+Both patterns are approved. Pattern B is a productive rule, not an exception invented only for Rathaen. Compounds must use roots whose meanings and grammatical roles make sense in the chosen pattern.
+
+Roots join directly by default. Do not add linking vowels, endings, or sound changes unless a later language rule explicitly requires them.
+
+## 5. APPROVED PRONUNCIATION AND SPELLING CONVENTIONS
+
+These are the current foundational conventions for newly coined Edraen vocabulary:
+
+- The core vowels are **A, E, I, O, U**.
+- The established digraphs **AE** and **AU** are permitted; AE is approximately the vowel in English “day,” and AU is approximately the vowel in English “now.”
+- **TH** is pronounced as in English “thin.”
+- **KH** is pronounced like the final consonant in Scottish “loch.”
+- **NH** in the approved root NHUR is pronounced as N.
+- The default stress falls on the penultimate (second-to-last) syllable.
+- Approved names retain their recorded pronunciation guides, including established lexical pronunciations that do not follow the default stress convention.
+- New words should be easy to pronounce, and spelling should remain consistent once a word is established.
+
+These conventions are intentionally compact. They are sufficient for current vocabulary work; a more technical phonetic transcription is not required for ordinary development.
+
+## 6. LEXICALIZED TERMS WITHOUT ROOT DECOMPOSITION
+
+The following are approved whole terms. Their meanings are canon; no internal decomposition is assigned:
+
+- **Edraen** — the native language's name.
+- **Draumir** — country or political territory.
+- **Ulmora** — continent.
+- **Kaldura, Veskara, Othmere, Sylvaris, Umbrava** — proper names of the five continents.
+
+Their etymologies are not pending questions. They are intentionally outside the current canon unless the creator later chooses to revise that decision.
+
+## 7. WORLD DESIGN DIRECTION
 
 Edrath is inspired by the scale, layered history, and cultural depth of *The Elder Scrolls*, but must develop its own identity rather than copy its geography, peoples, lore, or narrative structures.
 
 The aim is a coherent world in which geography, history, politics, language, religion, and culture affect one another.
 
-## 7. OPEN QUESTIONS
+## 8. FUTURE DEVELOPMENT — NOT PENDING APPROVAL
 
-1. Define Edraen's sound inventory, pronunciation, stress, and spelling rules.
-2. Decide whether Edraen permits more than one compound-word order.
-3. Confirm or revise the proposed etymologies of Edrath and Rathaen.
-4. Establish a core set of approved roots.
-5. Develop the geography and relative placement of the five continents.
-6. Develop individual countries and their histories only after the broad world framework is established.
+The following material has not yet been authored. It is deliberately left open for future creative work and is not an unresolved decision in the foundational canon:
+
+1. The geographic layout, climate, landforms, and relative placement of the five continents.
+2. Countries, borders, governments, and political histories.
+3. Cultures, peoples, religions, languages other than Edraen, and civilizations.
+4. Additional Edraen roots, vocabulary, grammar, and idioms.
+5. Historical events, conflicts, cosmological details, and narrative lore.
+
+Do not invent these details merely to fill a checklist. Develop them when the project reaches that stage and document the decisions in GitHub.
 
 ## CANON RULE
 
-An approved name remains approved even if its etymology is unknown. A proposed etymology does not become canon merely because the name itself is approved.
+The decisions in this registry are approved foundational canon. Changes require an explicit later decision. Future content can expand the world without contradicting the foundations above.
