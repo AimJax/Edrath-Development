@@ -1,7 +1,7 @@
 # EDRATH — RACE DESIGN WORKSHOP
 
 **Document:** Race and People Design Framework  
-**Version:** 0.2  
+**Version:** 0.3  
 **Status:** Working Draft — Proposals Only, except where linked canon is explicitly identified
 
 ## 1. PURPOSE
@@ -31,13 +31,13 @@ The approved human premise is summarized here; the full details are in [Humanity
 - Most widely known great monarchs, major noble houses, governments, and law-enforcement institutions are predominantly human-led.
 - Human dominance varies by continent.
 - Humans have multiple subraces, each intended to have distinctive features, specialties, and other defining traits.
-- One human subrace is the preeminent lineage associated across Edrath's history with great and historically consequential people.
-- The preeminent lineage has unusually high potential across a broad range of fields, rooted in an inherent quality distinctive to it; it is not limited to one specialty.
-- Potential varies between individuals: many live ordinary lives, some become notably talented, and rare outliers may reach extraordinary levels. Potential does not guarantee achievement.
-- The nature of the underlying quality, its manifestations, and its limitations remain undefined; do not assume it is biological, magical, or metaphysical before that is decided.
-- This subrace design framework may also be used for other races where appropriate.
+- **Dravkhar** is the chosen name of the preeminent human subrace and its core design is approved. It is the human lineage most associated with great and historically consequential people across Edrath's history.
+- Dravkhar potential is broad, spanning virtually any field humans can pursue, but it does not guarantee achievement. Many members remain ordinary; rare outliers can reach extraordinary but finite levels in a primary field.
+- Dravkhar have a recognizable but non-mandatory visual signature, ordinary human baseline biology and aging, ancestry-based membership, variable inheritance through mixed ancestry, moderate prevalence concentrated in several as-yet-unspecified regions, and mild non-universal tendencies toward determination and competitiveness.
+- The underlying quality behind Dravkhar potential, its supporting lore, origins, and reasons for historical prominence remain deferred.
+- The formal Edraen etymology and literal meaning of **Dravkhar** are also deferred until the full Edraen dictionary is developed. The existing root **KHAR** continues to mean “stone”; no new decomposition is currently canon.
 
-The lore that supports or explains humanity's established superiority is intentionally deferred for later discussion. The identities and details of all human subraces, including the preeminent lineage, also remain to be developed.
+The lore that supports or explains humanity's established superiority and Dravkhar's historical prominence is intentionally deferred for later discussion.
 
 ## 4. RECOGNIZABLE RACES TO EXPLORE
 
