@@ -142,7 +142,8 @@ The following human foundation is approved canon:
 - The degree and form of human dominance varies by continent; not every country or institution must be exclusively human.
 - Humans have multiple subraces, each intended to have its own distinguishing physical features, specialties, and other defining traits.
 - One human subrace is established as the **preeminent human lineage**: across Edrath's history, it is the lineage most associated with great and historically consequential people.
-- This preeminence does not automatically mean that the lineage is biologically better than every other human subrace or excels at every trait; its identity and the reasons for its prominence remain open.
+- The preeminent lineage has unusually high potential across a broad range of fields, rooted in an inherent quality distinctive to it. Many members remain ordinary; talented members may excel, and rare outliers may reach extraordinary levels. Potential does not guarantee achievement or mastery.
+- The nature of this underlying quality, its concrete manifestations and limitations, and the reasons for the lineage's historical prominence remain open. It is not yet defined as biological, magical, metaphysical, or otherwise.
 - The human subrace design framework may also be applied to other races where appropriate.
 
 Humanity's overall superiority has been established as a fundamental truth from the Age of the Beginning onward; it is not earned later and does not require humans to be smarter, stronger, or best at every individual ability. The lore that supports or explains this truth is deliberately deferred for later development. The precise historical scope of humanity's role as a founding people and all details of human subraces also remain to be developed. See [Humanity](peoples/Humanity.md).
