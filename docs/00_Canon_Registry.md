@@ -1,10 +1,10 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 1.0  
+**Version:** 1.1  
 **Status:** Approved Foundational Canon
 
-This registry records the approved foundational decisions for Edrath. The decisions below settle the earlier proposals about core roots, compound-word order, basic pronunciation conventions, and the names Edrath and Rathaen.
+This registry records the approved foundational decisions for Edrath, including the core Edraen roots and compound rules, the five continents, and the initial country-name plan.
 
 ## 1. WORLD AND LANGUAGE
 
@@ -87,16 +87,21 @@ These are the current foundational conventions for newly coined Edraen vocabular
 
 These conventions are intentionally compact. They are sufficient for current vocabulary work; a more technical phonetic transcription is not required for ordinary development.
 
-## 6. LEXICALIZED TERMS WITHOUT ROOT DECOMPOSITION
+## 6. APPROVED PLACE NAMES WITHOUT ASSIGNED ETYMOLOGIES
 
-The following are approved whole terms. Their meanings are canon; no internal decomposition is assigned:
+The following are approved terms or proper names. Their recorded roles are canon; no internal decomposition is assigned unless explicitly stated otherwise.
 
 - **Edraen** — the native language's name.
 - **Draumir** — country or political territory.
 - **Ulmora** — continent.
 - **Kaldura, Veskara, Othmere, Sylvaris, Umbrava** — proper names of the five continents.
+- **Orvane, Kelvarn, Sadrik, Mavren** — country names assigned to Kaldura.
+- **Tazhen, Ilyara, Khorvek, Seredin** — country names assigned to Veskara.
+- **Brackenfell, Edevane, Morcant, Dunwery** — country names assigned to Othmere.
+- **Avenelle, Theryn, Caliseth, Ysolde** — country names assigned to Sylvaris.
+- **Dravosk, Keshvar, Oruvain, Varkesh** — country names assigned to Umbrava.
 
-Their etymologies are not pending questions. They are intentionally outside the current canon unless the creator later chooses to revise that decision.
+Country names do not need a literal Edraen meaning. Some may eventually be connected to Edraen or other linguistic histories, but no etymologies are established here and none should be invented merely to justify a name.
 
 ## 7. WORLD DESIGN DIRECTION
 
@@ -104,18 +109,21 @@ Edrath is inspired by the scale, layered history, and cultural depth of *The Eld
 
 The aim is a coherent world in which geography, history, politics, language, religion, and culture affect one another.
 
-## 8. FUTURE DEVELOPMENT — NOT PENDING APPROVAL
+## 8. FUTURE DEVELOPMENT — NOT YET AUTHORED
 
-The following material has not yet been authored. It is deliberately left open for future creative work and is not an unresolved decision in the foundational canon:
+The following material remains open for future development:
 
 1. The geographic layout, climate, landforms, and relative placement of the five continents.
-2. Countries, borders, governments, and political histories.
+2. Country borders, size, precise placement, governments, and political histories.
 3. Cultures, peoples, religions, languages other than Edraen, and civilizations.
 4. Additional Edraen roots, vocabulary, grammar, and idioms.
 5. Historical events, conflicts, cosmological details, and narrative lore.
+6. Whether additional countries are needed as the setting develops.
 
-Do not invent these details merely to fill a checklist. Develop them when the project reaches that stage and document the decisions in GitHub.
+The current country plan contains four named countries per continent, for a total of 20. This is an approved starting scope, not a claim that the political history of Edrath has always contained exactly 20 countries.
+
+Do not invent unwritten details merely to fill a checklist. Develop them when the project reaches that stage and document the decisions in GitHub.
 
 ## CANON RULE
 
-The decisions in this registry are approved foundational canon. Changes require an explicit later decision. Future content can expand the world without contradicting the foundations above.
+The decisions in this registry are approved canon. Changes require an explicit later decision. Future content can expand the world without contradicting the foundations above.
