@@ -1,135 +1,131 @@
 # EDRAEN — CONSTRUCTED LANGUAGE FOUNDATION
 
 **Document:** Language Design Principles  
-**Version:** 0.3 — Canon Consolidation  
-**Status:** Working Canon
+**Version:** 1.0  
+**Status:** Approved Foundational Canon
 
 ## 1. PURPOSE
 
 Edraen is the native language associated with Edrath. It should feel as though it belongs to a real civilization, not a fantasy naming generator.
 
-It should have a distinct identity and allow a substantial vocabulary to be created without inventing every word independently.
-
-The language must be simple enough for its creator to develop and use, yet deep enough to support history, culture, poetry, religion, everyday speech, and ancient traditions.
+It should have a distinct identity and allow a substantial vocabulary to be created without inventing every word independently. The language must be simple enough to develop and use, yet deep enough to support history, culture, poetry, religion, everyday speech, and ancient traditions.
 
 **Core principle: Simple rules. Distinctive sounds. Deep meanings.**
 
-## 2. ROOT WORDS
+## 2. APPROVED CORE ROOTS
 
-Edraen is designed around fundamental root words. Each root represents a basic concept, such as:
+Each root has an approved meaning. The roots can be combined to form new vocabulary according to the two compound patterns in Section 3.
 
-- Stone
-- Water
-- Sky
-- Night
-- Life
-- Death
-- Heart
-- Fire
-- Memory
-- Home
+| Root | Meaning | Pronunciation guide |
+|---|---|---|
+| ED | Primordial; original; that which existed from the beginning | ed |
+| RATH | World; encompassing realm of existence | rath; TH as in “thin” |
+| AEN | Eternal; enduring beyond generations and ages | ayn, rhyming approximately with “rain” |
+| KHAR | Stone | khar; KH as in Scottish “loch” |
+| VAEL | Heart | vayl |
+| NHUR | Night | noor; NH is pronounced as N |
+| AETH | Sky | ayth; TH as in “thin” |
 
-Roots are reusable components. Existing roots can combine to express new concepts, keeping the vocabulary manageable and productive.
+These seven roots are the approved initial core. Additional concepts—such as water, life, death, fire, memory, and home—are useful targets for future vocabulary creation, but their Edraen words have not been coined by this foundation.
 
-The examples above are categories of concepts, not a list of approved Edraen words. Every actual root must have a defined meaning and consistent usage before it is treated as established vocabulary.
+## 3. APPROVED COMPOUND PATTERNS
 
-## 3. COMPOUND WORDS
+Two or more roots can combine to form a word whose meaning derives from its components. Roots join directly by default.
 
-Two or more roots can combine to form a new word whose meaning derives from its components.
+### Pattern A — Describing root + main concept root
 
-The initial compound pattern is:
+The final root identifies the main concept; the preceding root describes or modifies it.
 
 **DESCRIBING ROOT + MAIN CONCEPT ROOT = COMPOUND WORD**
 
-The final root identifies the main concept, while the preceding root describes or modifies it.
+Examples:
 
-Illustrative examples only:
+- **ED + RATH = EDRATH** — “The Primordial World.”
+- **KHAR + VAEL = KHARVAEL** — “stone-heart.”
+- **NHUR + AETH = NHURAETH** — “night-sky.”
 
-- Khar = Stone
-- Vael = Heart
-- Nhur = Night
-- Aeth = Sky
+### Pattern B — Main concept root + state or quality root
 
-Khar + Vael = Kharvael  
-Literal interpretation: “Stone-heart.”
+The first root identifies the concept, and the second root gives its state or defining quality. The natural English rendering may place the quality first.
 
-Nhur + Aeth = Nhuraeth  
-Literal interpretation: “Night-sky.”
+**MAIN CONCEPT ROOT + STATE/QUALITY ROOT = COMPOUND WORD**
 
-These examples demonstrate the construction method only. The roots and meanings above are provisional, not established vocabulary.
+Example:
 
-Roots should join directly wherever possible. Any additional compound pattern must be defined explicitly and used consistently.
+- **RATH + AEN = RATHAEN** — literally “world-eternal,” naturally rendered “The Eternal World.”
 
-## 4. PRONUNCIATION AND SOUND
+Pattern B is an approved general rule, not an exception limited to Rathaen. Use it when the second root genuinely functions as a state or quality. Do not switch root order arbitrarily.
 
-Edraen should have a recognizable sound identity. Its vocabulary should feel related, as though words developed within the same linguistic tradition.
+### Joining rules
 
-Roots should combine naturally without requiring complicated grammatical transformations. The initial approach favors direct joining; sound changes may be introduced when they improve consistency or naturalness.
+1. Join roots directly in the order required by the chosen pattern.
+2. Do not add linking vowels or grammatical endings by default.
+3. Preserve established spelling when combining roots.
+4. Do not invent new root meanings merely to justify a desired compound.
+5. A compound's figurative meaning may develop through culture and usage, but its literal construction should remain explainable.
 
-The intended aesthetic is ancient, distinctive, and unfamiliar without becoming unnecessarily difficult to pronounce.
+## 4. APPROVED PRONUNCIATION AND SPELLING CONVENTIONS
 
-The exact sound inventory, pronunciation rules, stress patterns, and spelling conventions have not yet been established.
+These conventions are intentionally compact and govern newly coined vocabulary:
 
-**Edraen** is the approved name of the language. Its internal etymology and definitive pronunciation remain open.
+- The core vowels are **A, E, I, O, U**.
+- The digraph **AE** is approximately the vowel in English “day.”
+- The digraph **AU** is approximately the vowel in English “now.”
+- **TH** is pronounced as in English “thin.”
+- **KH** is pronounced like the final consonant in Scottish “loch.”
+- **NH** in the approved root NHUR is pronounced as N.
+- Default stress falls on the penultimate (second-to-last) syllable.
+- Established proper names retain their approved pronunciation guides. Their reader-friendly guides take precedence over mechanically applying the default stress rule.
+- Once a new word's pronunciation is established, record it and use it consistently.
+
+These are practical conventions, not a requirement to transcribe every word in the International Phonetic Alphabet.
 
 ## 5. MEANING AND CULTURAL DEPTH
 
 A compound's meaning can evolve beyond its literal interpretation through cultural usage, metaphor, historical events, religion, and everyday speech.
 
-For example, a word literally meaning “stone-heart” might come to describe steadfastness, stubbornness, or emotional coldness.
+For example, **Kharvael**, literally “stone-heart,” could acquire figurative meanings such as steadfastness, stubbornness, or emotional coldness if the cultures of Edrath use it that way. These figurative senses are examples of possible linguistic development, not separate canon definitions yet.
 
-Such developments should emerge plausibly from the world's cultures rather than being assigned merely to make a word sound profound.
-
-Some words may eventually acquire meanings that cannot be understood by analyzing their roots alone. Their original meanings may become obscure or forgotten.
+Some words may eventually acquire meanings that cannot be understood by analyzing their roots alone. Their original meanings may become obscure or forgotten. Such developments should emerge plausibly from the world's cultures rather than being assigned merely to make a word sound profound.
 
 ## 6. GRAMMATICAL COMPLEXITY
 
-Edraen should begin with a minimal grammatical framework.
+Edraen begins with a minimal grammatical framework. Avoid unnecessary conjugations, arbitrary endings, excessive exceptions, and rules that make vocabulary creation burdensome.
 
-Avoid unnecessary conjugations, arbitrary endings, excessive exceptions, and complicated rules that make vocabulary creation burdensome.
+The approved foundation defines root vocabulary and compound construction. It does not yet define a full grammar for tense, number, case, articles, word order in sentences, or agreement. These are future development topics, not contradictions in the current rules.
 
 Additional grammar may be introduced when it serves a clear purpose, particularly when developing dialogue and more complex forms of expression.
 
-The objective is a consistent, extensible system that can grow alongside Edrath.
+## 7. APPROVED WHOLE TERMS
 
-## 7. CANON RULES
+These words are established vocabulary or proper names. No root decomposition is assigned to them:
 
-1. Root words must have defined meanings and consistent usage.
-2. Compound words must follow established construction rules.
-3. New vocabulary must fit the developing sound system.
-4. Figurative and cultural meanings must have plausible origins.
-5. Provisional examples must not become canon automatically.
-6. Contradictions must be resolved deliberately rather than hidden behind exceptions.
-7. New grammatical or compound patterns must be explicitly defined before use.
-8. The creator of Edrath has final authority over Edraen and its meaning.
+- **Edraen** — name of the native language.
+- **Draumir** — country or political territory.
+- **Ulmora** — continent.
+- **Kaldura, Veskara, Othmere, Sylvaris, Umbrava** — proper names of the five continents.
 
-## 8. RELATIONSHIP BETWEEN LANGUAGE AND WORLD
+Their meanings and roles are canon even without internal etymologies.
 
-- **Edrath** is the proper name of the planet.
-- **Edraen** is the name of its native language.
-- **Draumir** is the Edraen word for “country.”
-- **Ulmora** is the Edraen word for “continent.”
-- **Rathaen** is the current working term for “world,” but its etymology and compound structure remain unresolved.
+## 8. LANGUAGE DESIGN RULES
 
-The native terms must be developed within Edraen's internal logic. The approval of a term does not automatically establish a literal root-by-root etymology.
+1. Approved roots retain the meanings recorded in this document.
+2. Compounds must follow one of the two approved patterns.
+3. New vocabulary must fit the established spelling and pronunciation conventions.
+4. Figurative and cultural meanings should have plausible origins.
+5. New roots and words should be recorded before being treated as established vocabulary.
+6. Do not create exceptions merely to rescue an inconsistent compound.
+7. The creator of Edrath has final authority over Edraen and its meaning.
 
-## 9. DEVELOPMENT ORDER
+## 9. FUTURE VOCABULARY AND GRAMMAR
 
-1. Establish the sound identity and pronunciation rules.
-2. Create a small collection of fundamental roots.
-3. Define the rules for combining roots.
-4. Review existing proposed roots and etymologies.
-5. Expand vocabulary through compounds.
-6. Develop figurative meanings and culturally significant expressions.
-7. Establish additional grammar as practical needs arise.
-8. Develop terminology for cosmology, geography, and other important concepts.
-9. Test the language through practical usage, dialogue, cultural traditions, and historical development.
+Future work may add roots for water, life, death, fire, memory, home, and other concepts. It may also establish sentence structure, tense, number, pronouns, and idioms.
+
+These are future expansions of an approved foundation, not unresolved approvals. Add them deliberately as the project needs them.
 
 ## DESIGN PHILOSOPHY
 
-Edraen should feel as though its speakers inherited it, not as though someone designed it merely to sound fantastical.
-
-Its words may be mysterious to outsiders but ordinary and meaningful to the people who use them.
+Edraen should feel as though its speakers inherited it, not as though someone designed it merely to sound fantastical. Its words may be mysterious to outsiders but ordinary and meaningful to the people who use them.
 
 The language must be coherent enough that new words can be created from established principles rather than invented independently.
 
