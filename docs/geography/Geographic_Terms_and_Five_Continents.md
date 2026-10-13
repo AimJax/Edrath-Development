@@ -1,14 +1,14 @@
 # EDRATH — GEOGRAPHIC TERMS AND THE FIVE CONTINENTS
 
 **Document:** Geographic Naming Foundation  
-**Version:** 1.0  
+**Version:** 1.1  
 **Status:** Approved Foundational Canon
 
 ## 1. PURPOSE
 
 Edrath has five major continents, each with its own approved proper name. Edraen provides general terms for geographical and political concepts.
 
-The names establish part of the world's identity. The continents' geography, cultures, civilizations, histories, and political structures have intentionally not yet been authored.
+The five continent names and the initial set of 20 country names are established. The continents' physical geography, cultures, civilizations, histories, and political structures have intentionally not yet been authored.
 
 **Core principle: Distinct names. Consistent language. Meaningful origins.**
 
@@ -61,17 +61,20 @@ Edrath has five major continents. All five proper names and their pronunciation 
 
 The five names are treated as unanalyzed proper names. No root-by-root meanings or etymologies are assigned to them in current canon.
 
-## 4. GENERAL TERMS AND PROPER NAMES
+## 4. COUNTRY DISTRIBUTION
 
-- **Draumir** — a country or political territory, as a general concept.
-- **Ulmora** — a continent, as a general concept.
-- **Kaldura** — the proper name of one continent.
-- **Veskara** — the proper name of one continent.
-- **Othmere** — the proper name of one continent.
-- **Sylvaris** — the proper name of one continent.
-- **Umbrava** — the proper name of one continent.
+The current plan assigns four named countries to each continent, for **20 countries total**. The complete list and naming policy are recorded in [Countries of the Five Continents](Countries_of_the_Five_Continents.md).
 
-The general terms and proper names serve different purposes. Approval of a name does not establish the geography, cultures, history, or political structure of the place.
+| Continent | Number of named countries |
+|---|---:|
+| Kaldura | 4 |
+| Veskara | 4 |
+| Othmere | 4 |
+| Sylvaris | 4 |
+| Umbrava | 4 |
+| **Total** | **20** |
+
+This is a deliberate scope choice intended to make each country substantial enough to develop in detail. The count can be revised later if the setting has a clear need for more countries.
 
 ## 5. NAMING PRINCIPLES
 
@@ -80,7 +83,10 @@ The general terms and proper names serve different purposes. Approval of a name 
 3. Approved pronunciation guides should remain consistent.
 4. General geographical terms and proper names must remain distinct.
 5. The five continent names are canon as whole names; no etymology should be invented for them.
-6. Their geography, cultures, history, civilizations, and political structures must be developed separately rather than inferred from their names.
+6. Country names do not need to have a literal meaning in Edraen.
+7. Some country names may have origins in Edraen, older languages, or historical naming traditions; no origin should be assumed unless deliberately established.
+8. Edraen compound rules govern words intentionally built from Edraen roots, not every proper name in Edrath.
+9. A name does not establish the geography, culture, history, or political structure of the place.
 
 ## 6. CURRENT GEOGRAPHICAL CANON
 
@@ -94,23 +100,25 @@ The general terms and proper names serve different purposes. Approval of a name 
 | Continent 3 | Othmere | Approved Canon |
 | Continent 4 | Sylvaris | Approved Canon |
 | Continent 5 | Umbrava | Approved Canon |
+| Country plan | Four named countries per continent; 20 total | Approved Canon |
 
 ## 7. FUTURE GEOGRAPHICAL DEVELOPMENT
 
-The following content remains unwritten by design, not pending approval:
+The following content remains unwritten by design:
 
 - The continents' locations relative to one another.
 - Coastlines, mountain ranges, rivers, climate zones, and biomes.
-- Countries, borders, governments, and political histories.
+- Country borders, size, and precise placement within each continent.
+- Governments, political histories, and relationships between countries.
 - Peoples, cultures, languages, religions, and civilizations.
 - Historical events and relationships between regions.
 
-Do not assume any of these details from a continent's name. Develop them deliberately when requested and record them in the repository.
+Do not assume any of these details from a place's name. Develop them deliberately when requested and record them in the repository.
 
 ## DESIGN PHILOSOPHY
 
-The continents of Edrath should be recognizable as parts of one world without feeling interchangeable. Their names are established; their geography, history, cultures, and civilizations will be developed separately.
+The continents of Edrath should be recognizable as parts of one world without feeling interchangeable. Their names and the initial country list are established; their geography, history, cultures, and civilizations will be developed separately.
 
 The worldbuilding takes inspiration from the scale and historical depth of *The Elder Scrolls* while building an original world with its own internal logic.
 
-**Five continents. One world. A history of our own.**
+**Five continents. Twenty countries. One world. A history of our own.**
