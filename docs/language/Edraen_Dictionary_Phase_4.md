@@ -11,7 +11,7 @@
 
 This file records the fourth approved batch of Edraen roots. All 65 roots below are canon and are included in the master dictionary and Canon Registry. The master inventory remains the canonical alphabetical reference.
 
-The proposals extend everyday actions, household objects, food, qualities, time relations, social concepts, and perception. Definitions are lexical suggestions only; they do not establish lore, cultural practices, or facts about Edrath.
+This batch extends everyday actions, household objects, food, qualities, time relations, social concepts, and perception. Definitions are lexical only; they do not establish lore, cultural practices, or facts about Edrath.
 
 ## Approved roots
 
@@ -42,7 +42,7 @@ The proposals extend everyday actions, household objects, food, qualities, time 
 
 ### Objects and everyday items
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **BRUK** | Door; a movable barrier used to close an entrance | bruk |
 | **DOLR** | Window; an opening in a wall, often fitted with glass or another covering | dolr |
@@ -63,7 +63,7 @@ The proposals extend everyday actions, household objects, food, qualities, time 
 
 ### Food and household materials
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **BAVR** | Meat; animal flesh used as food | bavr |
 | **DULR** | Milk; a nutritious liquid produced by mammals | dulr |
@@ -73,7 +73,7 @@ The proposals extend everyday actions, household objects, food, qualities, time 
 
 ### Qualities and conditions
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **MURTH** | Black; the darkest color, absorbing most visible light | murth (TH as in “thin”) |
 | **KELV** | Deep; extending far downward or inward | kelv |
@@ -87,7 +87,7 @@ The proposals extend everyday actions, household objects, food, qualities, time 
 
 ### Time and relation
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **VULR** | Before; earlier than a time or event | vulr |
 | **NETHL** | After; later than a time or event | nethl (TH as in “thin”) |
@@ -98,7 +98,7 @@ The proposals extend everyday actions, household objects, food, qualities, time 
 
 ### Social and abstract concepts
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **RAVN** | Meet; come into the presence of another person or group | ravn |
 | **KELN** | Agree; have the same opinion or accept a proposal | keln |
@@ -108,7 +108,7 @@ The proposals extend everyday actions, household objects, food, qualities, time 
 
 ### Perception and awareness
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **NUVR** | Smell; perceive odors through the nose | nuvr |
 | **DETHR** | Taste; perceive flavor through the mouth | dethr (TH as in “thin”) |
@@ -120,10 +120,10 @@ The proposals extend everyday actions, household objects, food, qualities, time 
 - Before approval, the 65 spellings were checked against the previous 205-root approved inventory and established whole terms and proper names recorded in project canon. No exact-spelling collisions were found.
 - Exact spelling uniqueness is mandatory. Similarity in sound is a separate design question; review any proposed root that feels too close to an existing word.
 - **Sound-similarity audit:** **THARK** (ship) is close to **THAR** (sea); **SILR** (read) is close to **SULR** (quiet); **KELR** (change), **KELV** (deep), and **KELN** (agree) cluster around existing **KEL**; **LUTH** (chair) is close to **LUTHR** (wet) and **LUR** (leg); **KULN** (pot) resembles **KULD** (grain), **KULR** (cloth), and **KULTH** (salt); **FETH** (wait) resembles existing roots **METH**, **SETH**, **KETH**, and **VETH**. These are not exact duplicates. The creator approved the batch with these similarities noted; pronunciation clarity can be reviewed later if actual use reveals confusion.
-- Some proposed roots are intentionally related in meaning, such as **VULR** (before) / **NETHL** (after), **KELV** (deep) / **THERL** (shallow), and **DURK** (dry) / **LUTHR** (wet).
+- Some roots in this batch are intentionally related in meaning, such as **VULR** (before) / **NETHL** (after), **KELV** (deep) / **THERL** (shallow), and **DURK** (dry) / **LUTHR** (wet).
 - Pronunciation guides are practical reader aids, not a complete phonological specification. The full consonant inventory, permitted syllable shapes, and consonant-cluster rules remain open language-design topics.
-- At the time Phase 4 was recorded, the approved inventory stood at 270 roots. Phase 5 has since been approved, bringing the total to 335; Phase 6 is the final planned 65-root batch toward the 400-root milestone.
+- Historical status note: Phase 4 brought the approved inventory to 270 roots. Phase 5 later brought it to 335, and Phase 6 was then planned as the final 65-root batch. Phase 6 has since been approved, completing the initial 400-root milestone.
 
 ## Approval record
 
-The creator approved the complete 65-root batch. All roots are included in the 270-root master inventory and Canon Registry. Sound-similarity observations are retained as design notes, not duplicate-spelling findings.
+The creator approved the complete 65-root batch. At that stage, the roots were included in the 270-root master inventory and Canon Registry; the cumulative approved inventory has since reached 400 roots. Sound-similarity observations are retained as design notes, not duplicate-spelling findings.
