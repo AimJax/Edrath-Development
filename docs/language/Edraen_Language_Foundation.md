@@ -1,7 +1,7 @@
 # EDRAEN — CONSTRUCTED LANGUAGE FOUNDATION
 
 **Document:** Language Design Principles  
-**Version:** 1.3  
+**Version:** 1.4  
 **Status:** Approved Foundational Canon
 
 ## 1. PURPOSE
@@ -92,9 +92,60 @@ Some words may eventually acquire meanings that cannot be understood by analyzin
 
 Edraen begins with a minimal grammatical framework. Avoid unnecessary conjugations, arbitrary endings, excessive exceptions, and rules that make vocabulary creation burdensome.
 
-The approved foundation defines root vocabulary and compound construction. It does not yet define a full grammar for tense, number, case, articles, word order in sentences, or agreement. These are future development topics, not contradictions in the current rules.
+Edraen now has an approved minimal sentence grammar for basic statements. It establishes pronouns, subject–verb–object order, simple tense markers, negation, and a basic possessive phrase. This is intentionally a first version rather than a complete grammar.
 
-Additional grammar may be introduced when it serves a clear purpose, particularly when developing dialogue and more complex forms of expression.
+### Minimal sentence grammar — Approved v1
+
+#### Standalone grammar words
+
+These forms are grammatical particles and pronouns, not lexical roots. They do not count toward the 400-root inventory.
+
+| Edraen | Meaning | Function |
+|---|---|---|
+| **AN** | I; me | First-person singular pronoun |
+| **ET** | You | Second-person pronoun; singular and plural are not distinguished |
+| **EN** | We; us | First-person plural pronoun |
+| **UR** | They; them | Third-person plural pronoun |
+| **NU** | Not | Negation particle |
+| **DA** | Past | Past-time marker |
+| **VA** | Future | Future-time marker |
+
+#### Word order
+
+The default order for a basic statement is:
+
+**SUBJECT + (NU) + (DA or VA) + VERB + OBJECT**
+
+- Use subject → verb → object.
+- With no tense marker, an action is present or general: **AN BAK.** — “I run.”
+- Put **DA** before the verb for past time: **ET DA BAK.** — “You ran.”
+- Put **VA** before the verb for future time: **EN VA BAK.** — “We will run.”
+- Put **NU** before the tense marker and verb to negate the action: **ET NU DA DUV SARN.** — “You did not eat fruit.”
+- A verb keeps its dictionary form; it does not change for person or tense.
+- The same pronoun form is used for subjects and objects.
+
+#### Possession
+
+For a simple possessive phrase, place the possessor before the noun, without an ending or separate possessive particle:
+
+- **AN VAEL** — “my heart”
+- **ET BRUK** — “your door”
+- **EN DOM** — “our home”
+- **UR DASK** — “their law”
+
+#### Sentence examples
+
+- **AN BAK.** — I run.
+- **ET DA BAK.** — You ran.
+- **EN VA BAK.** — We will run.
+- **UR ZARK THREN.** — They protect people.
+- **AN NU FALN.** — I do not fall.
+- **ET NU DA DUV SARN.** — You did not eat fruit.
+- **EN VA BRAV BULK.** — We will carry a barrel.
+
+#### Limits of v1
+
+This first grammar does not yet establish articles, questions, plural marking on ordinary nouns, a general “to be” verb, or complex and subordinate sentences. Those forms must not be improvised and presented as approved grammar. Additional grammar may be added deliberately when it serves a clear purpose, particularly for dialogue and more complex expression.
 
 ## 7. APPROVED WHOLE TERMS AND CHOSEN NAMES
 
