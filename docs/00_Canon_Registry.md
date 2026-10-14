@@ -712,7 +712,7 @@ These conventions are intentionally compact. They are sufficient for current voc
 
 ## 6. APPROVED STANDARD EDRAEN GRAMMAR — VERSION 2.1
 
-Edraen Standard v2.0 is approved as the practical grammar for ordinary statements, questions, commands, and connected clauses. The complete reference is [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md), with conversational examples in the [Everyday Phrasebook](language/Edraen_Everyday_Phrasebook.md).
+Edraen Standard v2.1 is approved as the practical grammar for ordinary statements, questions, commands, and connected clauses. The complete reference is [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md), with conversational examples in the [Everyday Phrasebook](language/Edraen_Everyday_Phrasebook.md).
 
 ### Core sentence order
 
@@ -739,7 +739,7 @@ Edraen Standard v2.0 is approved as the practical grammar for ordinary statement
 
 ### Articles, number, and other grammar words
 
-**LI** = the; **NA** = a/an; **MA** = plural marker; **DI/DU** = this/that; **DE/DO** = these/those; **YE/NO** = yes/no. Numbers and the full grammar-word inventory are documented in the standard grammar.
+**LI** = the; **NA** = a/an; **MA** = plural marker; **DI/DU** = this/that; **DE/DO** = these/those; **YE/NO** = yes/no. Numbers and the full grammar-word inventory are documented in the standard grammar. **AL/OTH** express all/every and other/another; **BEH/BET** mean behind/between; **LET** introduces a permissive clause.
 
 ### Approved examples
 
