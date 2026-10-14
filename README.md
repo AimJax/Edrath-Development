@@ -22,11 +22,13 @@ The project takes inspiration from the scale, historical depth, and layered worl
 ## Documentation
 
 - [Canon Registry](docs/00_Canon_Registry.md) — definitive list of approved decisions and the boundary between established canon and content not yet developed.
-- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, pronunciation conventions, and the Edraen Standard v2 overview.
+- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, pronunciation conventions, and the Edraen Standard v2.1 overview.
 - [Edraen Standard Grammar & Usage](docs/language/Edraen_Standard_Grammar.md) — complete practical grammar for sentence formation, questions, tense, aspect, negation, prepositions, clauses, and passive voice.
 - [Edraen Everyday Phrasebook](docs/language/Edraen_Everyday_Phrasebook.md) — usable examples for greetings, needs, requests, movement, feelings, and everyday questions.
+- [Edraen Oath Translation Test](docs/language/Edraen_Oath_Translation_Test.md) — a line-by-line long-text test of the approved grammar and vocabulary.
+- [Edraen Dictionary — Phase 8](docs/language/Edraen_Dictionary_Phase_8.md) — 66 additional roots for everyday vocabulary and the oath translation.
 - [Edraen Dictionary — Phase 7](docs/language/Edraen_Dictionary_Phase_7.md) — the 85-root approved vocabulary expansion.
-- [Edraen Dictionary — Learner's Edition & Master Inventory](docs/language/Edraen_Dictionary.md) — the single alphabetical, learner-friendly reference for all 485 approved roots from the foundational set and Phases 1–7, with pronunciation guides, a quick-start grammar, examples, and the exact-spelling audit.
+- [Edraen Dictionary — Learner's Edition & Master Inventory](docs/language/Edraen_Dictionary.md) — the single alphabetical, learner-friendly reference for all 551 approved roots from the foundational set and Phases 1–7, with pronunciation guides, a quick-start grammar, examples, and the exact-spelling audit.
 - [Edraen Dictionary — Phase 1](docs/language/Edraen_Dictionary_Phase_1.md) — historical record of the first 66-root addition batch.
 - [Edraen Dictionary — Phase 2](docs/language/Edraen_Dictionary_Phase_2.md) — record of the 66 newly approved roots covering directions, terrain, weather, plants, animals, body parts, emotions, and colors.
 - [Edraen Dictionary — Phase 3](docs/language/Edraen_Dictionary_Phase_3.md) — approved record of the 66-root third addition batch.
