@@ -1,6 +1,6 @@
 # EDRAEN EVERYDAY PHRASEBOOK
 
-**Standard:** Edraen Standard v3.0  
+**Standard:** Edraen Standard v3.1  
 **Status:** Approved usage examples  
 **Rule:** Every example below uses approved roots and the documented grammar. Where a phrase is literal rather than idiomatic, the English rendering is kept close to the Edraen structure.
 
@@ -181,6 +181,9 @@ The roots **DANL** and **DANM** mean woman and man; **DANV** means adult; **DANH
 | Edraen | English |
 |---|---|
 | **AN DUV LI VEM.** | I eat the food. |
+| **AN LIRV LI DUV BAVR.** | I like eating meat. |
+| **AN NU LIRV LI DUV BAVR.** | I do not like eating meat. |
+| **LI DUV BAVR ES SETH.** | Eating meat is good. |
 | **AN ZUM VOR.** | I drink water. |
 | **AN BETHR LI VEM.** | I cook the food. |
 | **HA ET DUV SARN?** | Do you eat fruit? |
@@ -302,4 +305,5 @@ The roots **DANL** and **DANM** mean woman and man; **DANV** means adult; **DANH
 - **SOM** means “some,” **ANY** means “any,” **SANS** means “without,” **TIL** means “until,” **SIN** means “since,” and **ALTH** means “although.”
 - Use **DOT** between number words when reading a decimal, such as **BI DOT PEN** (“2.5”).
 - **PLE** comes before a request or command.
+- **LI + verb phrase** can name an activity: **LI DUV BAVR** means “eating meat” as an activity; **AN LIRV LI DUV BAVR** means “I like eating meat.”
 - The examples are standard grammatical phrases, not a claim that every one has become a fixed cultural idiom.
