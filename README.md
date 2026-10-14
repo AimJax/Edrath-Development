@@ -26,6 +26,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - [Edraen Dictionary — Master Inventory](docs/language/Edraen_Dictionary.md) — the canonical alphabetical inventory of all 139 approved roots, definitions, pronunciation guides, lexical distinctions, and duplicate-spelling audit.
 - [Edraen Dictionary — Phase 1](docs/language/Edraen_Dictionary_Phase_1.md) — historical record of the first 66-root addition batch.
 - [Edraen Dictionary — Phase 2](docs/language/Edraen_Dictionary_Phase_2.md) — record of the 66 newly approved roots covering directions, terrain, weather, plants, animals, body parts, emotions, and colors.
+- [Edraen Dictionary — Phase 3 Proposal](docs/language/Edraen_Dictionary_Phase_3_Proposal.md) — 66 proposed roots for manual review; not canon and not included in the approved total.
 - [Edrath and Rathaen](docs/cosmology/Edrath_and_Rathaen.md) — approved planetary and world terminology.
 - [Geographic Terms and Five Continents](docs/geography/Geographic_Terms_and_Five_Continents.md) — Draumir, Ulmora, the five continents, and country distribution.
 - [Continental Climate and Geography](docs/geography/Continental_Climate_and_Geography.md) — approved broad environmental identities of the five continents.
