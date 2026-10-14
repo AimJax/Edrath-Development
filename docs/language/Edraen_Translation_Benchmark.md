@@ -46,7 +46,7 @@ These targets expose combinations or distinctions that need an explicit decision
 | ID | English target | Why it is unresolved |
 |---|---|---|
 | U01 | If I had known, I would have come. | The standard defines past, completive aspect, and WO as hypothetical, but does not yet define a full counterfactual-past construction or its interpretation. |
-| U03 | The person who said that you would come left. | This nests a content clause inside a relative clause and then adds past time; the individual clause types exist, but their nested combination has not been stress-tested. |
+| U02 | The person who said that you would come left. | This nests a content clause inside a relative clause and then adds past time; the individual clause types exist, but their nested combination has not been stress-tested. |
 | U04 | I stopped eating meat. | The current infinitive and activity constructions do not yet specify which construction expresses stopping an activity, and no approved root meaning for “stop” should be presumed. |
 | U05 | She said, “I will return tomorrow.” | Direct quotation is permitted in writing, but quotation boundaries, speaker-relative time words, and whether the quoted clause keeps its own tense reference need a formal example. |
 | U06 | I might not have been able to go. | The modal, negation, completive aspect, and ability verb require a documented scope and ordering rule for stacked modality. |
