@@ -165,7 +165,7 @@ These distinctions are intentional and should remain clear during review:
 ## 6. Review risks and unresolved decisions
 
 1. **Root shape:** The proposals favor short forms and strong consonants, but the language still needs an explicit decision on allowed consonant clusters and syllable shapes.
-2. **Near-sounding roots:** Some candidate forms may be too similar for comfortable everyday use. Review sound contrasts before approving the full batch.
+2. **Near-sounding roots:** A few pairs need explicit review before approval, especially **DAK / KAD** (day / beginning), **KAL / KEL** (truth / land), and **KARD / KARN** (strength / kin). They are proposals, not fixed choices; revise one member of a pair if the distinction does not feel clear enough in speech.
 3. **Semantic overlap:** Proposed meanings should be narrowed where necessary before roots are used in compounds.
 4. **Pronunciation:** The reader guides should be confirmed and then recorded consistently. They are not intended as IPA.
 5. **No automatic approval:** Appearance in this document does not make a root canon.
