@@ -5,6 +5,7 @@ on:
     paths:
       - "docs/language/**"
       - "docs/00_Canon_Registry.md"
+      - "README.md"
       - "tools/audit_edraen.py"
       - ".github/workflows/edraen-audit.yml"
   pull_request:
