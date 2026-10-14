@@ -1,14 +1,14 @@
 # EDRAEN DICTIONARY — PHASE 3 PROPOSAL
 
-**Status:** Working Draft — Proposals Only; Not Canon  
+**Status:** Historical proposal; approved in full  
 **Scope:** Proposed additional core vocabulary  
 **Proposed roots in this batch:** 66  
-**Current approved inventory:** 139 roots  
-**Approval status:** Awaiting creator review
+**Approved inventory before this batch:** 139 roots  
+**Approval status:** Approved by creator; see [Phase 3 Approved Record](Edraen_Dictionary_Phase_3.md)
 
 ## Purpose and canon boundary
 
-This file contains a proposed third batch of Edraen roots for manual review. **None of the roots below is approved canon yet.** They are not included in the master dictionary, approved root total, or Canon Registry. Promote only roots the creator explicitly approves.
+This file is retained as the historical review draft. The creator approved all 66 roots; the canonical record is [Edraen Dictionary — Phase 3](Edraen_Dictionary_Phase_3.md). The approved master inventory and Canon Registry supersede this draft.
 
 The proposals aim to extend the language beyond nouns into everyday actions, qualities, relationships, and common materials. Definitions are lexical suggestions only; they do not establish lore, cultural practices, or facts about Edrath.
 
@@ -127,4 +127,4 @@ The proposals aim to extend the language beyond nouns into everyday actions, qua
 - [ ] Request replacements for roots that sound too similar to existing roots.
 - [ ] Reject the batch and redesign its vocabulary categories.
 
-**Canon rule:** Do not copy any proposal into the master inventory or update the approved root count until the creator approves it.
+**Historical note:** This batch was approved in full. See the Phase 3 approved record for its canonical status.
