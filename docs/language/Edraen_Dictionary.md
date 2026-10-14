@@ -7,7 +7,7 @@
 
 ## Canon boundary
 
-This is the single cumulative, learner-facing dictionary for all 603 approved Edraen lexical roots from the foundational set and Phases 1–7. Use it as the everyday reference; the phase files are historical batch records. Entries retain approved meanings and reader-friendly pronunciation guides. The root list is alphabetized and grouped by initial letter for casual reading and lookup. Standalone grammar words are documented separately in the [Standard Grammar & Usage](Edraen_Standard_Grammar.md) guide and are not counted as lexical roots.
+This is the single cumulative, learner-facing dictionary for all 628 approved Edraen lexical roots from the foundational set and Phases 1–10. Use it as the everyday reference; the phase files are historical batch records. Entries retain approved meanings and reader-friendly pronunciation guides. The root list is alphabetized and grouped by initial letter for casual reading and lookup. Standalone grammar words are documented separately in the [Standard Grammar & Usage](Edraen_Standard_Grammar.md) guide and are not counted as lexical roots.
 
 Root definitions are lexical only. They do not independently establish religions, metaphysics, histories, social institutions, cultural practices, or facts about the peoples of Edrath.
 
