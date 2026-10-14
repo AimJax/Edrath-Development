@@ -1,7 +1,7 @@
 # EDRAEN — CONSTRUCTED LANGUAGE FOUNDATION
 
 **Document:** Language Design Principles  
-**Version:** 1.9  
+**Version:** 1.10  
 **Status:** Approved Foundational Canon
 
 ## 1. PURPOSE
@@ -90,7 +90,7 @@ Some words may eventually acquire meanings that cannot be understood by analyzin
 
 ## 6. GRAMMATICAL COMPLEXITY
 
-Edraen Standard v3.0 defines a practical grammar for ordinary use: pronouns, articles, plural marking, word order, the copula, tense, aspect, negation, modality, questions, commands, prepositions, comparison, conjunctions, relative and content clauses, passive voice, and number formation.
+Edraen Standard v3.1 defines a practical grammar for ordinary use: pronouns, articles, plural marking, word order, the copula, tense, aspect, negation, modality, questions, commands, prepositions, comparison, conjunctions, relative and content clauses, passive voice, and number formation.
 
 The full, approved rule set is maintained in [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md). Everyday examples are maintained in the [Edraen Everyday Phrasebook](Edraen_Everyday_Phrasebook.md). The central canon record summarizes the standard in the [Canon Registry](../00_Canon_Registry.md).
 
@@ -103,7 +103,7 @@ The basic design remains deliberately regular:
 - Compounds follow the two approved patterns and join directly.
 - New roots and grammar words must be checked for exact spelling collisions before approval.
 
-The language is suitable for everyday conversation, practical writing, connected narrative, and formal passages. Future work should test longer texts, expand vocabulary where real use reveals gaps, and document idioms or refinements rather than inventing unrecorded rules during translation.
+The language is suitable for everyday conversation, practical writing, connected narrative, and formal passages. Standard v3.1 adds a regular activity-nominalization construction and conservative, inventory-derived sound-shape guidance. Future work should test longer texts, expand vocabulary where real use reveals gaps, and document idioms or refinements rather than inventing unrecorded rules during translation.
 
 ## 7. APPROVED WHOLE TERMS AND CHOSEN NAMES
 
