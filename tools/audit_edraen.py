@@ -20,6 +20,7 @@ OATH = ROOT / "docs/language/Edraen_Oath_Translation_Test.md"
 FOUNDATION = ROOT / "docs/language/Edraen_Language_Foundation.md"
 PHONOLOGY = ROOT / "docs/language/Edraen_Phonology_and_Orthography.md"
 BENCHMARK = ROOT / "docs/language/Edraen_Translation_Benchmark.md"
+FRAMES = ROOT / "docs/language/Edraen_Lexical_Classes_and_Verb_Frames.md"
 ROOT_ROW = re.compile(r"^\| \*\*([A-Z]+)\*\* \|", re.MULTILINE)
 GRAMMAR_ROW = re.compile(r"^\| \*\*([A-Z]+)\*\* \|", re.MULTILINE)
 
@@ -57,6 +58,7 @@ def main() -> int:
     foundation = read(FOUNDATION)
     phonology = read(PHONOLOGY)
     benchmark = read(BENCHMARK)
+    frames = read(FRAMES)
 
     inventory = section(dictionary, "## Complete approved root inventory", "## Lexical distinctions")
     roots = ROOT_ROW.findall(inventory)
@@ -144,6 +146,8 @@ def main() -> int:
         errors.append("README or provisional phonology document is missing the sound-system reference or inventory audit.")
     if "T01" not in benchmark or "U01" not in benchmark:
         errors.append("Translation benchmark is missing supported or unresolved stress tests.")
+    if "Edraen Lexical Classes and Verb Frames" not in readme or "NULR" not in frames:
+        errors.append("README or lexical-frame supplement is missing its documented reference.")
 
     if "Action nominalization" not in grammar or "LI DUV BAVR" not in grammar:
         errors.append("Grammar is missing the approved action-nominalization rule.")
