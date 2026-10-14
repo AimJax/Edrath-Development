@@ -244,7 +244,7 @@ Do not add plural endings to roots.
 | **DE** | these |
 | **DO** | those |
 
-The demonstrative occupies the determiner position: **DI DOM** — this home; **DO MA DAN** — those people. In ordinary use, do not combine a demonstrative with **LI** or **NA**. When the noun is obvious from context, a demonstrative may stand alone as a pronoun: **DI** — this; **DU** — that; **DE** — these; **DO** — those. For example, **KA ES DI?** — “What is this?” and **KI ES DU?** — “Who is that?”
+The demonstrative occupies the determiner position: **DI DOM** — this home; **DO DAN** — those people. In ordinary use, do not combine a demonstrative with **LI** or **NA**. When the noun is obvious from context, a demonstrative may stand alone as a pronoun: **DI** — this; **DU** — that; **DE** — these; **DO** — those. For example, **KA ES DI?** — “What is this?” and **KI ES DU?** — “Who is that?”
 
 ### Numbers
 
@@ -343,7 +343,7 @@ Aspect describes the internal timing of an action:
 
 Tense comes before aspect: **AN DA LO FARL.** — I was speaking. **AN VA LO FARL.** — I will be speaking. **AN DA PE DUV LI VEM.** — I had eaten the food.
 
-**STIL** means that an action or state continues despite a change or reference point. Place it immediately before the main verb, after tense, aspect, and any modal: **AN VA LO STIL DALK.** — I will still be standing.
+**STIL** means that an action or state continues despite a change or reference point. Place it after tense, aspect, and any modal. If the clause is passive, **STIL** precedes **RI**, which remains immediately before the main verb: **AN VA LO STIL DALK.** — I will still be standing.
 
 ### Negation
 
@@ -366,7 +366,7 @@ Tense comes before aspect: **AN DA LO FARL.** — I was speaking. **AN VA LO FAR
 
 The practical verb-phrase order is:
 
-**NU + TENSE + ASPECT + MODAL + RI (if passive) + VERB**
+**NU + TENSE + ASPECT + MODAL + STIL + RI (if passive) + VERB**
 
 **LET** introduces a permissive clause and comes before its subject: **LET MA KAVT KAVN UR MA TULV.** — Let kings keep their crowns. Unlike a normal command, the person or group being allowed to act is stated after **LET**.
 
@@ -601,7 +601,7 @@ Use this general order as a reliable default:
 The determiner position is normally occupied by only one of these: **LI**, **NA**, a demonstrative (**DI/DU/DE/DO**), a possessive pronoun, or a universal/indefinite determiner (**AL**, **OTH**, **SOM**, **ANY**). Do not stack competing determiners.
 
 - **LI MA SETH DAN** — the good people.
-- **DE MA SETH DAN** — these good people.
+- **DE SETH DAN** — these good people.
 - **AN MA THARN** — my enemies.
 - **SOM MA DAN** — some people.
 - **ANY VEM** — any food.
