@@ -2,8 +2,8 @@
 
 **Status:** Approved Canon  
 **Purpose:** Canonical cumulative reference for every approved Edraen root  
-**Inventory:** 603 approved lexical roots  
-**Root batches:** 7 foundational roots + 393 additions in Phases 1–6 + 85 additions in Phase 7 + 66 additions in Phase 8 + 52 additions in Phase 9
+**Inventory:** 628 approved lexical roots  
+**Root batches:** 7 foundational roots + 393 additions in Phases 1–6 + 85 additions in Phase 7 + 66 additions in Phase 8 + 52 additions in Phase 9 + 25 additions in Phase 10
 
 ## Canon boundary
 
@@ -78,7 +78,7 @@ These standalone forms are grammar words, not lexical roots. They are maintained
 
 ## Complete approved root inventory
 
-The tables below contain all 603 approved roots in alphabetical order. Each entry gives the root, its approved meaning, and a practical pronunciation guide.
+The tables below contain all 628 approved roots in alphabetical order. Each entry gives the root, its approved meaning, and a practical pronunciation guide.
 
 ### A
 
@@ -99,6 +99,7 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | **BAVN** | Vegetable; an edible plant or plant part used as food | bavn |
 | **BAVR** | Meat; animal flesh used as food | bavr |
 | **BAVT** | Jump; push oneself off a surface into the air | bavt |
+| **BEMRA** | Morning; the early part of the day, from the end of night toward midday | bem-rah |
 | **BETHR** | Cook; prepare food using heat | bethr (TH as in “thin”) |
 | **BIRN** | Believe; accept something as true or likely | birn |
 | **BIRV** | Knee; the joint between the thigh and lower leg | birv |
@@ -146,6 +147,7 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | **DOLTH** | Plaza; an open public space in a town or city | dolth (TH as in “thin”) |
 | **DOLV** | Blanket; a covering used for warmth or bedding | dolv |
 | **DOM** | Home; place of residence or belonging | dom |
+| **DOMAR** | Apartment; a self-contained dwelling within a larger residential building | doh-mar |
 | **DOR** | Sun | dor |
 | **DORL** | Chimney; a structure that carries smoke or combustion gases away | dorl |
 | **DORV** | Wide; extending a great distance from side to side | dorv |
@@ -309,6 +311,8 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | **KAVTH** | Companion; one who accompanies another | kavth (TH as in “thin”) |
 | **KEL** | Land; a tract or area of territory, rather than soil as material | kel |
 | **KELD** | Price; the amount of money or value asked or paid for something | keld |
+| **KELDAK** | Receipt; a written or digital record confirming a purchase or payment | kel-dak |
+| **KELDAV** | Cheap; costing relatively little money or value | kel-dav |
 | **KELK** | Join; connect or bring separate things together | kelk |
 | **KELM** | Bark | kelm |
 | **KELN** | Agree; have the same opinion or accept a proposal | keln |
@@ -340,6 +344,9 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | **KOLN** | Wheel; a circular component that turns around an axle | koln |
 | **KOLR** | Round; shaped like a circle or sphere | kolr |
 | **KOLV** | Flat; having a level surface without significant raised areas | kolv |
+| **KOMAR** | Computer; an electronic machine for processing, storing, and retrieving information | koh-mar |
+| **KOMAV** | Screen; a surface or display on which text, images, or information can be shown | koh-mav |
+| **KOMEL** | Keyboard; a set of keys used to enter letters, numbers, or commands into a device | koh-mel |
 | **KOR** | Bone | kor |
 | **KORL** | Take; acquire or remove into one's possession | korl |
 | **KORV** | Wood as material | korv |
@@ -399,6 +406,7 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | **MALV** | Shoe; a covering worn on the foot for protection | malv |
 | **MARN** | Age; a period or span of time | marn |
 | **MAV** | Animal | mav |
+| **MAVATH** | Afternoon; the part of the day after midday and before evening (TH as in “thin”) | mah-vath |
 | **MAVK** | Tame; make an animal accustomed to people or controlled handling | mavk |
 | **MAVM** | Bag; a flexible container used for carrying objects | mavm |
 | **MAVN** | Basket; a container woven or made with an open structure | mavn |
@@ -406,6 +414,8 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | **MAVT** | Trousers; a garment covering the body from the waist to the legs | mavt |
 | **MEL** | Flower | mel |
 | **MELK** | Money; a medium of exchange or a general store of financial value | melk |
+| **MELKAR** | Salary; regular payment received for work or employment | mel-kar |
+| **MELKAV** | Expensive; costing a relatively large amount of money or value | mel-kav |
 | **MELN** | Ink; a liquid or paste used for writing or marking | meln |
 | **MELR** | Lush; abundant in healthy vegetation or growth | melr |
 | **MELT** | Month; a calendar period commonly used to divide a year | melt |
@@ -425,6 +435,7 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | **MOLR** | Cabinet; a piece of furniture with enclosed storage | molr |
 | **MOLV** | Curtain; a hanging piece of fabric used to cover an opening | molv |
 | **MOR** | Down; downward direction | mor |
+| **MORALA** | Evening; the later part of the day before night | mo-RAH-lah |
 | **MORK** | Pain; an unpleasant physical sensation caused by injury, illness, or bodily stress | mork |
 | **MORL** | Many; a large number or amount | morl |
 | **MORTH** | Death; the end of life | morth (TH as in “thin”) |
@@ -465,6 +476,9 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | **NETHR** | Enter; go into a place or space | nethr (TH as in “thin”) |
 | **NETHV** | Next; following in sequence or coming immediately after | nethv (TH as in “thin”) |
 | **NHUR** | Night | noor (NH pronounced as N) |
+| **NIRAK** | Sick; affected by illness or not in ordinary good health | nee-rak |
+| **NIRAL** | Doctor; a trained medical professional who diagnoses and treats illness or injury | nee-ral |
+| **NIRATH** | Hospital; an institution where people receive medical care and treatment (TH as in “thin”) | nee-rath |
 | **NIRN** | Healer; a person who helps treat injury or illness | nirn |
 | **NIRV** | Dive; enter water or descend headfirst or steeply | nirv |
 | **NOL** | Center; middle point | nol |
@@ -516,6 +530,8 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **RAG** | Work; labor or purposeful activity | rag |
+| **RAGAM** | Office; a place where administrative, professional, or clerical work is done | rah-gam |
+| **RAGAV** | Job; a role, task, or position of work, especially paid employment | rah-gav |
 | **RAKH** | Answer; respond to a question or statement | rakh |
 | **RAL** | Fast; moving or happening at high speed | ral |
 | **RALK** | Hammer; a tool with a heavy head used for striking | ralk |
@@ -539,6 +555,10 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | **RULTH** | Glowing; giving off a steady, soft light | rulth (TH as in “thin”) |
 | **RULV** | Divide; separate into parts or portions | rulv |
 | **RUV** | Travel; journey from one place to another | ruv |
+| **RUVAK** | Vehicle; a means of transport used to carry people or goods | roo-vak |
+| **RUVAM** | Bus; a road vehicle designed to carry multiple passengers, usually along a route | roo-vam |
+| **RUVAN** | Bicycle; a two-wheeled vehicle moved by pedaling | roo-van |
+| **RUVATH** | Train; a set of connected rail vehicles used to carry passengers or goods (TH as in “thin”) | roo-vath |
 | **RUVN** | Week; a period of seven days | ruvn |
 | **RUVR** | Again; one more time or once more | ruvr |
 | **RUVT** | Station; a designated place where travelers board, leave, or change transport | ruvt |
@@ -549,6 +569,7 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 |---|---|---|
 | **SARK** | Find; discover or locate something sought or not previously noticed | sark |
 | **SARN** | Fruit; the edible seed-bearing part of a plant or a comparable food category | sarn |
+| **SAVAT** | Email; an electronic written message sent through a digital network | sah-vat |
 | **SAVK** | Plan; form an intended course of action | savk |
 | **SAVM** | Stay; remain in a place or state instead of leaving or changing | savm |
 | **SAVN** | Remember; bring stored information or an experience back to mind | savn |
@@ -599,6 +620,7 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | **TAVM** | Clever; quick to understand or find solutions | tavm |
 | **TAVN** | Poet; a person who composes poetry | tavn |
 | **TAVR** | Thorn | tavr |
+| **TELAR** | Telephone; a device used to communicate with someone at a distance by voice or other signals | teh-lar |
 | **TELR** | Thread; a thin strand of fiber used in sewing or weaving | telr |
 | **TELV** | Weave; interlace strands to make a fabric or structure | telv |
 | **TERV** | Come; move toward the speaker, a destination, or a point of reference | terv |
@@ -755,7 +777,10 @@ The tables below contain all 603 approved roots in alphabetical order. Each entr
 | **ZIRV** | Music; organized sound made by voices or instruments | zirv |
 | **ZIVR** | Fish | zivr |
 | **ZOLN** | Needle; a slender pointed implement used for sewing or piercing | zoln |
+| **ZORAK** | Internet; the global interconnected digital system used to exchange information and provide online services | zor-ak |
+| **ZORAV** | Network; a connected system of people, devices, or places that exchange information or resources | zor-av |
 | **ZORK** | Language; a system of words and rules used for communication | zork |
+| **ZORKAL** | Technology; the practical use of knowledge through tools, methods, and organized systems | zor-kal |
 | **ZORL** | Possible; able to happen or be done | zorl |
 | **ZORN** | Foot | zorn |
 | **ZORV** | Grow; increase in size or develop over time | zorv |
@@ -820,9 +845,10 @@ Every root must have a unique complete spelling. Similar sounds, shared letters,
 - Phase 7 additions: 85.
 - Phase 8 additions: 66.
 - Phase 9 additions: 52.
-- Total approved lexical roots: **603**.
+- Phase 10 additions: 25.
+- Total approved lexical roots: **628**.
 - Exact duplicate spellings in the cumulative inventory: **0**.
 - Exact matches against established whole terms and proper names checked for this audit: **0**.
 - Cross-document consistency: all nine phase records and the Canon Registry agree with the master inventory on root spelling, approved meaning, and pronunciation guide; no missing or conflicting entries were found.
 
-The 603-root inventory includes the approved foundational set and Phases 1–7. Any future roots must be checked against this complete table before approval. Grammar words have their own collision-checked ledger. This is a substantial core vocabulary, not a claim that a usable language can never add words again.
+The 628-root inventory includes the approved foundational set and Phases 1–10. Any future roots must be checked against this complete table before approval. Grammar words have their own collision-checked ledger. This is a substantial core vocabulary, not a claim that a usable language can never add words again.
