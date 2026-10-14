@@ -14,7 +14,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - **Five continents** — Kaldura, Veskara, Othmere, Sylvaris, and Umbrava.
 - **Twenty named countries** — four assigned to each continent in the current country plan.
 - **Five distinct continental profiles** — approved broad climate and geography for each continent.
-- **Edraen dictionary** — 335 approved roots with unique spellings: seven foundational roots, 66 additions in each of Phases 1–3, and 65 additions in each of Phases 4–5.
+- **Edraen dictionary** — 400 approved roots with unique spellings: seven foundational roots, 66 additions in each of Phases 1–3, and 65 additions in each of Phases 4–5.
 - **Humanity** — approved as a foundational people and the world's “best” race as a fundamental truth from the Age of the Beginning onward, not a status earned later. Humans dominate much of the world's major political and institutional life, with variation by continent. This does not mean humans must be smarter, stronger, or best at every individual ability.
 - **Dravkhar** — chosen name of the preeminent human subrace. Its core design is approved: broad potential across human pursuits, a recognizable but non-mandatory visual signature, and ordinary human baseline biology. The supporting lore and formal Edraen etymology are deferred.
 - **Other races and peoples** — the design workshop prioritizes recognizable fantasy races, with original races to be developed alongside them. Detailed definitions remain proposals until approved.
@@ -23,13 +23,14 @@ The project takes inspiration from the scale, historical depth, and layered worl
 
 - [Canon Registry](docs/00_Canon_Registry.md) — definitive list of approved decisions and the boundary between established canon and content not yet developed.
 - [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, and pronunciation conventions.
-- [Edraen Dictionary — Master Inventory](docs/language/Edraen_Dictionary.md) — the canonical alphabetical inventory of all 335 approved roots, definitions, pronunciation guides, lexical distinctions, and duplicate-spelling audit.
+- [Edraen Dictionary — Master Inventory](docs/language/Edraen_Dictionary.md) — the canonical alphabetical inventory of all 400 approved roots, definitions, pronunciation guides, lexical distinctions, and duplicate-spelling audit.
 - [Edraen Dictionary — Phase 1](docs/language/Edraen_Dictionary_Phase_1.md) — historical record of the first 66-root addition batch.
 - [Edraen Dictionary — Phase 2](docs/language/Edraen_Dictionary_Phase_2.md) — record of the 66 newly approved roots covering directions, terrain, weather, plants, animals, body parts, emotions, and colors.
 - [Edraen Dictionary — Phase 3](docs/language/Edraen_Dictionary_Phase_3.md) — approved record of the 66-root third addition batch.
 - [Edraen Dictionary — Phase 4](docs/language/Edraen_Dictionary_Phase_4.md) — approved record of the 65-root fourth addition batch.
 - [Edraen Dictionary — Phase 5](docs/language/Edraen_Dictionary_Phase_5.md) — approved record of the 65-root fifth addition batch.
-- [Edraen Dictionary — Phase 6 Proposal](docs/language/Edraen_Dictionary_Phase_6_Proposal.md) — 65 proposed roots toward the 400-root milestone; not canon until approved.
+- [Edraen Dictionary — Phase 6](docs/language/Edraen_Dictionary_Phase_6.md) — approved record of the 65-root sixth addition batch, completing the initial 400-root milestone.
+- [Edraen Compounding Test — 400-Root Milestone](docs/language/Edraen_Compounding_Test_400_Root_Milestone.md) — exploratory test of the two approved compound patterns; trial forms are not canon.
 - [Edrath and Rathaen](docs/cosmology/Edrath_and_Rathaen.md) — approved planetary and world terminology.
 - [Geographic Terms and Five Continents](docs/geography/Geographic_Terms_and_Five_Continents.md) — Draumir, Ulmora, the five continents, and country distribution.
 - [Continental Climate and Geography](docs/geography/Continental_Climate_and_Geography.md) — approved broad environmental identities of the five continents.
