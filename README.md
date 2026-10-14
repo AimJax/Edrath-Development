@@ -14,7 +14,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - **Five continents** — Kaldura, Veskara, Othmere, Sylvaris, and Umbrava.
 - **Twenty named countries** — four assigned to each continent in the current country plan.
 - **Five distinct continental profiles** — approved broad climate and geography for each continent.
-- **Core roots** — ED, RATH, AEN, KHAR, VAEL, NHUR, and AETH have approved meanings.
+- **Edraen dictionary** — 73 approved roots with unique spellings, including the original seven roots and 66 Phase 1 additions.
 - **Humanity** — approved as a foundational people and the world's “best” race as a fundamental truth from the Age of the Beginning onward, not a status earned later. Humans dominate much of the world's major political and institutional life, with variation by continent. This does not mean humans must be smarter, stronger, or best at every individual ability.
 - **Dravkhar** — chosen name of the preeminent human subrace. Its core design is approved: broad potential across human pursuits, a recognizable but non-mandatory visual signature, and ordinary human baseline biology. The supporting lore and formal Edraen etymology are deferred.
 - **Other races and peoples** — the design workshop prioritizes recognizable fantasy races, with original races to be developed alongside them. Detailed definitions remain proposals until approved.
@@ -22,7 +22,8 @@ The project takes inspiration from the scale, historical depth, and layered worl
 ## Documentation
 
 - [Canon Registry](docs/00_Canon_Registry.md) — definitive list of approved decisions and the boundary between established canon and content not yet developed.
-- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — approved root meanings, compound patterns, and pronunciation conventions.
+- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, and pronunciation conventions.
+- [Edraen Dictionary — Phase 1](docs/language/Edraen_Dictionary_Phase_1.md) — the canonical inventory of 73 approved roots, definitions, pronunciation guides, and duplicate-spelling policy.
 - [Edrath and Rathaen](docs/cosmology/Edrath_and_Rathaen.md) — approved planetary and world terminology.
 - [Geographic Terms and Five Continents](docs/geography/Geographic_Terms_and_Five_Continents.md) — Draumir, Ulmora, the five continents, and country distribution.
 - [Continental Climate and Geography](docs/geography/Continental_Climate_and_Geography.md) — approved broad environmental identities of the five continents.
