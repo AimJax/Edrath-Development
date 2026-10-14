@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DICTIONARY = ROOT / "docs/language/Edraen_Dictionary.md"
 GRAMMAR = ROOT / "docs/language/Edraen_Standard_Grammar.md"
 REGISTRY = ROOT / "docs/00_Canon_Registry.md"
+README = ROOT / "README.md"
 PHRASEBOOK = ROOT / "docs/language/Edraen_Everyday_Phrasebook.md"
 OATH = ROOT / "docs/language/Edraen_Oath_Translation_Test.md"
 ROOT_ROW = re.compile(r"^\| \*\*([A-Z]+)\*\* \|", re.MULTILINE)
@@ -49,6 +50,7 @@ def main() -> int:
     dictionary = read(DICTIONARY)
     grammar = read(GRAMMAR)
     registry = read(REGISTRY)
+    readme = read(README)
 
     inventory = section(dictionary, "## Complete approved root inventory", "## Lexical distinctions")
     roots = ROOT_ROW.findall(inventory)
@@ -114,6 +116,12 @@ def main() -> int:
         errors.append(f"Canon Registry records {recorded} roots but the dictionary declares {expected_count}.")
     if "Edraen Standard v3.0" not in registry:
         errors.append("Canon Registry does not reference Edraen Standard v3.0.")
+    readme_count = re.search(r"\\*\\*Edraen dictionary\\*\\* — (\\d+) approved lexical roots", readme)
+    if not readme_count or int(readme_count.group(1)) != expected_count:
+        recorded = readme_count.group(1) if readme_count else "missing"
+        errors.append(f"README records {recorded} roots but the dictionary declares {expected_count}.")
+    if "Edraen Standard v3.0" not in readme:
+        errors.append("README does not reference Edraen Standard v3.0.")
 
     # Check every explicitly formatted Edraen phrase in the learner phrasebook and oath.
     allowed_proper_terms = {"EDRAEN", "EDRATH"}
