@@ -467,6 +467,8 @@ Examples:
 - **AN FIRV THA IR ES SETH.** — I know that he/she/it is well.
 - **IR LAVN THA ET VA TERV.** — He/she/it says that you will come.
 
+A verb meaning “ask” may take an embedded question directly, without **THA**: **LI RATH THAVN KI MURV.** — The world asks who remained.
+
 ### Relative clauses
 
 **TA** follows the noun it describes and introduces a clause that identifies it.
