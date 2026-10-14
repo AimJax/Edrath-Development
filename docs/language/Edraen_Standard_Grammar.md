@@ -595,7 +595,7 @@ The determiner position is normally occupied by only one of these: **LI**, **NA*
 
 Use **MA** for an unspecified plural count noun. Do not use **MA** after an explicit number or a plural demonstrative: **BI DAN** (“two people”), **DE DAN** (“these people”). Mass nouns such as water and food normally appear without plural marking unless the intended meaning is a countable kind or serving.
 
-**SOM** means “some” and **ANY** means “any.” **ANY** is especially natural in questions, negative clauses, and conditions: **HA ET HURV ANY MELK?** (“Do you have any money?”); **AN NU HURV ANY MELK.** (“I do not have any money.”)
+**SOM** means “some” and **ANY** means “any.” **ANY** is especially natural in questions, negative clauses, and conditions: **HA ET HURV ANY MELK?** (“Do you have any money?”); **AN NU HURV ANY MELK.** (“I do not have any money.”) For quantity questions, place **KAI** (“how”) immediately before the noun phrase: **KAI MA DAN?** — “How many people?”; **KAI MELK?** — “How much money?” In a full sentence, the quantity phrase remains at the beginning: **KAI MA DAN ES IN LI DARN?** — “How many people are in the village?”
 
 ## 18. Verb complements and infinitives
 
