@@ -1,7 +1,7 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 1.6  
+**Version:** 1.7  
 **Status:** Approved Foundational Canon
 
 This registry records the approved foundational decisions for Edrath, including the core Edraen roots and compound rules, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
@@ -104,7 +104,7 @@ The following 66 roots are approved additions to the initial seven-root core. Th
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 
-The approved inventory contains **335 unique root spellings** across the seven foundational roots and five approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), [Phase 4](language/Edraen_Dictionary_Phase_4.md), and [Phase 5](language/Edraen_Dictionary_Phase_5.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
+The approved inventory contains **400 unique root spellings** across the seven foundational roots and six approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), [Phase 4](language/Edraen_Dictionary_Phase_4.md), and [Phase 5](language/Edraen_Dictionary_Phase_5.md), and [Phase 6](language/Edraen_Dictionary_Phase_6.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
 
 The pronunciation guides are practical reader aids rather than a complete phonetic transcription. Approved proper-name pronunciations listed elsewhere remain fixed.
 
@@ -405,6 +405,78 @@ The following 65 roots are approved additions. Their full alphabetical reference
 | **ZULN** | Purple; a color between red and blue | zuln |
 | **ZURTH** | Frost; a thin deposit of ice crystals formed on cold surfaces | zurth (TH as in “thin”) |
 | **ZURV** | Cure; bring about recovery from a disease or ailment | zurv |
+
+### 2.6 Additional approved roots — Phase 6
+
+The following 65 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 6](language/Edraen_Dictionary_Phase_6.md).
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
+| **BARN** | Carpenter; a person who builds or repairs wooden structures | barn |
+| **BRUL** | Hollow; having an empty space within | brul |
+| **BULK** | Barrel; a large cylindrical container | bulk |
+| **DORL** | Chimney; a structure that carries smoke or combustion gases away | dorl |
+| **DOVK** | Barter; exchange goods directly without using money | dovk |
+| **DULK** | Yeast; a microorganism used in fermentation | dulk |
+| **FALK** | Throw; send an object through the air by releasing it | falk |
+| **FALR** | Pale; light or lacking intensity in color | falr |
+| **FALV** | Cloak; a loose outer garment worn over other clothing | falv |
+| **FIRN** | Coin; a small stamped piece of metal used as money | firn |
+| **GAVK** | Knife; a blade used for cutting | gavk |
+| **GAVR** | Sailor; a person who works or travels aboard a ship | gavr |
+| **GOLN** | Meadow; a field of grass and other low-growing plants | goln |
+| **GULN** | Orange; a color between red and yellow | guln |
+| **HARN** | Sharp; having an edge or point able to cut or pierce | harn |
+| **HULV** | Reed; a tall, slender plant commonly growing in wet ground | hulv |
+| **KELK** | Join; connect or bring separate things together | kelk |
+| **KOLV** | Flat; having a level surface without significant raised areas | kolv |
+| **KULK** | Box; a container with flat sides and a lid or open top | kulk |
+| **KURM** | Anchor; a heavy device used to hold a vessel in place | kurm |
+| **LAVR** | Swim; move through water using the body | lavr |
+| **LORV** | Shine; give off or reflect light | lorv |
+| **MAVK** | Tame; make an animal accustomed to people or controlled handling | mavk |
+| **MIRN** | Brittle; hard but liable to break or shatter | mirn |
+| **MIRV** | Root; the underground part of a plant that anchors it and absorbs water | mirv |
+| **MOLR** | Cabinet; a piece of furniture with enclosed storage | molr |
+| **MOLV** | Curtain; a hanging piece of fabric used to cover an opening | molv |
+| **MURN** | Wake; stop sleeping or cause someone to stop sleeping | murn |
+| **NARK** | Climb; move upward using hands, feet, or equipment | nark |
+| **NIRN** | Healer; a person who helps treat injury or illness | nirn |
+| **NIRV** | Dive; enter water or descend headfirst or steeply | nirv |
+| **NORK** | Flask; a small container used to carry liquid | nork |
+| **NULM** | Solid; firm and not hollow or liquid | nulm |
+| **PALK** | Push; apply force to move something away | palk |
+| **PARN** | Pull; apply force to draw something closer | parn |
+| **PIRK** | Race; compete to move or travel fastest | pirk |
+| **PIRN** | Moss; a small, soft plant that often grows in damp places | pirn |
+| **PRAV** | Turn; change direction or orientation | prav |
+| **PULR** | Bucket; a deep container with a handle | pulr |
+| **RALK** | Hammer; a tool with a heavy head used for striking | ralk |
+| **RAVM** | Lantern; a portable light enclosed in a protective frame | ravm |
+| **RAVS** | Shell; a hard outer covering of an animal | ravs |
+| **RULTH** | Glowing; giving off a steady, soft light | rulth (TH as in “thin”) |
+| **RULV** | Divide; separate into parts or portions | rulv |
+| **SAVK** | Plan; form an intended course of action | savk |
+| **SULM** | Mineral; a naturally occurring inorganic substance | sulm |
+| **TALN** | Cousin; a child of one's aunt or uncle, or a comparable kin relation | taln |
+| **TALV** | Lift; raise something to a higher position | talv |
+| **TAVK** | Estimate; form an approximate judgment or calculation | tavk |
+| **TAVM** | Clever; quick to understand or find solutions | tavm |
+| **TELV** | Weave; interlace strands to make a fabric or structure | telv |
+| **THAVK** | Warn; alert someone to danger or a possible problem | thavk (TH as in “thin”) |
+| **THOLV** | Mushroom; a fleshy fruiting body of certain fungi | tholv (TH as in “thin”) |
+| **TULN** | Cushion; a soft pad used for sitting, leaning, or support | tuln |
+| **VAVN** | Egg; a reproductive body produced by birds and some other animals | vavn |
+| **VEMR** | Feed; give food to a person or animal | vemr |
+| **VETHR** | Kettle; a vessel used to heat or boil liquid | vethr (TH as in “thin”) |
+| **VIRK** | Wolf; a wild canine mammal | virk |
+| **VIRL** | Mayor; a person who leads the administration of a town or city | virl |
+| **VULV** | Drag; pull something along a surface | vulv |
+| **VURM** | Cough; force air from the lungs in a sudden burst | vurm |
+| **ZARK** | Protect; keep safe from harm or danger | zark |
+| **ZAVK** | Shake; move rapidly back and forth or up and down | zavk |
+| **ZAVR** | Bloom; produce flowers or enter a flowering state | zavr |
+| **ZULV** | Violet; a blue-purple color | zulv |
 
 ## 3. THE FIVE CONTINENTS
 
