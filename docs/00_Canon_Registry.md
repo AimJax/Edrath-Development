@@ -1,7 +1,7 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 1.9  
+**Version:** 2.0  
 **Status:** Approved Foundational Canon
 
 This registry records the approved foundational decisions for Edrath, including the 484-root Edraen inventory, compound rules, Edraen Standard Grammar v2, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
@@ -104,7 +104,7 @@ The following 66 roots are approved additions to the initial seven-root core. Th
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 
-The approved inventory contains **400 unique root spellings** across the seven foundational roots and six approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), [Phase 4](language/Edraen_Dictionary_Phase_4.md), and [Phase 5](language/Edraen_Dictionary_Phase_5.md), and [Phase 6](language/Edraen_Dictionary_Phase_6.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
+The approved inventory contains **485 unique root spellings** across the seven foundational roots and seven approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), [Phase 4](language/Edraen_Dictionary_Phase_4.md), and [Phase 5](language/Edraen_Dictionary_Phase_5.md), and [Phase 6](language/Edraen_Dictionary_Phase_6.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
 
 The pronunciation guides are practical reader aids rather than a complete phonetic transcription. Approved proper-name pronunciations listed elsewhere remain fixed.
 
@@ -480,7 +480,7 @@ The following 65 roots are approved additions. Their full alphabetical reference
 
 ### 2.7 Additional approved roots — Phase 7
 
-The following 84 roots are approved additions. Their complete alphabetical reference appears in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Phase 7](language/Edraen_Dictionary_Phase_7.md).
+The following 85 roots are approved additions. Their complete alphabetical reference appears in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Phase 7](language/Edraen_Dictionary_Phase_7.md).
 
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
@@ -521,6 +521,7 @@ The following 84 roots are approved additions. Their complete alphabetical refer
 | **KOLM** | Corner; the point or area where two edges or surfaces meet | kolm |
 | **KULM** | Clothing; garments worn on the body | kulm |
 | **LAVN** | Say; express something in words | lavn |
+| **LETHV** | Love; feel deep affection for someone | lethv (TH as in “thin”) |
 | **LIRV** | Like; find something pleasant or agreeable | lirv |
 | **LURV** | Hate; feel intense dislike or hostility toward someone or something | lurv |
 | **MELK** | Money; a medium of exchange or a general store of financial value | melk |
