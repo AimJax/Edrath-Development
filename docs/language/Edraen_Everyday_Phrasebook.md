@@ -91,6 +91,31 @@ A name may be inserted as a proper name. Do not invent an Edraen etymology for a
 
 The [Oath Translation Test](Edraen_Oath_Translation_Test.md) demonstrates how the same standard handles a longer, formal passage.
 
+
+## Expanded everyday vocabulary
+
+| Edraen | English |
+|---|---|
+| **AN ES DUVR.** | I am hungry. |
+| **ET ES ZUMR.** | You are thirsty. |
+| **AN ES MURM.** | I am tired. |
+| **AN ES SILV.** | I am careful. |
+| **AN ES ZELV.** | I am safe. |
+| **AN ES KARDV.** | I am strong. |
+| **AN ES MULM.** | I am weak. |
+| **LI DANL ES GURTH.** | The woman is beautiful. |
+| **LI DANM ES KARDV.** | The man is strong. |
+| **AN DERV NA BULM.** | I want soup. |
+| **AN VA GOVR TO LI THRAVM.** | I will go to the school. |
+| **LI THRAVN THRAV LI SAVTH.** | The teacher teaches the student. |
+| **AN VA RAVD LI RUVT.** | I will reach the station. |
+| **AN HURV NA PAVS.** | I have a purse. |
+| **AN ZEK LI ZILV.** | I see the pencil. |
+| **AN NU DERV TO TOVR.** | I do not want to steal. |
+| **AN VA STIL GOVR.** | I will still go. |
+
+The roots **DANL** and **DANM** mean woman and man; **DANV** means adult; **DANH** means infant. **THRAVM** is school and **THRAVN** is teacher. These additions broaden ordinary conversation without changing the sentence rules.
+
 ## Practical notes
 
 - **AN**, **ET**, **EN**, **IR**, and **UR** work as subjects and objects; their spelling does not change.
