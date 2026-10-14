@@ -181,7 +181,7 @@ The following 66 roots are approved additions. The master inventory contains the
 | **VELR** | White | velr |
 | **SKETH** | Gray | sketh (TH as in “thin”) |
 
-The cumulative approved inventory after Phase 2 contained 139 unique root spellings; after Phase 3 it contained 205; after the approved Phase 4 batch, it contains **270 unique root spellings**.
+The cumulative approved inventory at the end of Phase 2 contained **139 unique root spellings**.
 
 
 ### 2.3 Additional approved roots — Phase 3
