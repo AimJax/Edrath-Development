@@ -26,7 +26,7 @@ Each root has an approved meaning. The roots can be combined to form new vocabul
 | NHUR | Night | noor; NH is pronounced as N |
 | AETH | Sky | ayth; TH as in “thin” |
 
-These seven roots are the approved foundational core. The first two dictionary batches add 132 approved roots, for a cumulative total of 139. See [Edraen Dictionary — Master Inventory](Edraen_Dictionary.md) for the complete cumulative inventory and meanings, with [Phase 1](Edraen_Dictionary_Phase_1.md) and [Phase 2](Edraen_Dictionary_Phase_2.md) preserving the batch records. The master inventory is the reference for exact root spellings and current approved vocabulary.
+These seven roots are the approved foundational core. The first three dictionary batches add 198 approved roots, for a cumulative total of 205. See [Edraen Dictionary — Master Inventory](Edraen_Dictionary.md) for the complete cumulative inventory and meanings, with [Phase 1](Edraen_Dictionary_Phase_1.md), [Phase 2](Edraen_Dictionary_Phase_2.md), and [Phase 3](Edraen_Dictionary_Phase_3.md) preserving the batch records. The master inventory is the reference for exact root spellings and current approved vocabulary.
 
 ## 3. APPROVED COMPOUND PATTERNS
 
@@ -118,7 +118,7 @@ These terms are established vocabulary or chosen proper names. No root decomposi
 
 ## 9. FUTURE VOCABULARY AND GRAMMAR
 
-Future work may add further roots after checking the complete approved inventory in [Edraen Dictionary — Master Inventory](Edraen_Dictionary.md) for exact-spelling duplicates. The [Phase 3 Proposal](Edraen_Dictionary_Phase_3_Proposal.md) contains 66 unapproved suggestions and must not be treated as canon until the creator reviews them. Future work may also establish sentence structure, tense, number, pronouns, and idioms. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
+Future work may add further roots after checking the complete approved inventory in [Edraen Dictionary — Master Inventory](Edraen_Dictionary.md) for exact-spelling duplicates. The [Phase 4 Proposal](Edraen_Dictionary_Phase_4_Proposal.md) contains 65 unapproved suggestions and must not be treated as canon until the creator reviews them. Phase 3 is approved and recorded in [Edraen Dictionary — Phase 3](Edraen_Dictionary_Phase_3.md). Future work may also establish sentence structure, tense, number, pronouns, and idioms. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
 
 These are future expansions of an approved foundation, not unresolved approvals. Add them deliberately as the project needs them.
 
