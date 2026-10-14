@@ -1,7 +1,7 @@
 # EDRAEN — CONSTRUCTED LANGUAGE FOUNDATION
 
 **Document:** Language Design Principles  
-**Version:** 1.8  
+**Version:** 1.9  
 **Status:** Approved Foundational Canon
 
 ## 1. PURPOSE
@@ -90,7 +90,7 @@ Some words may eventually acquire meanings that cannot be understood by analyzin
 
 ## 6. GRAMMATICAL COMPLEXITY
 
-Edraen Standard v2.1 defines a practical grammar for ordinary use: pronouns, articles, plural marking, word order, the copula, tense, aspect, negation, modality, questions, commands, prepositions, comparison, conjunctions, relative and content clauses, passive voice, and number formation.
+Edraen Standard v3.0 defines a practical grammar for ordinary use: pronouns, articles, plural marking, word order, the copula, tense, aspect, negation, modality, questions, commands, prepositions, comparison, conjunctions, relative and content clauses, passive voice, and number formation.
 
 The full, approved rule set is maintained in [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md). Everyday examples are maintained in the [Edraen Everyday Phrasebook](Edraen_Everyday_Phrasebook.md). The central canon record summarizes the standard in the [Canon Registry](../00_Canon_Registry.md).
 
@@ -103,7 +103,7 @@ The basic design remains deliberately regular:
 - Compounds follow the two approved patterns and join directly.
 - New roots and grammar words must be checked for exact spelling collisions before approval.
 
-The language is now suitable for basic everyday conversation and connected writing. Future work should test longer texts, expand vocabulary where real use reveals gaps, and document idioms or refinements rather than inventing unrecorded rules during translation.
+The language is suitable for everyday conversation, practical writing, connected narrative, and formal passages. Future work should test longer texts, expand vocabulary where real use reveals gaps, and document idioms or refinements rather than inventing unrecorded rules during translation.
 
 ## 7. APPROVED WHOLE TERMS AND CHOSEN NAMES
 
@@ -127,7 +127,7 @@ These terms are established vocabulary or chosen proper names. No root decomposi
 
 ## 9. FUTURE VOCABULARY AND GRAMMAR
 
-Future work may add roots after checking the complete approved inventory in [Edraen Dictionary — Learner's Edition & Master Inventory](Edraen_Dictionary.md) for exact-spelling duplicates. The approved cumulative inventory now contains 603 roots across the foundational set and Phases 1–7. The approved batches are recorded in [Phase 4](Edraen_Dictionary_Phase_4.md), [Phase 5](Edraen_Dictionary_Phase_5.md), and [Phase 6](Edraen_Dictionary_Phase_6.md). The initial 400-root milestone is complete. See [Edraen Compounding Test — 400-Root Milestone](Edraen_Compounding_Test_400_Root_Milestone.md) for an exploratory audit of the existing compound patterns; trial compounds are not canon. Further work may refine the standard through usage tests, idioms, conversational registers, and additional vocabulary. The core everyday grammar is established in Standard Grammar v2. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
+Future work may add roots after checking the complete approved inventory in [Edraen Dictionary — Learner's Edition & Master Inventory](Edraen_Dictionary.md) for exact-spelling duplicates. The approved cumulative inventory now contains 628 roots across the foundational set and Phases 1–10. The approved batches are recorded in [Phase 1](Edraen_Dictionary_Phase_1.md), [Phase 2](Edraen_Dictionary_Phase_2.md), [Phase 3](Edraen_Dictionary_Phase_3.md), [Phase 4](Edraen_Dictionary_Phase_4.md), [Phase 5](Edraen_Dictionary_Phase_5.md), [Phase 6](Edraen_Dictionary_Phase_6.md), [Phase 7](Edraen_Dictionary_Phase_7.md), [Phase 8](Edraen_Dictionary_Phase_8.md), [Phase 9](Edraen_Dictionary_Phase_9.md), and [Phase 10](Edraen_Dictionary_Phase_10.md). The initial 400-root milestone is complete. See [Edraen Compounding Test — 400-Root Milestone](Edraen_Compounding_Test_400_Root_Milestone.md) for an exploratory audit of the existing compound patterns; trial compounds are not canon. Further work may refine the standard through usage tests, idioms, conversational registers, and additional vocabulary. The core everyday grammar is established in Standard Grammar v3.0. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
 
 These are future expansions of an approved foundation, not unresolved approvals. Add them deliberately as the project needs them.
 
