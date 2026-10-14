@@ -1,6 +1,6 @@
 # EDRAEN EVERYDAY PHRASEBOOK
 
-**Standard:** Edraen Standard v2.0  
+**Standard:** Edraen Standard v2.1  
 **Status:** Approved usage examples  
 **Rule:** Every example below uses approved roots and the documented grammar. Where a phrase is literal rather than idiomatic, the English rendering is kept close to the Edraen structure.
 
@@ -88,6 +88,8 @@ A name may be inserted as a proper name. Do not invent an Edraen etymology for a
 | **KU ET NU SAVN?** | Why do you not remember? |
 | **KAI AN KERV LI BRUK?** | How do I repair the door? |
 | **HA ET ES SETH?** | Are you well? |
+
+The [Oath Translation Test](Edraen_Oath_Translation_Test.md) demonstrates how the same standard handles a longer, formal passage.
 
 ## Practical notes
 
