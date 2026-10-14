@@ -115,12 +115,14 @@ def main() -> int:
 
     # Check every explicitly formatted Edraen phrase in the learner phrasebook and oath.
     allowed_proper_terms = {"EDRAEN", "EDRATH"}
+    checked_phrases = 0
     for path, text, patterns in (
         (PHRASEBOOK, read(PHRASEBOOK), [re.compile(r"^\| \*\*(.*?)\*\* \|", re.MULTILINE)]),
         (OATH, read(OATH), [re.compile(r"^\*\*Edraen\*\*\s*\n\s*([^\n]+)", re.MULTILINE)]),
     ):
         for pattern in patterns:
             for phrase in pattern.findall(text):
+                checked_phrases += 1
                 for token in re.findall(r"\b[A-Z]{2,7}\b", phrase):
                     if token not in root_set and token not in set(grammar_words) and token not in allowed_proper_terms:
                         errors.append(f"{path.relative_to(ROOT)} uses undefined Edraen token {token!r} in {phrase!r}.")
@@ -129,6 +131,7 @@ def main() -> int:
     print(f"  Master dictionary roots: {len(roots)}")
     print(f"  Unique grammar words:   {len(set(grammar_words))}")
     print(f"  Root/grammar collisions:{len(collisions)}")
+    print(f"  Phrasebook/oath entries checked: {checked_phrases}")
     print("  Phase root rows:        " + ", ".join(f"P{p}={phase_counts.get(p, 0)}" for p in range(1, 11)))
     if errors:
         print("\nFAIL")
