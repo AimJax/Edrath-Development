@@ -22,7 +22,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 ## Documentation
 
 - [Canon Registry](docs/00_Canon_Registry.md) — definitive list of approved decisions and the boundary between established canon and content not yet developed.
-- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, pronunciation conventions, and the Edraen Standard v3.0 overview.
+- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, pronunciation conventions, and the Edraen Standard v3.1 overview.
 - [Edraen Standard Grammar & Usage](docs/language/Edraen_Standard_Grammar.md) — practical grammar v3.0 for sentence formation, questions, tense, aspect, negation, prepositions, clauses, passive voice, numbers, temporal expressions, and everyday usage.
 - [Edraen Everyday Phrasebook](docs/language/Edraen_Everyday_Phrasebook.md) — usable examples for greetings, needs, requests, movement, feelings, health, work, money, technology, and everyday questions.
 - [Edraen Oath Translation Test](docs/language/Edraen_Oath_Translation_Test.md) — a line-by-line long-text test of the approved grammar and vocabulary.
