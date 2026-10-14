@@ -104,7 +104,7 @@ The following 66 roots are approved additions to the initial seven-root core. Th
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 
-The approved inventory contains **139 unique root spellings** across the seven foundational roots and two approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md) and [Phase 2](language/Edraen_Dictionary_Phase_2.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
+The approved inventory contains **205 unique root spellings** across the seven foundational roots and three approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), and [Phase 3](language/Edraen_Dictionary_Phase_3.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
 
 The pronunciation guides are practical reader aids rather than a complete phonetic transcription. Approved proper-name pronunciations listed elsewhere remain fixed.
 
@@ -181,7 +181,83 @@ The following 66 roots are approved additions. The master inventory contains the
 | **VELR** | White | velr |
 | **SKETH** | Gray | sketh (TH as in “thin”) |
 
-The cumulative approved inventory now contains **139 unique root spellings**.
+The cumulative approved inventory after Phase 2 contained 139 unique root spellings; after the approved Phase 3 batch, it contains **205 unique root spellings**.
+
+
+### 2.3 Additional approved roots — Phase 3
+
+The following 66 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 3](language/Edraen_Dictionary_Phase_3.md).
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
+| **BAK** | Run; move rapidly on foot | bak |
+| **DROK** | Break; cause something to separate or cease functioning | drok |
+| **DOVR** | Give; transfer something to another | dovr |
+| **DUV** | Eat; consume food | duv |
+| **DURN** | Build; construct or assemble | durn |
+| **KAVN** | Hold; keep or support in one's grasp | kavn |
+| **KORL** | Take; acquire or remove into one's possession | korl |
+| **MERV** | Make; create or produce something | merv |
+| **MUR** | Sleep; enter or remain in a state of sleep | mur |
+| **NETHR** | Enter; go into a place or space | nethr (TH as in “thin”) |
+| **NURTH** | Hide; conceal something or keep it out of sight | nurth (TH as in “thin”) |
+| **RAKH** | Answer; respond to a question or statement | rakh |
+| **RUV** | Travel; journey from one place to another | ruv |
+| **SARK** | Find; discover or locate something sought or not previously noticed | sark |
+| **SAVR** | Learn; acquire knowledge or skill through study or experience | savr |
+| **THAVN** | Ask; put a question or request information | thavn (TH as in “thin”) |
+| **THIR** | Hear; perceive sound through hearing | thir (TH as in “thin”) |
+| **THRAV** | Teach; help another acquire knowledge or skill | thrav (TH as in “thin”) |
+| **THULR** | Leave; go away from a place; exit | thulr (TH as in “thin”) |
+| **TUR** | Walk; move on foot at an ordinary pace | tur |
+| **VEK** | Move; change position or location | vek |
+| **VERK** | Open; cause an entrance, passage, or container to become accessible | verk |
+| **VULK** | Close; shut an entrance, passage, or container | vulk |
+| **ZEK** | See; perceive with the eyes | zek |
+| **ZUM** | Drink; consume liquid | zum |
+| **ZUV** | Choose; select from available options | zuv |
+| **DUM** | Small; limited in size | dum |
+| **GAVN** | Bad; harmful or undesirable in quality | gavn |
+| **GREL** | Clean; free from dirt or unwanted material | grel |
+| **KERTH** | Hard; resistant to pressure or deformation | kerth (TH as in “thin”) |
+| **KETHR** | Hot; having a high temperature | kethr (TH as in “thin”) |
+| **KOL** | Low; situated near the bottom or at a small height | kol |
+| **METH** | Slow; moving or happening at a low speed | meth (TH as in “thin”) |
+| **NARV** | Near; close in distance or position | narv |
+| **NEMR** | Empty; containing nothing or lacking contents | nemr |
+| **RAL** | Fast; moving or happening at high speed | ral |
+| **SETH** | Good; beneficial or desirable in quality | seth (TH as in “thin”) |
+| **SULR** | Quiet; making little or no sound | sulr |
+| **TARV** | High; situated at a great height or level | tarv |
+| **THAUR** | New; recently made, introduced, or brought into existence | thowr (AU as in “now”; TH as in “thin”) |
+| **THRAN** | Large; great in size or extent | thran (TH as in “thin”) |
+| **THERK** | Old; having existed or been in use for a long time | therk (TH as in “thin”) |
+| **URV** | Far; distant in space or position | urv |
+| **VELK** | Cold; having a low temperature | velk |
+| **VELM** | Soft; yielding readily to pressure or touch | velm |
+| **VELN** | Full; containing as much as can be held or intended | veln |
+| **ZERK** | Dirty; marked by dirt or unwanted material | zerk |
+| **DANR** | Child; a young person, without implying a fixed age boundary | danr |
+| **DOVN** | Neighbor; a person or household nearby | dovn |
+| **GURN** | Elder; an older person, without automatically implying authority | gurn |
+| **GUVR** | Stranger; a person not known to someone or a group | guvr |
+| **KAVTH** | Companion; one who accompanies another | kavth (TH as in “thin”) |
+| **NARTH** | Parent; a person in a parental relationship | narth (TH as in “thin”) |
+| **THARN** | Enemy; a person or group opposed to another | tharn (TH as in “thin”) |
+| **TULK** | Leader; a person who guides or directs others | tulk |
+| **ZARV** | Friend; a person with whom one has a bond of mutual affection or trust | zarv |
+| **ZURN** | Guest; a person received or hosted by another | zurn |
+| **KARTH** | Wall; an upright structure enclosing or dividing a space | karth (TH as in “thin”) |
+| **KELTH** | Rope; a length of twisted or braided material used for tying | kelth (TH as in “thin”) |
+| **KULR** | Cloth; flexible material made from fibers | kulr |
+| **MELTH** | Ash; fine residue left after a material has burned | melth (TH as in “thin”) |
+| **NURV** | Dust; fine dry particles of matter | nurv |
+| **THOL** | Smoke; airborne particles and gases produced by burning | thol (TH as in “thin”) |
+| **NERK** | Lose; cease to have or fail to retain something | nerk |
+| **VELTH** | Promise; give one's word or make a commitment | velth (TH as in “thin”) |
+| **KRETH** | Understand; grasp the meaning or significance of something | kreth (TH as in “thin”) |
+
+The cumulative approved inventory contains **205 unique root spellings** across the seven foundational roots and three 66-root addition batches. Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
 
 ## 3. THE FIVE CONTINENTS
 
