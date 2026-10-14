@@ -17,7 +17,7 @@ The batch expands everyday actions, household objects, physical descriptions, co
 
 ### Actions and everyday verbs
 
-| Proposed root | Approved meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **DROV** | Borrow; take and use something temporarily with the intention of returning it | drov |
 | **FAVR** | Hunt; search for or pursue animals for capture or food | favr |
@@ -37,7 +37,7 @@ The batch expands everyday actions, household objects, physical descriptions, co
 
 ### Tools and household objects
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **BULR** | Roof; the upper covering of a building | bulr |
 | **BULN** | Shelf; a flat support fixed to a wall or frame for storing objects | buln |
@@ -57,7 +57,7 @@ The batch expands everyday actions, household objects, physical descriptions, co
 
 ### Qualities and physical descriptions
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **DULV** | Bitter; having a sharp taste commonly associated with certain plants or substances | dulv |
 | **GULV** | Green; the color between yellow and blue in the visible spectrum | gulv |
@@ -74,7 +74,7 @@ The batch expands everyday actions, household objects, physical descriptions, co
 
 ### People and community
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **BRAL** | Sibling; a brother or sister, without specifying gender | bral |
 | **DARN** | Village; a small settled community | darn |
@@ -91,7 +91,7 @@ The batch expands everyday actions, household objects, physical descriptions, co
 
 ### Natural materials, foods, and living things
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **FAVN** | Shell; a hard outer covering of certain animals or seeds | favn |
 | **GELM** | Clay; fine-grained earth that can be shaped when wet | gelm |
@@ -115,4 +115,4 @@ The batch expands everyday actions, household objects, physical descriptions, co
 
 ## Approval record
 
-The creator approved the complete 65-root batch. All roots are included in the 335-root master inventory and Canon Registry. Sound-similarity observations are retained as design notes, not duplicate-spelling findings.
+The creator approved the complete 65-root batch. At that stage, the roots were included in the 335-root master inventory and Canon Registry; the cumulative approved inventory has since reached 400 roots. Sound-similarity observations are retained as design notes, not duplicate-spelling findings.
