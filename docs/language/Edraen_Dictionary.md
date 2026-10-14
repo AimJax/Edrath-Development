@@ -13,7 +13,7 @@ Root definitions are lexical only. They do not independently establish religions
 
 ## Quick start: reading and using Edraen
 
-Edraen Standard v2.1 supports ordinary statements, questions, commands, basic conversation, and connected clauses. The full rule set and phrase examples are in the [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md) and [Everyday Phrasebook](Edraen_Everyday_Phrasebook.md).
+Edraen Standard v3.0 supports ordinary statements, questions, commands, everyday conversation, practical writing, and connected clauses. The full rule set and phrase examples are in the [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md) and [Everyday Phrasebook](Edraen_Everyday_Phrasebook.md).
 
 ### Core pronouns and grammar words
 
@@ -34,6 +34,13 @@ These standalone forms are grammar words, not lexical roots. They are maintained
 | **NA** | a; an |
 | **MA** | plural marker |
 | **HA** | yes/no question marker |
+| **SOM** | some |
+| **ANY** | any |
+| **SANS** | without |
+| **TIL** | until |
+| **SIN** | since |
+| **ALTH** | although |
+| **DOT** | decimal point |
 
 ### Basic sentence order
 
