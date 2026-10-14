@@ -13,7 +13,7 @@ Edraen text uses three kinds of units:
 
 1. **Lexical roots** carry meanings such as person, water, run, remember, good, and city. The cumulative list is in the [Learner's Dictionary](Edraen_Dictionary.md).
 2. **Compounds** join roots according to the two approved compound patterns. A compound should have a clear relationship between its parts; do not assign a meaning to a trial compound without documenting it.
-3. **Grammar words** are separate short words that show relationships such as I, the, not, past, because, and where. They are not roots and do not count toward the 484-root inventory.
+3. **Grammar words** are separate short words that show relationships such as I, the, not, past, because, and where. They are not roots and do not count toward the 485-root inventory.
 
 The spelling of a root never changes to show tense, number, person, or grammatical role. Grammar words supply those functions.
 
