@@ -14,7 +14,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - **Five continents** — Kaldura, Veskara, Othmere, Sylvaris, and Umbrava.
 - **Twenty named countries** — four assigned to each continent in the current country plan.
 - **Five distinct continental profiles** — approved broad climate and geography for each continent.
-- **Edraen dictionary** — 400 approved roots with unique spellings: seven foundational roots, 66 additions in each of Phases 1–3, and 65 additions in each of Phases 4–6.
+- **Edraen dictionary** — 551 approved lexical roots with unique spellings: seven foundational roots, 393 additions in Phases 1–6, 85 additions in Phase 7, and 66 additions in Phase 8.
 - **Humanity** — approved as a foundational people and the world's “best” race as a fundamental truth from the Age of the Beginning onward, not a status earned later. Humans dominate much of the world's major political and institutional life, with variation by continent. This does not mean humans must be smarter, stronger, or best at every individual ability.
 - **Dravkhar** — chosen name of the preeminent human subrace. Its core design is approved: broad potential across human pursuits, a recognizable but non-mandatory visual signature, and ordinary human baseline biology. The supporting lore and formal Edraen etymology are deferred.
 - **Other races and peoples** — the design workshop prioritizes recognizable fantasy races, with original races to be developed alongside them. Detailed definitions remain proposals until approved.
