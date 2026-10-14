@@ -108,20 +108,25 @@ def main() -> int:
     if len(phase_roots) != len(roots):
         errors.append(f"Phase records contain {len(phase_roots)} root rows; master dictionary contains {len(roots)}.")
 
-    if "Edraen Standard v3.0" not in grammar:
-        errors.append("Grammar document does not identify Edraen Standard v3.0.")
+    if "Edraen Standard v3.1" not in grammar:
+        errors.append("Grammar document does not identify Edraen Standard v3.1.")
     registry_count = re.search(r"\*\*(\d+) unique root spellings\*\*", registry)
     if not registry_count or int(registry_count.group(1)) != expected_count:
         recorded = registry_count.group(1) if registry_count else "missing"
         errors.append(f"Canon Registry records {recorded} roots but the dictionary declares {expected_count}.")
-    if "Edraen Standard v3.0" not in registry:
-        errors.append("Canon Registry does not reference Edraen Standard v3.0.")
+    if "Edraen Standard v3.1" not in registry:
+        errors.append("Canon Registry does not reference Edraen Standard v3.1.")
     readme_count = re.search(r"\*\*Edraen dictionary\*\* — (\d+) approved lexical roots", readme)
     if not readme_count or int(readme_count.group(1)) != expected_count:
         recorded = readme_count.group(1) if readme_count else "missing"
         errors.append(f"README records {recorded} roots but the dictionary declares {expected_count}.")
-    if "Edraen Standard v3.0" not in readme:
-        errors.append("README does not reference Edraen Standard v3.0.")
+    if "Edraen Standard v3.1" not in readme:
+        errors.append("README does not reference Edraen Standard v3.1.")
+
+    if "Action nominalization" not in grammar or "LI DUV BAVR" not in grammar:
+        errors.append("Grammar is missing the approved action-nominalization rule.")
+    if "AN LIRV LI DUV BAVR." not in read(PHRASEBOOK):
+        errors.append("Phrasebook is missing the activity-nominalization regression example.")
 
     # Check every explicitly formatted Edraen phrase in the learner phrasebook and oath.
     allowed_proper_terms = {"EDRAEN", "EDRATH"}
