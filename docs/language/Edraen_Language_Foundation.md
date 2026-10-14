@@ -1,7 +1,7 @@
 # EDRAEN — CONSTRUCTED LANGUAGE FOUNDATION
 
 **Document:** Language Design Principles  
-**Version:** 1.4  
+**Version:** 1.5  
 **Status:** Approved Foundational Canon
 
 ## 1. PURPOSE
@@ -90,62 +90,20 @@ Some words may eventually acquire meanings that cannot be understood by analyzin
 
 ## 6. GRAMMATICAL COMPLEXITY
 
-Edraen begins with a minimal grammatical framework. Avoid unnecessary conjugations, arbitrary endings, excessive exceptions, and rules that make vocabulary creation burdensome.
+Edraen Standard v2.0 defines a practical grammar for ordinary use: pronouns, articles, plural marking, word order, the copula, tense, aspect, negation, modality, questions, commands, prepositions, comparison, conjunctions, relative and content clauses, passive voice, and number formation.
 
-Edraen now has an approved minimal sentence grammar for basic statements. It establishes pronouns, subject–verb–object order, simple tense markers, negation, and a basic possessive phrase. This is intentionally a first version rather than a complete grammar.
+The full, approved rule set is maintained in [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md). Everyday examples are maintained in the [Edraen Everyday Phrasebook](Edraen_Everyday_Phrasebook.md). The central canon record summarizes the standard in the [Canon Registry](../00_Canon_Registry.md).
 
-### Minimal sentence grammar — Approved v1
+The basic design remains deliberately regular:
 
-#### Standalone grammar words
+- Subject–verb–object is the default sentence order.
+- Roots do not change form for tense, person, or number.
+- Grammar words are separate tokens and are not lexical roots.
+- Word order and small grammar words express most grammatical relationships.
+- Compounds follow the two approved patterns and join directly.
+- New roots and grammar words must be checked for exact spelling collisions before approval.
 
-These forms are grammatical particles and pronouns, not lexical roots. They do not count toward the 400-root inventory.
-
-| Edraen | Meaning | Function |
-|---|---|---|
-| **AN** | I; me | First-person singular pronoun |
-| **ET** | You | Second-person pronoun; singular and plural are not distinguished |
-| **EN** | We; us | First-person plural pronoun |
-| **UR** | They; them | Third-person plural pronoun |
-| **NU** | Not | Negation particle |
-| **DA** | Past | Past-time marker |
-| **VA** | Future | Future-time marker |
-
-#### Word order
-
-The default order for a basic statement is:
-
-**SUBJECT + (NU) + (DA or VA) + VERB + OBJECT**
-
-- Use subject → verb → object.
-- With no tense marker, an action is present or general: **AN BAK.** — “I run.”
-- Put **DA** before the verb for past time: **ET DA BAK.** — “You ran.”
-- Put **VA** before the verb for future time: **EN VA BAK.** — “We will run.”
-- Put **NU** before the tense marker and verb to negate the action: **ET NU DA DUV SARN.** — “You did not eat fruit.”
-- A verb keeps its dictionary form; it does not change for person or tense.
-- The same pronoun form is used for subjects and objects.
-
-#### Possession
-
-For a simple possessive phrase, place the possessor before the noun, without an ending or separate possessive particle:
-
-- **AN VAEL** — “my heart”
-- **ET BRUK** — “your door”
-- **EN DOM** — “our home”
-- **UR DASK** — “their law”
-
-#### Sentence examples
-
-- **AN BAK.** — I run.
-- **ET DA BAK.** — You ran.
-- **EN VA BAK.** — We will run.
-- **UR ZARK THREN.** — They protect people.
-- **AN NU FALN.** — I do not fall.
-- **ET NU DA DUV SARN.** — You did not eat fruit.
-- **EN VA BRAV BULK.** — We will carry a barrel.
-
-#### Limits of v1
-
-This first grammar does not yet establish articles, questions, plural marking on ordinary nouns, a general “to be” verb, or complex and subordinate sentences. Those forms must not be improvised and presented as approved grammar. Additional grammar may be added deliberately when it serves a clear purpose, particularly for dialogue and more complex expression.
+The language is now suitable for basic everyday conversation and connected writing. Future work should test longer texts, expand vocabulary where real use reveals gaps, and document idioms or refinements rather than inventing unrecorded rules during translation.
 
 ## 7. APPROVED WHOLE TERMS AND CHOSEN NAMES
 
@@ -169,7 +127,7 @@ These terms are established vocabulary or chosen proper names. No root decomposi
 
 ## 9. FUTURE VOCABULARY AND GRAMMAR
 
-Future work may add roots after checking the complete approved inventory in [Edraen Dictionary — Learner's Edition & Master Inventory](Edraen_Dictionary.md) for exact-spelling duplicates. The approved batches are recorded in [Phase 4](Edraen_Dictionary_Phase_4.md), [Phase 5](Edraen_Dictionary_Phase_5.md), and [Phase 6](Edraen_Dictionary_Phase_6.md). The initial 400-root milestone is complete. See [Edraen Compounding Test — 400-Root Milestone](Edraen_Compounding_Test_400_Root_Milestone.md) for an exploratory audit of the existing compound patterns; trial compounds are not canon. Future work may further develop articles, question formation, plural marking, a general “to be” verb, complex and subordinate sentences, and idioms. Basic pronouns, sentence order, tense marking, negation, and simple possession are already established in grammar v1. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
+Future work may add roots after checking the complete approved inventory in [Edraen Dictionary — Learner's Edition & Master Inventory](Edraen_Dictionary.md) for exact-spelling duplicates. The approved cumulative inventory now contains 484 roots across the foundational set and Phases 1–7. The approved batches are recorded in [Phase 4](Edraen_Dictionary_Phase_4.md), [Phase 5](Edraen_Dictionary_Phase_5.md), and [Phase 6](Edraen_Dictionary_Phase_6.md). The initial 400-root milestone is complete. See [Edraen Compounding Test — 400-Root Milestone](Edraen_Compounding_Test_400_Root_Milestone.md) for an exploratory audit of the existing compound patterns; trial compounds are not canon. Further work may refine the standard through usage tests, idioms, conversational registers, and additional vocabulary. The core everyday grammar is established in Standard Grammar v2. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
 
 These are future expansions of an approved foundation, not unresolved approvals. Add them deliberately as the project needs them.
 
