@@ -1,6 +1,6 @@
 # EDRAEN STANDARD GRAMMAR & USAGE
 
-**Standard:** Edraen Standard v2.0  
+**Standard:** Edraen Standard v2.1  
 **Status:** Approved language standard  
 **Purpose:** A practical grammar for everyday conversation, clear prose, dialogue, and connected writing  
 **Lexical inventory:** 485 approved roots; grammar words are listed separately
@@ -13,7 +13,7 @@ Edraen text uses three kinds of units:
 
 1. **Lexical roots** carry meanings such as person, water, run, remember, good, and city. The cumulative list is in the [Learner's Dictionary](Edraen_Dictionary.md).
 2. **Compounds** join roots according to the two approved compound patterns. A compound should have a clear relationship between its parts; do not assign a meaning to a trial compound without documenting it.
-3. **Grammar words** are separate short words that show relationships such as I, the, not, past, because, and where. They are not roots and do not count toward the 485-root inventory.
+3. **Grammar words** are separate short words that show relationships such as I, the, not, past, because, and where. They are not roots and do not count toward the 551-root inventory.
 
 The spelling of a root never changes to show tense, number, person, or grammatical role. Grammar words supply those functions.
 
@@ -92,10 +92,17 @@ These forms are separate grammatical words, not lexical roots. Their spellings m
 | **UND** | under | Preposition |
 | **OV** | over; above | Preposition |
 | **THU** | through | Preposition |
-| **AR** | around | Preposition |
+| **AR** | around |
+| **BEH** | behind |
+| **BET** | between | Preposition |
 | **SI** | more | Comparative marker |
 | **SU** | most | Superlative marker |
 | **AS** | as; equally | Equality comparison marker |
+| **AL** | all; every | Universal determiner |
+| **OTH** | other; another | Modifier meaning not the same one |
+| **BEH** | behind | Preposition |
+| **BET** | between | Preposition |
+| **LET** | let; allow | Permissive marker placed before a subject and its verb phrase |
 | **THAN** | than | Comparison connector |
 
 ## 2. Pronunciation and spelling
@@ -206,7 +213,9 @@ A number or plural demonstrative makes **MA** unnecessary:
 
 Do not add plural endings to roots.
 
-### Demonstratives
+### Demonstratives and universal/other modifiers
+
+**AL** means “all/every” and **OTH** means “other/another.” The plural marker precedes descriptive material: **AL MA OTH SURN** — all other souls. **OTH MA DAN** means other people.
 
 | Edraen | Meaning |
 |---|---|
@@ -338,6 +347,8 @@ The practical verb-phrase order is:
 
 **NU + TENSE + ASPECT + MODAL + RI (if passive) + VERB**
 
+**LET** introduces a permissive clause and comes before its subject: **LET MA KAVT KAVN UR MA TULV.** — Let kings keep their crowns. Unlike a normal command, the person or group being allowed to act is stated after **LET**.
+
 Not every combination is equally natural. Use only the markers needed to express the intended meaning.
 
 ## 8. Questions and answers
@@ -365,6 +376,8 @@ The question word goes at the beginning:
 | **KE** | when |
 | **KU** | why |
 | **KAI** | how |
+
+The interrogative **KE** also introduces a temporal clause meaning “when”: **KE LI THAK TERV** — when war comes. In a direct question it asks “when?” and begins the question as usual.
 
 Examples:
 
@@ -414,7 +427,7 @@ Examples:
 - **EN VA GOVR TO LI MOLN.** — We will go to the city.
 - **LI ZULR ES ON LI NOLR.** — The book is on the table.
 
-The roots **VULR** (“before”) and **NETHL** (“after”) can also describe time relations: **AN TERV VULR DAK** — I come before day; **AN TERV NETHL DAK** — I come after day.
+**TO** may precede a verb to introduce an infinitive or purpose complement, as in **AN DOVT TO TOVR** — I need to steal. The roots **VULR** (“before”) and **NETHL** (“after”) can also describe time relations: **AN TERV VULR DAK** — I come before day; **AN TERV NETHL DAK** — I come after day.
 
 ## 11. Joining phrases and clauses
 
@@ -435,6 +448,7 @@ Examples:
 - **BEK** means “because.”
 - **IF** introduces a condition.
 - **THEN** marks the next step or result.
+- **LET** introduces a permissive clause (“let/allow”).
 - Use **THEN** for sequence or result and **BEK** for a reason.
 
 Examples:
@@ -539,4 +553,4 @@ Before adding a root or grammar word:
 
 Similar sounds are permitted; exact duplicate spellings are not. Roots and grammar words are separate inventories, but **no exact spelling collision between them is allowed**.
 
-This document defines a usable standard grammar. Future work should focus on expanding vocabulary, documenting idioms and conversational registers, testing long translations, and refining any rule that proves ambiguous in real use.
+This document defines a usable standard grammar. The **AL**, **OTH**, **BEH**, **BET**, and **LET** forms are part of Standard v2.1. Future work should focus on expanding vocabulary, documenting idioms and conversational registers, testing long translations, and refining any rule that proves ambiguous in real use.
