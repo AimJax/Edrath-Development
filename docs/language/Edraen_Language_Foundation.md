@@ -26,7 +26,7 @@ Each root has an approved meaning. The roots can be combined to form new vocabul
 | NHUR | Night | noor; NH is pronounced as N |
 | AETH | Sky | ayth; TH as in “thin” |
 
-These seven roots are the approved initial core. Additional concepts—such as water, life, death, fire, memory, and home—are useful targets for future vocabulary creation, but their Edraen words have not been coined by this foundation.
+These seven roots are the approved initial core. The first full dictionary batch adds 66 approved roots; see [Edraen Dictionary — Phase 1](Edraen_Dictionary_Phase_1.md) for the complete inventory and meanings. That dictionary is the reference for exact root spellings and the current approved vocabulary.
 
 ## 3. APPROVED COMPOUND PATTERNS
 
@@ -118,7 +118,7 @@ These terms are established vocabulary or chosen proper names. No root decomposi
 
 ## 9. FUTURE VOCABULARY AND GRAMMAR
 
-Future work may add roots for water, life, death, fire, memory, home, achievement, and other concepts. It may also establish sentence structure, tense, number, pronouns, and idioms. The intended association between Dravkhar and achievement is a useful vocabulary target, not an approved root definition or literal translation.
+Future work may add further roots after checking the complete approved inventory for exact-spelling duplicates. It may also establish sentence structure, tense, number, pronouns, and idioms. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
 
 These are future expansions of an approved foundation, not unresolved approvals. Add them deliberately as the project needs them.
 
