@@ -1,4 +1,4 @@
-# EDRAEN DICTIONARY — MASTER INVENTORY
+# EDRAEN DICTIONARY — LEARNER'S EDITION & MASTER INVENTORY
 
 **Status:** Approved Canon  
 **Purpose:** Canonical cumulative reference for every approved Edraen root  
@@ -7,9 +7,62 @@
 
 ## Canon boundary
 
-This is the canonical master reference for exact root spellings, meanings, and reader-friendly pronunciation guides. Roots are listed alphabetically so exact spelling can be audited efficiently. Historical batch records are available in [Phase 1](Edraen_Dictionary_Phase_1.md), [Phase 2](Edraen_Dictionary_Phase_2.md), [Phase 3](Edraen_Dictionary_Phase_3.md), [Phase 4](Edraen_Dictionary_Phase_4.md), [Phase 5](Edraen_Dictionary_Phase_5.md), and [Phase 6](Edraen_Dictionary_Phase_6.md).
+This is the single cumulative, learner-facing dictionary for all 400 approved Edraen roots from the foundational set and Phases 1–6. Use it as the everyday reference; the six phase files are historical batch records. Entries retain approved meanings and reader-friendly pronunciation guides. The root list is alphabetized and grouped by initial letter for casual reading and lookup.
 
 Root definitions are lexical only. They do not independently establish religions, metaphysics, histories, social institutions, cultural practices, or facts about the peoples of Edrath.
+
+## Quick start: reading and using Edraen
+
+Edraen now has a small approved sentence system. You can use the rules below to make basic sentences without changing the spelling of dictionary roots.
+
+### Grammar words
+
+These are standalone grammar words, **not lexical roots**. They do not count toward the 400-root inventory.
+
+| Edraen | Meaning | Use |
+|---|---|---|
+| **AN** | I; me | First-person singular pronoun |
+| **ET** | You | Second-person pronoun; number is not distinguished |
+| **EN** | We; us | First-person plural pronoun |
+| **UR** | They; them | Third-person plural pronoun |
+| **NU** | Not | Negates the verb phrase |
+| **DA** | Past | Marks a past action |
+| **VA** | Future | Marks a future action |
+
+### Basic sentence order
+
+**Subject + (NU) + (DA or VA) + verb + object**
+
+- The normal order is **subject → verb → object**.
+- Put **DA** before the verb for past time and **VA** before the verb for future time. With no tense marker, the sentence is present or general.
+- Put **NU** before the tense marker and verb to make the action negative.
+- Verbs keep the dictionary form. They do not change for person or tense.
+- The same pronoun form can be used as a subject or object.
+
+### First examples
+
+| Edraen | English |
+|---|---|
+| **AN BAK.** | I run. |
+| **ET DA BAK.** | You ran. |
+| **EN VA BAK.** | We will run. |
+| **UR ZARK THREN.** | They protect people. |
+| **AN NU FALN.** | I do not fall. |
+| **ET NU DA DUV SARN.** | You did not eat fruit. |
+| **EN VA BRAV BULK.** | We will carry a barrel. |
+
+### Possession
+
+Put the possessor before the thing possessed. Do not add an ending.
+
+- **AN VAEL** — my heart
+- **ET BRUK** — your door
+- **EN DOM** — our home
+- **UR DASK** — their law
+
+### What this first version does not define yet
+
+Articles (*a*, *an*, *the*), question formation, plural marking on ordinary nouns, a general “to be” verb, and complex or subordinate sentences are not established yet. English articles may be supplied naturally when translating, based on context. Do not treat missing rules as permission to invent them silently.
 
 ## Approved pronunciation conventions
 
@@ -24,10 +77,19 @@ Root definitions are lexical only. They do not independently establish religions
 
 ## Complete approved root inventory
 
+The tables below contain all 400 approved roots in alphabetical order. Each entry gives the root, its approved meaning, and a practical pronunciation guide.
+
+### A
+
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **AEN** | Eternal; enduring beyond generations and ages | ayn (approximately rhymes with “rain”) |
 | **AETH** | Sky | ayth (TH as in “thin”) |
+
+### B
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **BAK** | Run; move rapidly on foot | bak |
 | **BARK** | Cut; divide or remove part of something with a sharp edge | bark |
 | **BARN** | Carpenter; a person who builds or repairs wooden structures | barn |
@@ -43,6 +105,11 @@ Root definitions are lexical only. They do not independently establish religions
 | **BULK** | Barrel; a large cylindrical container | bulk |
 | **BULN** | Shelf; a flat support fixed to a wall or frame for storing objects | buln |
 | **BULR** | Roof; the upper covering of a building | bulr |
+
+### D
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **DAK** | Day; daylight period | dak |
 | **DAN** | Person; an individual human or other person-like being, if the wider setting establishes such beings | dan |
 | **DANR** | Child; a young person, without implying a fixed age boundary | danr |
@@ -79,8 +146,18 @@ Root definitions are lexical only. They do not independently establish religions
 | **DURK** | Dry; lacking moisture or liquid | durk |
 | **DURN** | Build; construct or assemble | durn |
 | **DUV** | Eat; consume food | duv |
+
+### E
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **ED** | Primordial; original; that which existed from the beginning | ed |
 | **ELK** | East | elk |
+
+### F
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **FALK** | Throw; send an object through the air by releasing it | falk |
 | **FALN** | Fall; move downward under gravity or lose an upright position | faln |
 | **FALR** | Pale; light or lacking intensity in color | falr |
@@ -96,6 +173,11 @@ Root definitions are lexical only. They do not independently establish religions
 | **FRAV** | Ride; travel while mounted on or carried by a moving conveyance | frav |
 | **FURK** | Bell; an object that produces a ringing sound when struck or moved | furk |
 | **FURV** | Notice; become aware of something through observation or attention | furv |
+
+### G
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **GAR** | Mountain | gar |
 | **GARN** | Help; make a task easier or support another | garn |
 | **GATH** | Flesh; bodily tissue | gath (TH as in “thin”) |
@@ -127,8 +209,18 @@ Root definitions are lexical only. They do not independently establish religions
 | **GURV** | Bright; giving or reflecting much light | gurv |
 | **GUV** | Insect | guv |
 | **GUVR** | Stranger; a person not known to someone or a group | guvr |
+
+### H
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **HARN** | Sharp; having an edge or point able to cut or pierce | harn |
 | **HULV** | Reed; a tall, slender plant commonly growing in wet ground | hulv |
+
+### K
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **KAD** | Beginning; starting point | kad |
 | **KAL** | Truth; that which is true | kal |
 | **KALN** | Always; at all times or on every relevant occasion | kaln |
@@ -182,6 +274,11 @@ Root definitions are lexical only. They do not independently establish religions
 | **KULV** | Trader; a person who exchanges or sells goods | kulv |
 | **KURM** | Anchor; a heavy device used to hold a vessel in place | kurm |
 | **KURV** | Authority; recognized power to direct or govern | kurv |
+
+### L
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **LARN** | Bed; furniture or a place used for sleeping | larn |
 | **LARV** | Net; a mesh used to catch, hold, or contain things | larv |
 | **LATH** | Vine | lath (TH as in “thin”) |
@@ -195,6 +292,11 @@ Root definitions are lexical only. They do not independently establish religions
 | **LUR** | Leg | lur |
 | **LUTH** | Chair; a seat designed for one person | luth (TH as in “thin”) |
 | **LUTHR** | Wet; covered with or saturated by liquid | luthr (TH as in “thin”) |
+
+### M
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **MAL** | Hair | mal |
 | **MALK** | Metal | malk |
 | **MARN** | Age; a period or span of time | marn |
@@ -221,6 +323,11 @@ Root definitions are lexical only. They do not independently establish religions
 | **MURK** | Dream; experience or imagery during sleep | murk |
 | **MURN** | Wake; stop sleeping or cause someone to stop sleeping | murn |
 | **MURTH** | Black; the darkest color, absorbing most visible light | murth (TH as in “thin”) |
+
+### N
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **NAG** | Name; identifying word or designation | nag |
 | **NAR** | North | nar |
 | **NARK** | Climb; move upward using hands, feet, or equipment | nark |
@@ -248,6 +355,11 @@ Root definitions are lexical only. They do not independently establish religions
 | **NURTH** | Hide; conceal something or keep it out of sight | nurth (TH as in “thin”) |
 | **NURV** | Dust; fine dry particles of matter | nurv |
 | **NUVR** | Smell; perceive odors through the nose | nuvr |
+
+### P
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **PALK** | Push; apply force to move something away | palk |
 | **PARN** | Pull; apply force to draw something closer | parn |
 | **PAVN** | Feather; a light structure covering a bird's body | pavn |
@@ -260,6 +372,11 @@ Root definitions are lexical only. They do not independently establish religions
 | **PIRV** | Fly; move through the air under one's own power or by means of wings | pirv |
 | **PRAV** | Turn; change direction or orientation | prav |
 | **PULR** | Bucket; a deep container with a handle | pulr |
+
+### R
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **RAG** | Work; labor or purposeful activity | rag |
 | **RAKH** | Answer; respond to a question or statement | rakh |
 | **RAL** | Fast; moving or happening at high speed | ral |
@@ -278,6 +395,11 @@ Root definitions are lexical only. They do not independently establish religions
 | **RULTH** | Glowing; giving off a steady, soft light | rulth (TH as in “thin”) |
 | **RULV** | Divide; separate into parts or portions | rulv |
 | **RUV** | Travel; journey from one place to another | ruv |
+
+### S
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **SARK** | Find; discover or locate something sought or not previously noticed | sark |
 | **SARN** | Fruit; the edible seed-bearing part of a plant or a comparable food category | sarn |
 | **SAVK** | Plan; form an intended course of action | savk |
@@ -301,6 +423,11 @@ Root definitions are lexical only. They do not independently establish religions
 | **SULTH** | Secret; information kept from people who are not meant to know it | sulth (TH as in “thin”) |
 | **SULV** | Ore; rock or mineral material from which a useful substance can be extracted | sulv |
 | **SURN** | Spirit or soul as a vocabulary concept; this definition does not establish what such a thing is or whether it exists | surn |
+
+### T
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **TAL** | Skin | tal |
 | **TALN** | Cousin; a child of one's aunt or uncle, or a comparable kin relation | taln |
 | **TALV** | Lift; raise something to a higher position | talv |
@@ -349,8 +476,18 @@ Root definitions are lexical only. They do not independently establish religions
 | **TULR** | Crooked; bent or not following a straight line | tulr |
 | **TUR** | Walk; move on foot at an ordinary pace | tur |
 | **TURK** | Soon; in a short time from now or from a reference point | turk |
+
+### U
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **URD** | West | urd |
 | **URV** | Far; distant in space or position | urv |
+
+### V
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **VAD** | Up; upward direction | vad |
 | **VAEL** | Heart | vayl |
 | **VAK** | End; finishing point or limit | vak |
@@ -387,7 +524,17 @@ Root definitions are lexical only. They do not independently establish religions
 | **VURK** | Heal; recover or help recover from injury or illness | vurk |
 | **VURM** | Cough; force air from the lungs in a sudden burst | vurm |
 | **VURN** | Anger | vurn |
+
+### Y
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **YAR** | Joy; happiness | yar |
+
+### Z
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
 | **ZAK** | Wind | zak |
 | **ZAL** | Seed | zal |
 | **ZAR** | Life; the state of being alive | zar |
