@@ -3,7 +3,7 @@
 **Status:** Working Draft — Proposals Only; Not Canon  
 **Scope:** Core-root candidates  
 **Sound direction:** Hard and ancient, with strong consonants  
-**Batch:** 67 proposed roots, in addition to the 7 approved roots
+**Batch:** 66 proposed roots, in addition to the 7 approved roots
 
 ## 1. Purpose and canon boundary
 
@@ -117,7 +117,6 @@ All roots and definitions in this section are candidates. The pronunciation colu
 | **KARN** | Kin; family or related people | karn |
 | **DOM** | Home; place of residence or belonging | dom |
 | **KEL** | Land; a tract or area of territory, rather than soil as material | kel |
-| **GAVR** | Peace; a condition without active conflict | gav-r (reader guide only; syllable structure remains provisional) |
 | **GRAK** | Honor; recognized esteem or integrity | grak |
 
 ### Living world and materials
