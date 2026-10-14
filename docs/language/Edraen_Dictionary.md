@@ -382,6 +382,13 @@ Root definitions are lexical only. They do not independently establish religions
 - **SULR** means quiet; **SILR** means read. The similar forms are distinct roots.
 - **KEL** means land or territory; **KELR** means change, **KELV** means deep, and **KELN** means agree. These meanings are distinct.
 
+- **GEL** = head; **GELN** = rough; **GELM** = clay; **GELV** = ladder. The spellings are distinct and their meanings should remain clear in use.
+- **DULV** = bitter; **DULTH** = sour; **DULN** = cheese. These similar forms are separate approved roots.
+- **ZELN** = guard; **ZELR** = map; **ZELTH** = early. These similar forms are separate approved roots.
+- **SILN** = loud; **SILR** = read. Their similar forms should be kept distinct in pronunciation.
+- **MELR** = lush; **MEL** = flower; **MELTH** = ash; **MELN** = ink; **MELV** = artisan.
+- **VURK** = heal or recover; **ZURV** = cure or bring about recovery. Their meanings are related but not identical.
+
 ## Exact-spelling policy and audit
 
 Every root must have a unique complete spelling. Similar sounds, shared letters, or a root appearing as a substring inside a longer word do not constitute an exact-spelling duplicate.
