@@ -1,6 +1,6 @@
 # EDRAEN STANDARD GRAMMAR & USAGE
 
-**Standard:** Edraen Standard v3.0  
+**Standard:** Edraen Standard v3.1  
 **Status:** Approved language standard  
 **Purpose:** A practical grammar for everyday conversation, clear prose, dialogue, and connected writing  
 **Lexical inventory:** 628 approved roots; grammar words are listed separately
@@ -136,6 +136,20 @@ The dictionary's recorded pronunciation guide takes priority where a lexical wor
 - Proper names and roots with recorded pronunciation guides retain those guides.
 
 New roots should be easy to pronounce and spelled consistently. The current inventory does not use C, J, Q, W, or X in native roots. Future additions should not introduce them casually; a deliberate sound-system revision would be needed first.
+
+### Native root shapes and syllables
+
+The approved inventory gives a conservative guide for coining new roots. These are practical spelling-and-sound patterns, not a claim that every word has received a full phonemic analysis.
+
+- Treat **AE** and **AU** as single established vowel units when reading a root; do not split them into two syllables.
+- Most roots are one syllable, commonly with a shape like **CVC** or **CVCC**. Two-syllable roots such as **BEMRA**, **DOMAR**, and **ZORKAL** are also established; a smaller number have three syllables, such as **MORALA**.
+- Vowel-initial roots are permitted, as shown by **ED**, **AEN**, and **AETH**. Do not add a leading consonant merely to force every root into one template.
+- Initial consonant clusters are limited in the current inventory. Established examples include **BR**, **DR**, **FR**, **GR**, **KR**, **PR**, **SK**, and **THR**. Do not introduce a new initial cluster casually.
+- Common final clusters include **LK**, **LM**, **LN**, **LR**, **RK**, **RN**, **RV**, and **LV**. This list is descriptive, not exhaustive.
+- **TH**, **KH**, and **NH** are each treated as one consonant spelling unit. Compounds can create new word-boundary sequences; preserve the approved roots and do not insert a linking vowel unless a rule explicitly requires one.
+- A proposed root outside these patterns is not automatically forbidden, but it should be reviewed as a deliberate sound-system exception before approval.
+
+For a one-syllable root, stress falls on its only syllable. In longer words, the default remains penultimate stress unless a recorded pronunciation guide takes priority.
 
 ### Writing conventions
 
@@ -550,6 +564,8 @@ Combine them with numbers and prepositions: **BI HURK** — two hours; **IN TRI 
 | **AN NU FIRV.** | I do not know. |
 | **AN LO FARL EDRAEN.** | I am speaking Edraen. |
 | **AN PE DUV LI VEM.** | I have eaten the food. |
+| **AN LIRV LI DUV BAVR.** | I like eating meat. |
+| **LI DUV BAVR ES SETH.** | Eating meat is good. |
 | **AN DA LO FARL MI ET.** | I was speaking with you. |
 | **HA ET DERV LI VEM?** | Do you want the food? |
 | **KO ET GELR?** | Where do you live? |
@@ -574,7 +590,7 @@ Before adding a root or grammar word:
 
 Similar sounds are permitted; exact duplicate spellings are not. Roots and grammar words are separate inventories, but **no exact spelling collision between them is allowed**.
 
-This document defines the practical standard grammar for everyday Edraen. Standard v3.0 clarifies noun-phrase order, number formation, embedded questions, temporal relations, and new everyday vocabulary. It also adds **SOM**, **ANY**, **SANS**, **TIL**, **SIN**, **ALTH**, and **DOT**. Future vocabulary additions remain welcome, but grammar must not be improvised during translation; update this standard first when a rule needs to change.
+This document defines the practical standard grammar for everyday Edraen. Standard v3.1 clarifies action nominalization, infinitive subject control, negation scope in verb complements, and conservative sound-shape guidance drawn from the approved inventory. Standard v3.0 established noun-phrase order, number formation, embedded questions, temporal relations, and additional everyday grammar words. Future vocabulary additions remain welcome, but grammar must not be improvised during translation; update this standard first when a rule needs to change.
 
 ## 17. Noun-phrase order and quantity
 
@@ -599,12 +615,20 @@ Use **MA** for an unspecified plural count noun. Do not use **MA** after an expl
 
 ## 18. Verb complements and infinitives
 
-Use **TO + bare verb** after a verb of desire, need, planning, attempt, or a similar intention when the second action is expressed:
+Use **TO + bare verb phrase** after a verb of desire, preference, aversion, need, planning, attempt, or a similar intention when the second action is expressed:
 
 - **AN DERV TO TUR.** — I want to walk.
 - **AN DOVT TO SAVR.** — I need to learn.
 - **AN SAVK TO GOVR.** — I plan to go.
 - **AN FALD TO KERV LI BRUK.** — I try to repair the door.
+- **AN LIRV TO DUV BAVR.** — I like to eat meat.
+
+The subject of a **TO** infinitive is understood to be the same as the subject of the main verb. If the intended actor is different, use **THA** followed by a complete clause: **AN DERV THA ET DUV BAVR.** — I want you to eat meat.
+
+Negation scope follows the same principle as in ordinary clauses:
+
+- **AN NU LIRV TO DUV BAVR.** — I do not like to eat meat.
+- **AN LIRV TO NU DUV BAVR.** — I like not to eat meat.
 
 The ability root **TALR** and the grammar modals **ME**, **MO**, **SO**, and **WO** take a bare verb without **TO**:
 
@@ -615,6 +639,20 @@ The ability root **TALR** and the grammar modals **ME**, **MO**, **SO**, and **W
 - **AN WO GARN ET.** — I would help you.
 
 Use **TO** for purpose as well: **AN GOVR TO LI RAGAM FO RAG.** — I go to the office for work. If a sentence contains two consecutive **TO** phrases, use a comma or rewrite it if the relationship is unclear.
+
+### Action nominalization
+
+Edraen can name an activity without adding an English-style **-ing** ending. Place **LI** before a verb phrase to make it an activity noun phrase. The verb remains in its ordinary form, and its object follows it. In this construction, English often omits the literal article “the.”
+
+- **LI TUR** — walking; the act of walking.
+- **LI DUV BAVR** — eating meat; the act of eating meat.
+- **LI NU DUV BAVR** — not eating meat.
+- **LI DUV BAVR ES SETH.** — Eating meat is good.
+- **AN LIRV LI DUV BAVR.** — I like eating meat.
+- **AN NU LIRV LI DUV BAVR.** — I do not like eating meat.
+- **AN LIRV LI NU DUV BAVR.** — I like not eating meat.
+
+Use **TO + verb phrase** when presenting an action as the complement of desire, need, preference, or intention; use **LI + verb phrase** when treating the activity itself as a noun-like concept, including as a subject or object. Both can be grammatical, but the nominalized form makes the activity reading explicit.
 
 ## 19. Embedded questions and reference clauses
 
@@ -689,6 +727,6 @@ The standard grammar is used for ordinary conversation and clear prose. The same
 
 ## 23. Scope of the standard
 
-Edraen Standard v3.0 is a stable, usable core for everyday speech, practical writing, connected narrative, and formal passages. It defines the regular grammar rather than trying to freeze all future vocabulary or culture. The language can grow without being considered unfinished every time a new technical term is needed.
+Edraen Standard v3.1 is a stable, usable core for everyday speech, practical writing, connected narrative, and formal passages. It defines the regular grammar rather than trying to freeze all future vocabulary or culture. The language can grow without being considered unfinished every time a new technical term is needed.
 
 The following are deliberately left open to future specification rather than silently guessed: regional dialects, historical sound changes, a canonical calendar, a detailed politeness hierarchy, and specialist terminology for fields not yet represented in the dictionary. These are expansion areas, not blockers for ordinary use.
