@@ -244,7 +244,7 @@ The demonstrative occupies the determiner position: **DI DOM** — this home; **
 | **DEK** | 10 | **HUN** | 100 |
 | **MIL** | 1,000 | | |
 
-For numbers from 11 to 19, say **DEK** followed by the unit: **DEK UN** = 11; **DEK NEN** = 19. For multiples of ten, say the multiplier before **DEK**: **BI DEK** = 20; **TRI DEK** = 30. Add a unit after the tens when needed: **BI DEK TRI** = 23. For hundreds and thousands, put the multiplier before **HUN** or **MIL**: **BI HUN** = 200; **TRI MIL** = 3,000. Omit **UN** before a scale word when the multiplier is exactly one. Compose larger numbers from highest scale to lowest: **UN MIL BI HUN TRI DEK KAR** = 1,234. The number phrase comes before the noun: **BI DEK TRI DAN** — 23 people.
+For numbers from 11 to 19, say **DEK** followed by the unit: **DEK UN** = 11; **DEK NEN** = 19. For multiples of ten, say the multiplier before **DEK**: **BI DEK** = 20; **TRI DEK** = 30. Add a unit after the tens when needed: **BI DEK TRI** = 23. For hundreds and thousands, put the multiplier before **HUN** or **MIL**: **BI HUN** = 200; **TRI MIL** = 3,000. Omit **UN** before a scale word when the multiplier is exactly one. Compose larger numbers from highest scale to lowest: **MIL BI HUN TRI DEK KAR** = 1,234. The number phrase comes before the noun: **BI DEK TRI DAN** — 23 people.
 
 Use **ORD** before a number to make an ordinal: **ORD UN** — first; **ORD BI** — second; **ORD TRI** — third. Use **DOT** between the whole and fractional parts of a decimal: **BI DOT PEN** = 2.5. For technical writing, Arabic numerals may be used where exact figures matter; read them aloud using the Edraen number words.
 
@@ -614,7 +614,7 @@ The ability root **TALR** and the grammar modals **ME**, **MO**, **SO**, and **W
 - **AN MO TERV.** — I may come.
 - **AN WO GARN ET.** — I would help you.
 
-Use **TO** for purpose as well: **AN GOVR TO LI RAGAM TO RAG.** — I go to the office to work. If a sentence contains two consecutive **TO** phrases, use a comma or rewrite it if the relationship is unclear.
+Use **TO** for purpose as well: **AN GOVR TO LI RAGAM FO RAG.** — I go to the office for work. If a sentence contains two consecutive **TO** phrases, use a comma or rewrite it if the relationship is unclear.
 
 ## 19. Embedded questions and reference clauses
 
