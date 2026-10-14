@@ -14,7 +14,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - **Five continents** — Kaldura, Veskara, Othmere, Sylvaris, and Umbrava.
 - **Twenty named countries** — four assigned to each continent in the current country plan.
 - **Five distinct continental profiles** — approved broad climate and geography for each continent.
-- **Edraen dictionary** — 551 approved lexical roots with unique spellings: seven foundational roots, 393 additions in Phases 1–6, 85 additions in Phase 7, and 66 additions in Phase 8.
+- **Edraen dictionary** — 603 approved lexical roots with unique spellings: seven foundational roots, 393 additions in Phases 1–6, 85 additions in Phase 7, 66 additions in Phase 8, and 52 additions in Phase 9.
 - **Humanity** — approved as a foundational people and the world's “best” race as a fundamental truth from the Age of the Beginning onward, not a status earned later. Humans dominate much of the world's major political and institutional life, with variation by continent. This does not mean humans must be smarter, stronger, or best at every individual ability.
 - **Dravkhar** — chosen name of the preeminent human subrace. Its core design is approved: broad potential across human pursuits, a recognizable but non-mandatory visual signature, and ordinary human baseline biology. The supporting lore and formal Edraen etymology are deferred.
 - **Other races and peoples** — the design workshop prioritizes recognizable fantasy races, with original races to be developed alongside them. Detailed definitions remain proposals until approved.
@@ -26,6 +26,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - [Edraen Standard Grammar & Usage](docs/language/Edraen_Standard_Grammar.md) — complete practical grammar for sentence formation, questions, tense, aspect, negation, prepositions, clauses, and passive voice.
 - [Edraen Everyday Phrasebook](docs/language/Edraen_Everyday_Phrasebook.md) — usable examples for greetings, needs, requests, movement, feelings, and everyday questions.
 - [Edraen Oath Translation Test](docs/language/Edraen_Oath_Translation_Test.md) — a line-by-line long-text test of the approved grammar and vocabulary.
+- [Edraen Dictionary — Phase 9](docs/language/Edraen_Dictionary_Phase_9.md) — 52 additional roots for relationships, food, health, public places, safety, and everyday life.
 - [Edraen Dictionary — Phase 8](docs/language/Edraen_Dictionary_Phase_8.md) — 66 additional roots for everyday vocabulary and the oath translation.
 - [Edraen Dictionary — Phase 7](docs/language/Edraen_Dictionary_Phase_7.md) — the 85-root approved vocabulary expansion.
 - [Edraen Dictionary — Learner's Edition & Master Inventory](docs/language/Edraen_Dictionary.md) — the single alphabetical, learner-friendly reference for all 551 approved roots from the foundational set and Phases 1–7, with pronunciation guides, a quick-start grammar, examples, and the exact-spelling audit.
