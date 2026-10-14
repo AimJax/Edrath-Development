@@ -160,6 +160,66 @@ The [Oath Translation Test](Edraen_Oath_Translation_Test.md) demonstrates how th
 The roots **DANL** and **DANM** mean woman and man; **DANV** means adult; **DANH** means infant. **THRAVM** is school and **THRAVN** is teacher. These additions broaden ordinary conversation without changing the sentence rules.
 
 
+
+## Family and relationships
+
+| Edraen | English |
+|---|---|
+| **AN HURV NA BRAL.** | I have a sibling. |
+| **AN HURV MA BRAL.** | I have siblings. |
+| **AN LETHV AN KARN.** | I love my family. |
+| **AN SAVN AN NARTH.** | I remember my parent. |
+| **AN RAVN AN KAVTH.** | I meet my companion. |
+| **ET ES AN ZARV.** | You are my friend. |
+| **MA DANR PAVR.** | Children play. |
+| **UR ZARK MA DANR.** | They protect children. |
+| **AN ZARL ET.** | I trust you. |
+| **AN KIRN THA ET VA TERV.** | I hope that you will come. |
+
+## Food and shopping
+
+| Edraen | English |
+|---|---|
+| **AN DUV LI VEM.** | I eat the food. |
+| **AN ZUM VOR.** | I drink water. |
+| **AN BETHR LI VEM.** | I cook the food. |
+| **HA ET DUV SARN?** | Do you eat fruit? |
+| **AN DERV NA BULM.** | I want soup. |
+| **AN BAVK LI VEM.** | I buy the food. |
+| **KA ES LI KELD OF LI VEM?** | What is the price of the food? |
+| **AN PAVK MELK.** | I pay money. |
+| **AN DOVR MELK TO ET.** | I give money to you. |
+| **AN DOVT NA KELDAK.** | I need a receipt. |
+
+## Learning, work, and plans
+
+| Edraen | English |
+|---|---|
+| **AN SAVR EDRAEN.** | I learn Edraen. |
+| **AN THRAV EDRAEN.** | I teach Edraen. |
+| **AN SAVN LI THALN.** | I remember the word. |
+| **AN NU KRETH LI THAUL.** | I do not understand the meaning. |
+| **AN RAG IN LI RAGAM.** | I work in the office. |
+| **AN SAVK LI RAG.** | I plan the work. |
+| **AN VA GOVR TO LI RAGAM FO RAG.** | I will go to the office for work. |
+| **KAI MA DAN ES IN LI DARN?** | How many people are in the village? |
+| **KA HURK ET VA TERV?** | At what hour will you come? |
+| **AN NU FIRV KO ES LI RUVT.** | I do not know where the station is. |
+
+## Weather and place
+
+| Edraen | English |
+|---|---|
+| **LI GURK ES VELK.** | The weather is cold. |
+| **LI GURK ES KETHR.** | The weather is hot. |
+| **HA ES NA VARK?** | Is there a storm? |
+| **AN SAVM IN LI DOM BEK LI GURK ES VELK.** | I stay at home because the weather is cold. |
+| **AN TUR TO LI NARL.** | I walk to town. |
+| **AN VA RILV AT LI RUVT.** | I will arrive at the station. |
+| **AN LIRV DI.** | I like this. |
+| **AN NU DERV DU.** | I do not want that. |
+
+
 ## Work, money, and technology
 
 | Edraen | English |
