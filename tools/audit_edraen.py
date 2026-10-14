@@ -14,6 +14,8 @@ ROOT = Path(__file__).resolve().parents[1]
 DICTIONARY = ROOT / "docs/language/Edraen_Dictionary.md"
 GRAMMAR = ROOT / "docs/language/Edraen_Standard_Grammar.md"
 REGISTRY = ROOT / "docs/00_Canon_Registry.md"
+PHRASEBOOK = ROOT / "docs/language/Edraen_Everyday_Phrasebook.md"
+OATH = ROOT / "docs/language/Edraen_Oath_Translation_Test.md"
 ROOT_ROW = re.compile(r"^\| \*\*([A-Z]+)\*\* \|", re.MULTILINE)
 GRAMMAR_ROW = re.compile(r"^\| \*\*([A-Z]+)\*\* \|", re.MULTILINE)
 
@@ -110,6 +112,18 @@ def main() -> int:
         errors.append("Canon Registry does not record the current 628-root inventory.")
     if "Edraen Standard v3.0" not in registry:
         errors.append("Canon Registry does not reference Edraen Standard v3.0.")
+
+    # Check every explicitly formatted Edraen phrase in the learner phrasebook and oath.
+    allowed_proper_terms = {"EDRAEN", "EDRATH"}
+    for path, text, patterns in (
+        (PHRASEBOOK, read(PHRASEBOOK), [re.compile(r"^\\| \\*\\*(.*?)\\*\\* \\|", re.MULTILINE)]),
+        (OATH, read(OATH), [re.compile(r"^\\*\\*Edraen\\*\\*\\s*\\n\\s*([^\\n]+)", re.MULTILINE)]),
+    ):
+        for pattern in patterns:
+            for phrase in pattern.findall(text):
+                for token in re.findall(r"\\b[A-Z]{2,7}\\b", phrase):
+                    if token not in root_set and token not in set(grammar_words) and token not in allowed_proper_terms:
+                        errors.append(f"{path.relative_to(ROOT)} uses undefined Edraen token {token!r} in {phrase!r}.")
 
     print("Edraen spelling and inventory audit")
     print(f"  Master dictionary roots: {len(roots)}")
