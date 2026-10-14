@@ -658,7 +658,7 @@ Phase 10 adds words for modern communication and practical life. These words des
 - **SAVAT** — email.
 - **RUVAK** — vehicle; **RUVAM** — bus; **RUVAN** — bicycle; **RUVATH** — train.
 - **RAGAM** — office; **RAGAV** — job; **MELKAR** — salary.
-- **DOMAR** — apartment; **NIRAL** — doctor; **NIRTH** — hospital; **NIRAK** — sick.
+- **DOMAR** — apartment; **NIRAL** — doctor; **NIRATH** — hospital; **NIRAK** — sick.
 - **KELDAK** — receipt; **KELDAV** — cheap; **MELKAV** — expensive.
 - **BEMRA**, **MAVATH**, **MORALA** — morning, afternoon, evening.
 
@@ -669,7 +669,7 @@ Example sentences:
 - **KO ES LI TELAR?** — Where is the telephone?
 - **AN ES NIRAK.** — I am sick.
 - **AN DERV NA NIRAL.** — I want a doctor.
-- **AN VA GOVR TO LI NIRTH.** — I will go to the hospital.
+- **AN VA GOVR TO LI NIRATH.** — I will go to the hospital.
 - **LI KOMAR ES MELKAV.** — The computer is expensive.
 - **AN FRAV LI RUVAM TO LI NARL.** — I ride the bus to town.
 - **AN VA GOVR TO LI RAGAM IN MORALA.** — I will go to the office in the evening.
