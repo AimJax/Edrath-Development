@@ -22,7 +22,7 @@
 |---|---|
 | **AN ES [name].** | I am [name]. |
 | **KI ES ET?** | Who are you? |
-| **AN ES SAVTH.** | I am a student. |
+| **AN ES NA SAVTH.** | I am a student. |
 | **AN FARL EDRAEN.** | I speak Edraen. |
 | **AN TALR FARL EDRAEN.** | I can speak Edraen. |
 | **HA ET FIRV EDRAEN?** | Do you know Edraen? |
@@ -71,9 +71,9 @@ A name may be inserted as a proper name. Do not invent an Edraen etymology for a
 | Edraen | English |
 |---|---|
 | **AN LIRV ET.** | I like you. |
-| **AN LETH ET.** | I love you. |
+| **AN LETHV ET.** | I love you. |
 | **AN NU LURV ET.** | I do not hate you. |
-| **AN ES YAR.** | I am joyful. |
+| **AN FURM YAR.** | I feel joy. |
 | **AN FURM METHR.** | I feel sorrow. |
 | **AN ZARL ET.** | I trust you. |
 
