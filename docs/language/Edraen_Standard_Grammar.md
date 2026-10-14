@@ -113,6 +113,8 @@ These forms are separate grammatical words, not lexical roots. Their spellings m
 
 ## 2. Pronunciation and spelling
 
+See [Edraen Phonology and Orthography](Edraen_Phonology_and_Orthography.md) for provisional IPA targets, sound clusters, and stress guidance.
+
 ### Vowels
 
 - **A** is approximately the vowel in English *father*.
