@@ -104,9 +104,84 @@ The following 66 roots are approved additions to the initial seven-root core. Th
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 
-The complete approved inventory now contains **73 unique root spellings**. Exact-spelling duplicates are not permitted; future root additions must be checked against the full dictionary.
+The approved inventory contains **139 unique root spellings** across the seven foundational roots and two approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md) and [Phase 2](language/Edraen_Dictionary_Phase_2.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
 
 The pronunciation guides are practical reader aids rather than a complete phonetic transcription. Approved proper-name pronunciations listed elsewhere remain fixed.
+
+### 2.2 Additional approved roots — Phase 2
+
+The following 66 roots are approved additions. The master inventory contains their full alphabetical reference alongside all previously approved roots.
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
+| **NAR** | North | nar |
+| **SOV** | South | sov |
+| **ELK** | East | elk |
+| **URD** | West | urd |
+| **VAD** | Up; upward direction | vad |
+| **MOR** | Down; downward direction | mor |
+| **NETH** | Inside; interior | neth (TH as in “thin”) |
+| **THUL** | Outside; exterior | thul (TH as in “thin”) |
+| **RAV** | Front; forward side | rav |
+| **KIR** | Back; rear side | kir |
+| **SEN** | Left | sen |
+| **VAN** | Right | van |
+| **NOL** | Center; middle point | nol |
+| **TAR** | Path; road | tar |
+| **BREN** | Hill | bren |
+| **GREN** | Valley | gren |
+| **KAVR** | Cave | kavr |
+| **DREL** | Cliff | drel |
+| **MORV** | Island | morv |
+| **DOV** | Shore; coast | dov |
+| **ZARN** | Sand | zarn |
+| **KREV** | Mud | krev |
+| **VETH** | Ice | veth (TH as in “thin”) |
+| **KHAL** | Snow | khal (KH as in Scottish “loch”) |
+| **ZUR** | Rain | zur |
+| **VORN** | Cloud | vorn |
+| **RAVK** | Lightning | ravk |
+| **SUL** | Fog; mist | sul |
+| **ZOV** | Wave | zov |
+| **LOV** | Lake | lov |
+| **DREM** | Swamp | drem |
+| **KELT** | Plant root; underground part of a plant | kelt |
+| **THOV** | Branch | thov (TH as in “thin”) |
+| **ZAL** | Seed | zal |
+| **MEL** | Flower | mel |
+| **ZAV** | Grass | zav |
+| **THAVR** | Herb | thavr (TH as in “thin”) |
+| **KELM** | Bark | kelm |
+| **TAVR** | Thorn | tavr |
+| **LATH** | Vine | lath (TH as in “thin”) |
+| **KORV** | Wood as material | korv |
+| **ZIVR** | Fish | zivr |
+| **GUV** | Insect | guv |
+| **KESH** | Reptile | kesh |
+| **GEL** | Head | gel |
+| **KATH** | Face | kath (TH as in “thin”) |
+| **ZEVR** | Ear | zevr |
+| **ZEM** | Nose | zem |
+| **THUM** | Mouth | thum (TH as in “thin”) |
+| **KALV** | Tongue | kalv |
+| **NURK** | Tooth | nurk |
+| **KARV** | Hand | karv |
+| **ZORN** | Foot | zorn |
+| **DATH** | Arm | dath (TH as in “thin”) |
+| **LUR** | Leg | lur |
+| **MAL** | Hair | mal |
+| **LETH** | Love; deep affection | leth (TH as in “thin”) |
+| **GRATH** | Fear | grath (TH as in “thin”) |
+| **VURN** | Anger | vurn |
+| **YAR** | Joy; happiness | yar |
+| **METHR** | Sorrow; grief | methr |
+| **RETH** | Red | reth (TH as in “thin”) |
+| **ZUL** | Blue | zul |
+| **GUL** | Yellow | gul |
+| **VELR** | White | velr |
+| **SKETH** | Gray | sketh (TH as in “thin”) |
+
+The cumulative approved inventory now contains **139 unique root spellings**.
 
 ## 3. THE FIVE CONTINENTS
 
