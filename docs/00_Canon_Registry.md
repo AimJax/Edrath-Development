@@ -1,10 +1,10 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 2.2  
+**Version:** 2.3  
 **Status:** Approved Foundational Canon
 
-This registry records the approved foundational decisions for Edrath, including the 603-root Edraen inventory, compound rules, Edraen Standard Grammar v2.1, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
+This registry records the approved foundational decisions for Edrath, including the 628-root Edraen inventory, compound rules, Edraen Standard Grammar v3.0, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
 
 ## 1. WORLD AND LANGUAGE
 
@@ -104,7 +104,7 @@ The following 66 roots are approved additions to the initial seven-root core. Th
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 
-The approved inventory contains **603 unique root spellings** across the seven foundational roots and nine approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), [Phase 4](language/Edraen_Dictionary_Phase_4.md), and [Phase 5](language/Edraen_Dictionary_Phase_5.md), and [Phase 6](language/Edraen_Dictionary_Phase_6.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
+The approved inventory contains **628 unique root spellings** across the seven foundational roots and ten approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), [Phase 4](language/Edraen_Dictionary_Phase_4.md), [Phase 5](language/Edraen_Dictionary_Phase_5.md), [Phase 6](language/Edraen_Dictionary_Phase_6.md), [Phase 7](language/Edraen_Dictionary_Phase_7.md), [Phase 8](language/Edraen_Dictionary_Phase_8.md), [Phase 9](language/Edraen_Dictionary_Phase_9.md), and [Phase 10](language/Edraen_Dictionary_Phase_10.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
 
 The pronunciation guides are practical reader aids rather than a complete phonetic transcription. Approved proper-name pronunciations listed elsewhere remain fixed.
 
@@ -186,7 +186,7 @@ The cumulative approved inventory at the end of Phase 2 contained **139 unique r
 
 ### 2.3 Additional approved roots — Phase 3
 
-The following 66 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 3](language/Edraen_Dictionary_Phase_3.md).
+The following 66 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 3](language/Edraen_Dictionary_Phase_3.md).
 
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
@@ -262,7 +262,7 @@ The cumulative approved inventory after Phase 3 contained **205 unique root spel
 
 ### 2.4 Additional approved roots — Phase 4
 
-The following 65 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 4](language/Edraen_Dictionary_Phase_4.md).
+The following 65 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 4](language/Edraen_Dictionary_Phase_4.md).
 
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
@@ -336,7 +336,7 @@ The cumulative approved inventory contains **270 unique root spellings** across 
 
 ### 2.5 Additional approved roots — Phase 5
 
-The following 65 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 5](language/Edraen_Dictionary_Phase_5.md).
+The following 65 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 5](language/Edraen_Dictionary_Phase_5.md).
 
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
@@ -408,7 +408,7 @@ The following 65 roots are approved additions. Their full alphabetical reference
 
 ### 2.6 Additional approved roots — Phase 6
 
-The following 65 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 6](language/Edraen_Dictionary_Phase_6.md).
+The following 65 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 6](language/Edraen_Dictionary_Phase_6.md).
 
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
@@ -702,6 +702,39 @@ The following 52 roots are approved additions. Their complete alphabetical refer
 | **ZULK** | Spoon; a utensil with a small bowl used for eating or serving food | zulk |
 | **ZUMR** | Thirsty; needing or wanting a drink | zumr |
 
+### 2.10 Additional approved roots — Phase 10
+
+The following 25 roots are approved additions. They expand everyday vocabulary for time of day, housing, work, health care, transport, computers, and digital communication. The complete alphabetical reference appears in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Phase 10](language/Edraen_Dictionary_Phase_10.md).
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
+| **BEMRA** | Morning; the early part of the day, from the end of night toward midday | bem-rah |
+| **DOMAR** | Apartment; a self-contained dwelling within a larger residential building | doh-mar |
+| **KELDAK** | Receipt; a written or digital record confirming a purchase or payment | kel-dak |
+| **KELDAV** | Cheap; costing relatively little money or value | kel-dav |
+| **KOMAV** | Screen; a surface or display on which text, images, or information can be shown | koh-mav |
+| **KOMAR** | Computer; an electronic machine for processing, storing, and retrieving information | koh-mar |
+| **KOMEL** | Keyboard; a set of keys used to enter letters, numbers, or commands into a device | koh-mel |
+| **MAVATH** | Afternoon; the part of the day after midday and before evening | mah-vath |
+| **MELKAR** | Salary; regular payment received for work or employment | mel-kar |
+| **MELKAV** | Expensive; costing a relatively large amount of money or value | mel-kav |
+| **MORALA** | Evening; the later part of the day before night | mo-RAH-lah |
+| **NIRAK** | Sick; affected by illness or not in ordinary good health | nee-rak |
+| **NIRAL** | Doctor; a trained medical professional who diagnoses and treats illness or injury | nee-ral |
+| **NIRATH** | Hospital; an institution where people receive medical care and treatment | nee-rath |
+| **RAGAM** | Office; a place where administrative, professional, or clerical work is done | rah-gam |
+| **RAGAV** | Job; a role, task, or position of work, especially paid employment | rah-gav |
+| **RUVAK** | Vehicle; a means of transport used to carry people or goods | roo-vak |
+| **RUVAM** | Bus; a road vehicle designed to carry multiple passengers, usually along a route | roo-vam |
+| **RUVAN** | Bicycle; a two-wheeled vehicle moved by pedaling | roo-van |
+| **RUVATH** | Train; a set of connected rail vehicles used to carry passengers or goods | roo-vath |
+| **SAVAT** | Email; an electronic written message sent through a digital network | sah-vat |
+| **TELAR** | Telephone; a device used to communicate with someone at a distance by voice or other signals | teh-lar |
+| **ZORAK** | Internet; the global interconnected digital system used to exchange information and provide online services | zor-ak |
+| **ZORAV** | Network; a connected system of people, devices, or places that exchange information or resources | zor-av |
+| **ZORKAL** | Technology; the practical use of knowledge through tools, methods, and organized systems | zor-kal |
+
+
 ## 3. THE FIVE CONTINENTS
 
 The five major continents and their pronunciations are approved canon:
@@ -771,7 +804,7 @@ These conventions are intentionally compact. They are sufficient for current voc
 
 ## 6. APPROVED STANDARD EDRAEN GRAMMAR — VERSION 2.1
 
-Edraen Standard v2.1 is approved as the practical grammar for ordinary statements, questions, commands, and connected clauses. The complete reference is [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md), with conversational examples in the [Everyday Phrasebook](language/Edraen_Everyday_Phrasebook.md).
+Edraen Standard v3.0 is approved as the practical grammar for ordinary statements, questions, commands, and connected clauses. The complete reference is [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md), with conversational examples in the [Everyday Phrasebook](language/Edraen_Everyday_Phrasebook.md).
 
 ### Core sentence order
 
@@ -798,7 +831,7 @@ Edraen Standard v2.1 is approved as the practical grammar for ordinary statement
 
 ### Articles, number, and other grammar words
 
-**LI** = the; **NA** = a/an; **MA** = plural marker; **DI/DU** = this/that; **DE/DO** = these/those; **YE/NO** = yes/no. Numbers and the full grammar-word inventory are documented in the standard grammar. **AL/OTH** express all/every and other/another; **BEH/BET** mean behind/between; **LET** introduces a permissive clause.
+**LI** = the; **NA** = a/an; **MA** = plural marker; **DI/DU** = this/that; **DE/DO** = these/those; **YE/NO** = yes/no. Numbers and the full grammar-word inventory are documented in the standard grammar. **AL/OTH** express all/every and other/another; **BEH/BET** mean behind/between; **SOM/ANY** mean some/any; **SANS/TIL/SIN** mean without/until/since; **ALTH** means although; **DOT** marks a decimal point; **LET** introduces a permissive clause.
 
 ### Approved examples
 
