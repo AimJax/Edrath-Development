@@ -40,7 +40,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - [Edraen Dictionary — Phase 4](docs/language/Edraen_Dictionary_Phase_4.md) — approved record of the 65-root fourth addition batch.
 - [Edraen Dictionary — Phase 5](docs/language/Edraen_Dictionary_Phase_5.md) — approved record of the 65-root fifth addition batch.
 - [Edraen Dictionary — Phase 6](docs/language/Edraen_Dictionary_Phase_6.md) — approved record of the 65-root sixth addition batch, completing the initial 400-root milestone.
-- [Automated Edraen Spelling Audit](tools/audit_edraen.py) — checks exact spelling uniqueness, root/grammar collisions, alphabetical order, consistency across all ten phase records, and whether phrasebook and oath examples use defined Edraen forms.
+- [Automated Edraen Spelling Audit](tools/audit_edraen.py) — checks exact spelling uniqueness, root/grammar collisions, alphabetical order, all ten phase records, stale version references, and whether phrasebook, oath, and benchmark examples use defined Edraen forms.
 - [Edraen Compounding Test — 400-Root Milestone](docs/language/Edraen_Compounding_Test_400_Root_Milestone.md) — exploratory test of the two approved compound patterns; trial forms are not canon.
 - [Edrath and Rathaen](docs/cosmology/Edrath_and_Rathaen.md) — approved planetary and world terminology.
 - [Geographic Terms and Five Continents](docs/geography/Geographic_Terms_and_Five_Continents.md) — Draumir, Ulmora, the five continents, and country distribution.
