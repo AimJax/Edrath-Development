@@ -30,6 +30,82 @@ These meanings are approved vocabulary and may be used to construct further word
 | NHUR | Night | noor; NH is pronounced as N |
 | AETH | Sky | ayth; TH as in “thin” |
 
+
+### 2.1 Additional approved roots — Phase 1
+
+The following 66 roots are approved additions to the initial seven-root core. Their meanings and pronunciation guides are recorded in the canonical [Edraen Dictionary — Phase 1](language/Edraen_Dictionary_Phase_1.md).
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
+| **VOR** | Water | vor |
+| **DUR** | Soil; earth as physical ground or material | dur |
+| **KETH** | Fire | keth (TH as in “thin”) |
+| **GAR** | Mountain | gar |
+| **DREN** | River | dren |
+| **THAR** | Sea; large body of salt water | thar (TH as in “thin”) |
+| **ZAK** | Wind | zak |
+| **VARK** | Storm | vark |
+| **DOR** | Sun | dor |
+| **GOL** | Moon | gol |
+| **ZETH** | Star | zeth (TH as in “thin”) |
+| **DAK** | Day; daylight period | dak |
+| **GUR** | Dawn | gur |
+| **DETH** | Dusk; the fading of daylight | deth (TH as in “thin”) |
+| **LOR** | Light; illumination | lor |
+| **SKAR** | Shadow | skar |
+| **RUK** | Time; the passage or measurement of moments | ruk |
+| **MARN** | Age; a period or span of time | marn |
+| **KAD** | Beginning; starting point | kad |
+| **VAK** | End; finishing point or limit | vak |
+| **ZAR** | Life; the state of being alive | zar |
+| **MORTH** | Death; the end of life | morth (TH as in “thin”) |
+| **KAV** | Birth; coming into life | kav |
+| **GRUM** | Growth; increase or development | grum |
+| **ZURK** | Blood | zurk |
+| **GATH** | Flesh; bodily tissue | gath (TH as in “thin”) |
+| **KOR** | Bone | kor |
+| **VUR** | Breath; breathing or a breath | vur |
+| **TAL** | Skin | tal |
+| **ZEL** | Eye | zel |
+| **VOTH** | Voice | voth (TH as in “thin”) |
+| **SURN** | Spirit or soul as a vocabulary concept; this definition does not establish what such a thing is or whether it exists | surn |
+| **KREN** | Mind; faculty of thought | kren |
+| **TAV** | Thought; an idea or act of thinking | tav |
+| **GREM** | Memory; recollection or the faculty of remembering | grem |
+| **MURK** | Dream; experience or imagery during sleep | murk |
+| **VARN** | Will; intention or deliberate resolve | varn |
+| **NAG** | Name; identifying word or designation | nag |
+| **TARK** | Speech; spoken words or utterance | tark |
+| **KAL** | Truth; that which is true | kal |
+| **DASK** | Law; a formal rule or body of rules | dask |
+| **KURV** | Authority; recognized power to direct or govern | kurv |
+| **THREN** | People; a group of persons | thren (TH as in “thin”) |
+| **DAN** | Person; an individual human or other person-like being, if the wider setting establishes such beings | dan |
+| **KARN** | Kin; family or related people | karn |
+| **DOM** | Home; place of residence or belonging | dom |
+| **KEL** | Land; a tract or area of territory, rather than soil as material | kel |
+| **GRAK** | Honor; recognized esteem or integrity | grak |
+| **SKOV** | Forest | skov |
+| **TOL** | Tree | tol |
+| **THAL** | Leaf | thal (TH as in “thin”) |
+| **MAV** | Animal | mav |
+| **VOG** | Bird | vog |
+| **VEM** | Food; something eaten for nourishment | vem |
+| **KULD** | Grain; cereal seed or grain as food material | kuld |
+| **MALK** | Metal | malk |
+| **THORG** | Iron | thorg (TH as in “thin”) |
+| **KRAK** | Weapon; an implement designed or used for fighting | krak |
+| **THAK** | War; organized armed conflict | thak (TH as in “thin”) |
+| **VASK** | Peace; a condition without active conflict | vask |
+| **KARD** | Strength; physical force or general capacity | kard |
+| **KREG** | Craft; skilled making or a craft practice | kreg |
+| **ZEG** | Skill; an ability developed through practice or experience | zeg |
+| **RAG** | Work; labor or purposeful activity | rag |
+| **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
+| **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
+
+The complete approved inventory now contains **73 unique root spellings**. Exact-spelling duplicates are not permitted; future root additions must be checked against the full dictionary.
+
 The pronunciation guides are practical reader aids rather than a complete phonetic transcription. Approved proper-name pronunciations listed elsewhere remain fixed.
 
 ## 3. THE FIVE CONTINENTS
