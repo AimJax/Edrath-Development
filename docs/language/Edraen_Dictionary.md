@@ -2,12 +2,12 @@
 
 **Status:** Approved Canon  
 **Purpose:** Canonical cumulative reference for every approved Edraen root  
-**Inventory:** 270 approved roots  
-**Root batches:** 7 foundational roots + 66 additions in each of Phases 1, 2, and 3 + 65 Phase 4 additions
+**Inventory:** 335 approved roots  
+**Root batches:** 7 foundational roots + 66 additions in each of Phases 1, 2, and 3 + 65 additions in each of Phases 4 and 5
 
 ## Canon boundary
 
-This is the canonical master reference for exact root spellings, meanings, and reader-friendly pronunciation guides. Roots are listed alphabetically so exact spelling can be audited efficiently. Batch histories remain available in [Phase 1](Edraen_Dictionary_Phase_1.md), [Phase 2](Edraen_Dictionary_Phase_2.md), [Phase 3](Edraen_Dictionary_Phase_3.md), and [Phase 4](Edraen_Dictionary_Phase_4.md).
+This is the canonical master reference for exact root spellings, meanings, and reader-friendly pronunciation guides. Roots are listed alphabetically so exact spelling can be audited efficiently. Batch histories remain available in [Phase 1](Edraen_Dictionary_Phase_1.md), [Phase 2](Edraen_Dictionary_Phase_2.md), [Phase 3](Edraen_Dictionary_Phase_3.md), and [Phase 4](Edraen_Dictionary_Phase_4.md), and [Phase 5](Edraen_Dictionary_Phase_5.md).
 
 Root definitions are lexical only. They do not independently establish religions, metaphysics, histories, social institutions, cultural practices, or facts about the peoples of Edrath.
 
@@ -30,15 +30,20 @@ Root definitions are lexical only. They do not independently establish religions
 | **AETH** | Sky | ayth (TH as in “thin”) |
 | **BAK** | Run; move rapidly on foot | bak |
 | **BARK** | Cut; divide or remove part of something with a sharp edge | bark |
+| **BAVN** | Vegetable; an edible plant or plant part used as food | bavn |
 | **BAVR** | Meat; animal flesh used as food | bavr |
 | **BETHR** | Cook; prepare food using heat | bethr (TH as in “thin”) |
 | **BOLR** | Wash; clean using liquid | bolr |
+| **BRAL** | Sibling; a brother or sister, without specifying gender | bral |
 | **BRAV** | Carry; move something from one place to another | brav |
 | **BREN** | Hill | bren |
 | **BRUK** | Door; a movable barrier used to close an entrance | bruk |
+| **BULN** | Shelf; a flat support fixed to a wall or frame for storing objects | buln |
+| **BULR** | Roof; the upper covering of a building | bulr |
 | **DAK** | Day; daylight period | dak |
 | **DAN** | Person; an individual human or other person-like being, if the wider setting establishes such beings | dan |
 | **DANR** | Child; a young person, without implying a fixed age boundary | danr |
+| **DARN** | Village; a small settled community | darn |
 | **DARV** | Send; cause something or someone to go to another place | darv |
 | **DASK** | Law; a formal rule or body of rules | dask |
 | **DATH** | Arm | dath (TH as in “thin”) |
@@ -46,6 +51,7 @@ Root definitions are lexical only. They do not independently establish religions
 | **DETHR** | Taste; perceive flavor through the mouth | dethr (TH as in “thin”) |
 | **DEVR** | Receive; accept or take delivery of something | devr |
 | **DOLR** | Window; an opening in a wall, often fitted with glass or another covering | dolr |
+| **DOLV** | Blanket; a covering used for warmth or bedding | dolv |
 | **DOM** | Home; place of residence or belonging | dom |
 | **DOR** | Sun | dor |
 | **DORV** | Wide; extending a great distance from side to side | dorv |
@@ -57,7 +63,11 @@ Root definitions are lexical only. They do not independently establish religions
 | **DREM** | Swamp | drem |
 | **DREN** | River | dren |
 | **DROK** | Break; cause something to separate or cease functioning | drok |
+| **DROV** | Borrow; take and use something temporarily with the intention of returning it | drov |
+| **DULN** | Cheese; food made by curdling and processing milk | duln |
 | **DULR** | Milk; a nutritious liquid produced by mammals | dulr |
+| **DULTH** | Sour; having an acidic taste | dulth (TH as in “thin”) |
+| **DULV** | Bitter; having a sharp taste commonly associated with certain plants or substances | dulv |
 | **DUM** | Small; limited in size | dum |
 | **DUR** | Soil; earth as physical ground or material | dur |
 | **DURK** | Dry; lacking moisture or liquid | durk |
@@ -66,15 +76,25 @@ Root definitions are lexical only. They do not independently establish religions
 | **ED** | Primordial; original; that which existed from the beginning | ed |
 | **ELK** | East | elk |
 | **FALN** | Fall; move downward under gravity or lose an upright position | faln |
+| **FARN** | Farmer; a person who cultivates land or raises crops and livestock | farn |
 | **FARV** | Follow; move or come after someone or something | farv |
+| **FAVN** | Shell; a hard outer covering of certain animals or seeds | favn |
+| **FAVR** | Hunt; search for or pursue animals for capture or food | favr |
+| **FELN** | Trade; exchange goods or services | feln |
+| **FELR** | Mirror; a surface that reflects an image | felr |
 | **FETH** | Wait; remain until an event or person arrives | feth (TH as in “thin”) |
+| **FRAV** | Ride; travel while mounted on or carried by a moving conveyance | frav |
+| **FURK** | Bell; an object that produces a ringing sound when struck or moved | furk |
 | **FURV** | Notice; become aware of something through observation or attention | furv |
 | **GAR** | Mountain | gar |
 | **GARN** | Help; make a task easier or support another | garn |
 | **GATH** | Flesh; bodily tissue | gath (TH as in “thin”) |
 | **GAVN** | Bad; harmful or undesirable in quality | gavn |
 | **GEL** | Head | gel |
+| **GELM** | Clay; fine-grained earth that can be shaped when wet | gelm |
+| **GELN** | Rough; having an uneven or coarse surface | geln |
 | **GELTH** | Tool; an implement used to perform a task | gelth (TH as in “thin”) |
+| **GELV** | Ladder; a structure with rungs used for climbing | gelv |
 | **GOL** | Moon | gol |
 | **GOTH** | Burn; undergo or cause combustion | goth (TH as in “thin”) |
 | **GRAK** | Honor; recognized esteem or integrity | grak |
@@ -82,10 +102,12 @@ Root definitions are lexical only. They do not independently establish religions
 | **GREL** | Clean; free from dirt or unwanted material | grel |
 | **GREM** | Memory; recollection or the faculty of remembering | grem |
 | **GREN** | Valley | gren |
+| **GREV** | Harvest; gather a crop or useful natural produce | grev |
 | **GRUM** | Growth; increase or development | grum |
 | **GUL** | Yellow | gul |
 | **GULR** | Cup; a small vessel for drinking | gulr |
 | **GULTH** | Touch; make physical contact with something | gulth (TH as in “thin”) |
+| **GULV** | Green; the color between yellow and blue in the visible spectrum | gulv |
 | **GUR** | Dawn | gur |
 | **GURN** | Elder; an older person, without automatically implying authority | gurn |
 | **GURV** | Bright; giving or reflecting much light | gurv |
@@ -94,8 +116,10 @@ Root definitions are lexical only. They do not independently establish religions
 | **KAD** | Beginning; starting point | kad |
 | **KAL** | Truth; that which is true | kal |
 | **KALN** | Always; at all times or on every relevant occasion | kaln |
+| **KALR** | Measure; determine the size, amount, or extent of something | kalr |
 | **KALV** | Tongue | kalv |
 | **KARD** | Strength; physical force or general capacity | kard |
+| **KARL** | Lock; a device that secures an opening or object | karl |
 | **KARN** | Kin; family or related people | karn |
 | **KARTH** | Wall; an upright structure enclosing or dividing a space | karth (TH as in “thin”) |
 | **KARV** | Hand | karv |
@@ -122,6 +146,8 @@ Root definitions are lexical only. They do not independently establish religions
 | **KHAR** | Stone | khar (KH as in Scottish “loch”) |
 | **KIR** | Back; rear side | kir |
 | **KOL** | Low; situated near the bottom or at a small height | kol |
+| **KOLN** | Wheel; a circular component that turns around an axle | koln |
+| **KOLR** | Round; shaped like a circle or sphere | kolr |
 | **KOR** | Bone | kor |
 | **KORL** | Take; acquire or remove into one's possession | korl |
 | **KORV** | Wood as material | korv |
@@ -134,11 +160,14 @@ Root definitions are lexical only. They do not independently establish religions
 | **KULN** | Pot; a vessel used for cooking or holding contents | kuln |
 | **KULR** | Cloth; flexible material made from fibers | kulr |
 | **KULTH** | Salt; a mineral substance used to season or preserve food | kulth (TH as in “thin”) |
+| **KULV** | Trader; a person who exchanges or sells goods | kulv |
 | **KURV** | Authority; recognized power to direct or govern | kurv |
 | **LARN** | Bed; furniture or a place used for sleeping | larn |
+| **LARV** | Net; a mesh used to catch, hold, or contain things | larv |
 | **LATH** | Vine | lath (TH as in “thin”) |
 | **LETH** | Love; deep affection | leth (TH as in “thin”) |
 | **LEVR** | Bring; carry or accompany something toward a place or person | levr |
+| **LIRK** | Laugh; make sounds or expressions associated with amusement | lirk |
 | **LOR** | Light; illumination | lor |
 | **LOV** | Lake | lov |
 | **LUR** | Leg | lur |
@@ -149,8 +178,12 @@ Root definitions are lexical only. They do not independently establish religions
 | **MARN** | Age; a period or span of time | marn |
 | **MAV** | Animal | mav |
 | **MAVN** | Basket; a container woven or made with an open structure | mavn |
+| **MAVR** | Mammal; an animal of the group that includes humans and other milk-feeding species | mavr |
 | **MEL** | Flower | mel |
+| **MELN** | Ink; a liquid or paste used for writing or marking | meln |
+| **MELR** | Lush; abundant in healthy vegetation or growth | melr |
 | **MELTH** | Ash; fine residue left after a material has burned | melth (TH as in “thin”) |
+| **MELV** | Artisan; a person skilled in making objects by hand | melv |
 | **MERV** | Make; create or produce something | merv |
 | **METH** | Slow; moving or happening at a low speed | meth (TH as in “thin”) |
 | **METHR** | Sorrow; grief | methr |
@@ -162,8 +195,10 @@ Root definitions are lexical only. They do not independently establish religions
 | **MURTH** | Black; the darkest color, absorbing most visible light | murth (TH as in “thin”) |
 | **NAG** | Name; identifying word or designation | nag |
 | **NAR** | North | nar |
+| **NARL** | Town; a settled community larger than a village but smaller than a city | narl |
 | **NARTH** | Parent; a person in a parental relationship | narth (TH as in “thin”) |
 | **NARV** | Near; close in distance or position | narv |
+| **NELR** | Forget; fail to retain or recall information | nelr |
 | **NEMR** | Empty; containing nothing or lacking contents | nemr |
 | **NEMTH** | Sweet; having the taste commonly associated with sugar or ripe fruit | nemth (TH as in “thin”) |
 | **NERK** | Lose; cease to have or fail to retain something | nerk |
@@ -173,13 +208,19 @@ Root definitions are lexical only. They do not independently establish religions
 | **NHUR** | Night | noor (NH pronounced as N) |
 | **NOL** | Center; middle point | nol |
 | **NOLR** | Table; a raised flat surface used for work, eating, or placing objects | nolr |
+| **NULK** | Latch; a fastening used to hold a door or gate closed | nulk |
 | **NULR** | Stop; cease movement or activity | nulr |
 | **NURK** | Tooth | nurk |
+| **NURM** | Thin; having little thickness or a small distance between opposite surfaces | nurm |
 | **NURTH** | Hide; conceal something or keep it out of sight | nurth (TH as in “thin”) |
 | **NURV** | Dust; fine dry particles of matter | nurv |
 | **NUVR** | Smell; perceive odors through the nose | nuvr |
+| **PAVN** | Feather; a light structure covering a bird's body | pavn |
 | **PAVR** | Play; engage in activity for enjoyment or recreation | pavr |
+| **PERN** | Oven; an enclosed chamber used for heating or baking | pern |
+| **PETHN** | Smooth; having an even surface with few rough projections | pethn |
 | **PETHR** | Bowl; a rounded vessel with an open top | pethr (TH as in “thin”) |
+| **PIRV** | Fly; move through the air under one's own power or by means of wings | pirv |
 | **RAG** | Work; labor or purposeful activity | rag |
 | **RAKH** | Answer; respond to a question or statement | rakh |
 | **RAL** | Fast; moving or happening at high speed | ral |
@@ -187,6 +228,7 @@ Root definitions are lexical only. They do not independently establish religions
 | **RAV** | Front; forward side | rav |
 | **RAVK** | Lightning | ravk |
 | **RAVN** | Meet; come into the presence of another person or group | ravn |
+| **RAVR** | Messenger; a person who carries information or messages between others | ravr |
 | **RETH** | Red | reth (TH as in “thin”) |
 | **RUK** | Time; the passage or measurement of moments | ruk |
 | **RULK** | Count; determine a quantity by numbers | rulk |
@@ -194,27 +236,35 @@ Root definitions are lexical only. They do not independently establish religions
 | **RUV** | Travel; journey from one place to another | ruv |
 | **SARK** | Find; discover or locate something sought or not previously noticed | sark |
 | **SARN** | Fruit; the edible seed-bearing part of a plant or a comparable food category | sarn |
+| **SAVN** | Remember; bring stored information or an experience back to mind | savn |
 | **SAVR** | Learn; acquire knowledge or skill through study or experience | savr |
+| **SAVTH** | Student; a person who is learning a subject or skill | savth (TH as in “thin”) |
 | **SEN** | Left | sen |
 | **SETH** | Good; beneficial or desirable in quality | seth (TH as in “thin”) |
 | **SEVR** | Write; record words or information in a visible form | sevr |
+| **SILN** | Loud; producing or characterized by a high level of sound | siln |
 | **SILR** | Read; interpret written symbols or text | silr |
 | **SKAR** | Shadow | skar |
 | **SKETH** | Gray | sketh (TH as in “thin”) |
 | **SKOV** | Forest | skov |
+| **SORK** | Seek; try to find or obtain something | sork |
 | **SOV** | South | sov |
 | **SUL** | Fog; mist | sul |
 | **SULN** | Bridge; a structure that allows passage across an obstacle | suln |
 | **SULR** | Quiet; making little or no sound | sulr |
 | **SULTH** | Secret; information kept from people who are not meant to know it | sulth (TH as in “thin”) |
+| **SULV** | Ore; rock or mineral material from which a useful substance can be extracted | sulv |
 | **SURN** | Spirit or soul as a vocabulary concept; this definition does not establish what such a thing is or whether it exists | surn |
 | **TAL** | Skin | tal |
 | **TAR** | Path; road | tar |
 | **TARK** | Speech; spoken words or utterance | tark |
 | **TARL** | Gate; a movable barrier controlling passage through an opening | tarl |
+| **TARTH** | Straight; extending uniformly without a bend or curve | tarth |
 | **TARV** | High; situated at a great height or level | tarv |
 | **TAV** | Thought; an idea or act of thinking | tav |
+| **TAVN** | Poet; a person who composes poetry | tavn |
 | **TAVR** | Thorn | tavr |
+| **TELR** | Thread; a thin strand of fiber used in sewing or weaving | telr |
 | **THAK** | War; organized armed conflict | thak (TH as in “thin”) |
 | **THAL** | Leaf | thal (TH as in “thin”) |
 | **THAR** | Sea; large body of salt water | thar (TH as in “thin”) |
@@ -234,12 +284,15 @@ Root definitions are lexical only. They do not independently establish religions
 | **THRAV** | Teach; help another acquire knowledge or skill | thrav (TH as in “thin”) |
 | **THREN** | People; a group of persons | thren (TH as in “thin”) |
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
+| **THRUL** | Witness; a person who sees an event or gives an account of it | thrul (TH as in “thin”) |
 | **THUL** | Outside; exterior | thul (TH as in “thin”) |
 | **THULN** | Refuse; decline to accept, do, or allow something | thuln (TH as in “thin”) |
 | **THULR** | Leave; go away from a place; exit | thulr (TH as in “thin”) |
 | **THUM** | Mouth | thum (TH as in “thin”) |
 | **TOL** | Tree | tol |
+| **TOVR** | Steal; take something without permission or right | tovr |
 | **TULK** | Leader; a person who guides or directs others | tulk |
+| **TULR** | Crooked; bent or not following a straight line | tulr |
 | **TUR** | Walk; move on foot at an ordinary pace | tur |
 | **TURK** | Soon; in a short time from now or from a reference point | turk |
 | **URD** | West | urd |
@@ -260,14 +313,18 @@ Root definitions are lexical only. They do not independently establish religions
 | **VEM** | Food; something eaten for nourishment | vem |
 | **VERK** | Open; cause an entrance, passage, or container to become accessible | verk |
 | **VETH** | Ice | veth (TH as in “thin”) |
+| **VETHN** | Steam; water vapor commonly produced when water is heated | vethn (TH as in “thin”) |
+| **VIRN** | Judge; a person who evaluates a dispute or makes a formal decision | virn |
 | **VOG** | Bird | vog |
 | **VOR** | Water | vor |
 | **VORN** | Cloud | vorn |
 | **VOTH** | Voice | voth (TH as in “thin”) |
 | **VULK** | Close; shut an entrance, passage, or container | vulk |
 | **VULM** | Bread; food made from a dough of flour or meal, usually baked | vulm |
+| **VULN** | Heavy; having great weight relative to size or comparison | vuln |
 | **VULR** | Before; earlier than a time or event | vulr |
 | **VUR** | Breath; breathing or a breath | vur |
+| **VURK** | Heal; recover or help recover from injury or illness | vurk |
 | **VURN** | Anger | vurn |
 | **YAR** | Joy; happiness | yar |
 | **ZAK** | Wind | zak |
@@ -281,22 +338,29 @@ Root definitions are lexical only. They do not independently establish religions
 | **ZEG** | Skill; an ability developed through practice or experience | zeg |
 | **ZEK** | See; perceive with the eyes | zek |
 | **ZEL** | Eye | zel |
+| **ZELN** | Guard; a person who protects a place, person, or object | zeln |
+| **ZELR** | Map; a representation of an area showing places and spatial relationships | zelr |
+| **ZELTH** | Early; occurring before the expected or usual time | zelth (TH as in “thin”) |
 | **ZEM** | Nose | zem |
 | **ZERK** | Dirty; marked by dirt or unwanted material | zerk |
 | **ZETH** | Star | zeth (TH as in “thin”) |
 | **ZEVR** | Ear | zevr |
 | **ZIVR** | Fish | zivr |
+| **ZOLN** | Needle; a slender pointed implement used for sewing or piercing | zoln |
 | **ZORN** | Foot | zorn |
+| **ZORV** | Grow; increase in size or develop over time | zorv |
 | **ZOV** | Wave | zov |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 | **ZUL** | Blue | zul |
+| **ZULN** | Purple; a color between red and blue | zuln |
 | **ZULR** | Book; a collection of written or printed pages bound together | zulr |
 | **ZUM** | Drink; consume liquid | zum |
 | **ZUR** | Rain | zur |
 | **ZURK** | Blood | zurk |
 | **ZURN** | Guest; a person received or hosted by another | zurn |
+| **ZURTH** | Frost; a thin deposit of ice crystals formed on cold surfaces | zurth (TH as in “thin”) |
+| **ZURV** | Cure; bring about recovery from a disease or ailment | zurv |
 | **ZUV** | Choose; select from available options | zuv |
-
 ## Lexical distinctions
 
 - **DUR** = soil or earth as material; **KEL** = land or territory; **RATH** = world or encompassing realm.
@@ -327,8 +391,9 @@ Every root must have a unique complete spelling. Similar sounds, shared letters,
 - Phase 2 additions: 66.
 - Phase 3 additions: 66.
 - Phase 4 additions: 65.
-- Total approved roots: **270**.
+- Phase 5 additions: 65.
+- Total approved roots: **335**.
 - Exact duplicate spellings in the cumulative inventory: **0**.
 - Exact matches against established whole terms and proper names checked for this audit: **0**.
 
-Future root batches must be checked against this full 270-root table before being approved. The inventory is broad core vocabulary, not a claim that the language can never add words again.
+Future root batches must be checked against this full 335-root table before being approved. The inventory is broad core vocabulary, not a claim that the language can never add words again.
