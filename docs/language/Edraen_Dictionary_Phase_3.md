@@ -10,7 +10,7 @@
 
 This file records the third approved batch of Edraen roots. All 66 roots below are canon and are included in the master dictionary and Canon Registry. The master inventory remains the canonical alphabetical reference.
 
-The approved roots extend the language beyond nouns into everyday actions, qualities, relationships, and common materials. Definitions are lexical suggestions only; they do not establish lore, cultural practices, or facts about Edrath.
+The approved roots extend the language beyond nouns into everyday actions, qualities, relationships, and common materials. Definitions are lexical only; they do not establish lore, cultural practices, or facts about Edrath.
 
 ## Approved roots
 
