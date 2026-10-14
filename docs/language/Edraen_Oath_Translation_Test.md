@@ -16,7 +16,7 @@ I was not born to kneel before the world. I was born to stand before it when eve
 
 **Edraen**
 
-AN NU DA KAVM TO HULK VULR LI RATH. AN DA KAVM TO DALK VULR IR KE AL MA OTH SURN DA FALN.
+AN NU DA KAVM TO HULK VULR LI RATH. AN DA KAVM TO DALK VULR IR KE AL MA OTH SURN PE FALN.
 
 **Literal structure**
 
@@ -58,11 +58,11 @@ When war comes, I will not hide behind stone walls. When fear spreads, I will no
 
 **Edraen**
 
-KE LI THAK TERV, AN NU VA NURTH BEH MA KHAR KARTH. KE GRATH DOVM, AN NU VA MULR AN NAG. KE LASK LOR FALM AND MA SKAR MULV LI KEL, AN VA MURV DALK.
+KE LI THAK TERV, AN NU VA NURTH BEH MA KHAR KARTH. KE GRATH DOVM, AN NU VA MULR AN NAG. KE LASK LOR FALM AND MA SKAR MULV LI KEL, AN VA LO STIL DALK.
 
 **Literal structure**
 
-When / the war / comes, I / not / future / hide / behind / plural stone walls. When / fear / spreads, I / not / future / surrender / my name. When / last light / fades / and / plural shadows / swallow / the land, I / future / remain / standing.
+When / the war / comes, I / not / future / hide / behind / plural stone walls. When / fear / spreads, I / not / future / surrender / my name. When / last light / fades / and / plural shadows / swallow / the land, I / future / ongoing / still / stand.
 
 ### 5. Weapons, command, and belief
 
@@ -86,7 +86,7 @@ For there is a difference between the one who wins a battle and the one who deci
 
 **Edraen**
 
-BEK ES MULK BET LI DAN TA ZAVT NA THAKM AND LI DAN TA RULR THAUL OF LI THAKM.
+ES MULK BET LI DAN TA ZAVT NA THAKM AND LI DAN TA RULR THAUL OF LI THAKM.
 
 **Literal structure**
 
@@ -137,7 +137,7 @@ Answer / with / my name.
 ## Validation notes
 
 - The translation uses **KAVM** (be born), **HULK** (kneel), **DALK** (stand), **KAVT** (sovereign), **TULV** (crown), **THRUM** (army), **RULM** (banner), **THAUL** (meaning), and other recorded roots rather than inventing ad hoc translations.
-- **AL** means all/every; **OTH** means other; **BEH** means behind; **BET** means between; **LET** marks a permissive command.
+- **AL** means all/every; **OTH** means other; **BEH** means behind; **BET** means between; **LET** marks a permissive command; **STIL** means still/continuing.
 - **DA** marks past, **VA** future, and **NU** negation. Roots retain their dictionary forms.
 - **MA** marks plural noun phrases; **OF** expresses a relation such as possession; **TA** introduces a relative clause; **THA** introduces a content clause.
 - The English phrase “Let them believe it” is rendered as a permissive clause. The oath is a translation test, not a claim that its wording is a traditional Edraen cultural artifact.
