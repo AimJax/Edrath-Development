@@ -33,6 +33,9 @@ This benchmark tests whether the documented rules can be applied consistently to
 | T20 | There is a person in the home. | **ES NA DAN IN LI DOM.** | Existential statement |
 | T21 | The person whom I remember. | **LI DAN TA AN SAVN.** | Relative clause with the head noun as the missing object |
 | T22 | At 2:30. | **AT BI HURK AND TRI DEK MIRK.** | Clock-time expression and number composition |
+| T23 | I gave the book to her. | **AN DA DOVR LI ZULR TO IR.** | Past tense, direct object, and recipient phrase with TO |
+| T24 | The book I gave him is in the home. | **LI ZULR TA AN DA DOVR TO IR ES IN LI DOM.** | Relative clause with a missing object, recipient phrase, and locative predicate |
+| T25 | I had not been helped by them. | **AN NU DA PE RI GARN BY UR.** | Negation, past-completive sequence, passive marker, and agent phrase
 
 These are regression fixtures, not claims that every English nuance has a one-to-one Edraen equivalent. In particular, T01 and T02 are intentionally different: LI + verb phrase presents an activity as a noun-like concept; TO + verb phrase presents an action as a complement.
 
@@ -43,15 +46,12 @@ These targets expose combinations or distinctions that need an explicit decision
 | ID | English target | Why it is unresolved |
 |---|---|---|
 | U01 | If I had known, I would have come. | The standard defines past, completive aspect, and WO as hypothetical, but does not yet define a full counterfactual-past construction or its interpretation. |
-| U02 | I had not been helped by them. | Negation, past time, completive aspect, and passive voice can be stacked mechanically, but the exact ordering and intended scope of the combined sequence need a tested standard example. |
 | U03 | The person who said that you would come left. | This nests a content clause inside a relative clause and then adds past time; the individual clause types exist, but their nested combination has not been stress-tested. |
-| U04 | I gave the book to her. | The grammar needs a stable rule for recipient/indirect-object constructions and for distinguishing a recipient phrase from a destination or purpose phrase. |
-| U05 | I stopped eating meat. | The current infinitive and activity constructions do not yet specify which construction expresses stopping an activity, and no approved root meaning for “stop” should be presumed. |
-| U06 | She said, “I will return tomorrow.” | Direct quotation is permitted in writing, but quotation boundaries, speaker-relative time words, and whether the quoted clause keeps its own tense reference need a formal example. |
-| U07 | The book that I gave him is here. | This combines a relative clause, a recipient construction, and a locative predicate; recipient syntax remains unresolved. |
-| U08 | I might not have been able to go. | The modal, negation, completive aspect, and ability verb require a documented scope and ordering rule for stacked modality. |
+| U04 | I stopped eating meat. | The current infinitive and activity constructions do not yet specify which construction expresses stopping an activity, and no approved root meaning for “stop” should be presumed. |
+| U05 | She said, “I will return tomorrow.” | Direct quotation is permitted in writing, but quotation boundaries, speaker-relative time words, and whether the quoted clause keeps its own tense reference need a formal example. |
+| U06 | I might not have been able to go. | The modal, negation, completive aspect, and ability verb require a documented scope and ordering rule for stacked modality. |
 
-Do not invent translations for U01–U08 during ordinary use. Resolve each by documenting a rule, adding a test sentence, and then adding the supported translation to Section 1.
+Do not invent translations for U01–U06 during ordinary use. Resolve each by documenting a rule, adding a test sentence, and then adding the supported translation to Section 1.
 
 ## 3. How to use this benchmark
 
