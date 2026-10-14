@@ -29,6 +29,49 @@
 
 A name may be inserted as a proper name. Do not invent an Edraen etymology for a name unless one has been approved.
 
+
+## First conversations
+
+| Edraen | English |
+|---|---|
+| **GURM!** | Hello! / Greetings! |
+| **SETH BEMRA!** | Good morning! |
+| **SETH MAVATH!** | Good afternoon! |
+| **SETH MORALA!** | Good evening! |
+| **SETH DAK!** | Have a good day! / Good day! |
+| **KAI ET ES?** | How are you? |
+| **AN ES SETH.** | I am well. |
+| **KA ES ET NAG?** | What is your name? |
+| **AN NAG ES [name].** | My name is [name]. |
+| **AN GELT ET.** | I greet you. |
+| **AN ZAVN ET.** | Thank you. |
+| **AN METHV.** | I apologize. / Sorry. |
+| **THULM!** | Goodbye! |
+| **KA ES DI?** | What is this? |
+| **KI ES DU?** | Who is that? |
+| **HA ET TALR GARN AN?** | Can you help me? |
+| **HA ET TALR FARL EDRAEN?** | Can you speak Edraen? |
+| **AN NU KRETH.** | I do not understand. |
+| **AN NU ES SETH.** | I am not well. |
+
+## Directions, shopping, and getting around
+
+| Edraen | English |
+|---|---|
+| **KO ES LI DOLM?** | Where is the bathroom? |
+| **KO ES LI RUVT?** | Where is the station? |
+| **AN DOVT NA TELAR.** | I need a telephone. |
+| **AN DOVT NA RUVAK.** | I need a vehicle. |
+| **AN VA GOVR TO LI DARN.** | I will go to the village. |
+| **AN NU TALR SARK LI TOLK.** | I cannot find the place. |
+| **KA ES LI KELD OF DI KOMAR?** | What is the price of this computer? |
+| **LI KELD ES KELDAV.** | The price is cheap. |
+| **LI KOMAR ES MELKAV.** | The computer is expensive. |
+| **HA ET HURV ANY MELK?** | Do you have any money? |
+| **AN NU HURV ANY MELK.** | I do not have any money. |
+| **PLE GARN AN.** | Please help me. |
+
+
 ## Basic needs and requests
 
 | Edraen | English |
