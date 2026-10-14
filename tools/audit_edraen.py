@@ -17,6 +17,9 @@ REGISTRY = ROOT / "docs/00_Canon_Registry.md"
 README = ROOT / "README.md"
 PHRASEBOOK = ROOT / "docs/language/Edraen_Everyday_Phrasebook.md"
 OATH = ROOT / "docs/language/Edraen_Oath_Translation_Test.md"
+FOUNDATION = ROOT / "docs/language/Edraen_Language_Foundation.md"
+PHONOLOGY = ROOT / "docs/language/Edraen_Phonology_and_Orthography.md"
+BENCHMARK = ROOT / "docs/language/Edraen_Translation_Benchmark.md"
 ROOT_ROW = re.compile(r"^\| \*\*([A-Z]+)\*\* \|", re.MULTILINE)
 GRAMMAR_ROW = re.compile(r"^\| \*\*([A-Z]+)\*\* \|", re.MULTILINE)
 
@@ -51,6 +54,9 @@ def main() -> int:
     grammar = read(GRAMMAR)
     registry = read(REGISTRY)
     readme = read(README)
+    foundation = read(FOUNDATION)
+    phonology = read(PHONOLOGY)
+    benchmark = read(BENCHMARK)
 
     inventory = section(dictionary, "## Complete approved root inventory", "## Lexical distinctions")
     roots = ROOT_ROW.findall(inventory)
@@ -122,6 +128,22 @@ def main() -> int:
         errors.append(f"README records {recorded} roots but the dictionary declares {expected_count}.")
     if "Edraen Standard v3.1" not in readme:
         errors.append("README does not reference Edraen Standard v3.1.")
+    if "practical grammar v3.0" in readme.lower():
+        errors.append("README still labels the current grammar as v3.0.")
+    if r"\\n-" in readme:
+        errors.append("README contains a literal escaped newline in its documentation list.")
+    if "all nine phase records" in dictionary.lower():
+        errors.append("Dictionary still refers to nine phase records instead of ten.")
+    if "Standard Grammar v3.0." in foundation:
+        errors.append("Language Foundation still identifies v3.0 as the current grammar.")
+    if "beyond Standard Grammar v2." in registry:
+        errors.append("Canon Registry still identifies grammar v2 as the current baseline.")
+    if "DO MA DAN" in grammar or "DE MA SETH DAN" in grammar:
+        errors.append("Grammar combines MA with a plural demonstrative in contradiction of its noun-phrase rule.")
+    if "Edraen Phonology and Orthography" not in readme or "602 monosyllabic roots" not in phonology:
+        errors.append("README or provisional phonology document is missing the sound-system reference or inventory audit.")
+    if "T01" not in benchmark or "U01" not in benchmark:
+        errors.append("Translation benchmark is missing supported or unresolved stress tests.")
 
     if "Action nominalization" not in grammar or "LI DUV BAVR" not in grammar:
         errors.append("Grammar is missing the approved action-nominalization rule.")
