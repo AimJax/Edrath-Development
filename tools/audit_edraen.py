@@ -130,7 +130,7 @@ def main() -> int:
         errors.append("README does not reference Edraen Standard v3.1.")
     if "practical grammar v3.0" in readme.lower():
         errors.append("README still labels the current grammar as v3.0.")
-    if r"\\n-" in readme:
+    if r"\n-" in readme:
         errors.append("README contains a literal escaped newline in its documentation list.")
     if "all nine phase records" in dictionary.lower():
         errors.append("Dictionary still refers to nine phase records instead of ten.")
