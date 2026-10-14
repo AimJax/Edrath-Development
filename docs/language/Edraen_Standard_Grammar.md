@@ -91,9 +91,9 @@ These forms are separate grammatical words, not lexical roots. Their spellings m
 | **FU** | from | Preposition |
 | **UND** | under | Preposition |
 | **OV** | over; above | Preposition |
-| **SANS** | without | Preposition |
-| **TIL** | until | Preposition or temporal subordinator |
-| **SIN** | since | Preposition or temporal subordinator |
+| **SANS** | without | Preposition marking absence |
+| **TIL** | until | Preposition or temporal subordinator marking an endpoint |
+| **SIN** | since | Preposition or temporal subordinator marking a starting point |
 | **THU** | through | Preposition |
 | **AR** | around | Preposition |
 | **SI** | more | Comparative marker |
@@ -103,17 +103,11 @@ These forms are separate grammatical words, not lexical roots. Their spellings m
 | **OTH** | other; another | Modifier meaning not the same one |
 | **BEH** | behind | Preposition |
 | **BET** | between | Preposition |
-| **SANS** | without | Preposition |
-| **TIL** | until | Preposition or temporal subordinator |
-| **SIN** | since | Preposition or temporal subordinator |
 | **LET** | let; allow | Permissive marker placed before a subject and its verb phrase |
 | **STIL** | still; continuing up to or beyond a reference point | Continuative adverb |
 | **THAN** | than | Comparison connector |
 | **SOM** | some | Indefinite quantity marker |
 | **ANY** | any | Indefinite marker, especially in questions, negatives, and conditions |
-| **SANS** | without | Preposition marking absence |
-| **TIL** | until | Preposition or temporal subordinator marking an endpoint |
-| **SIN** | since | Preposition or temporal subordinator marking a starting point |
 | **ALTH** | although | Concessive conjunction |
 | **DOT** | decimal point | Number separator in spoken or written decimal expressions |
 
@@ -433,6 +427,9 @@ Prepositions precede the noun phrase they relate to.
 | **AR** | around |
 | **BEH** | behind |
 | **BET** | between |
+| **SANS** | without |
+| **TIL** | until |
+| **SIN** | since |
 
 Examples:
 
