@@ -1,7 +1,7 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 1.7  
+**Version:** 1.8  
 **Status:** Approved Foundational Canon
 
 This registry records the approved foundational decisions for Edrath, including the core Edraen roots and compound rules, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
@@ -545,7 +545,52 @@ These are the current foundational conventions for newly coined Edraen vocabular
 
 These conventions are intentionally compact. They are sufficient for current vocabulary work; a more technical phonetic transcription is not required for ordinary development.
 
-## 6. APPROVED PLACE NAMES WITHOUT ASSIGNED ETYMOLOGIES
+## 6. APPROVED MINIMAL EDRAEN SENTENCE GRAMMAR
+
+The first minimal sentence grammar is approved. It supports basic statements and action sentences; it is not a claim that the language's full grammar is complete.
+
+### Grammar words
+
+These standalone forms are grammatical particles and pronouns, not lexical roots. They are not included in the 400-root inventory.
+
+| Edraen | Meaning | Function |
+|---|---|---|
+| **AN** | I; me | First-person singular pronoun |
+| **ET** | You | Second-person pronoun; singular and plural are not distinguished |
+| **EN** | We; us | First-person plural pronoun |
+| **UR** | They; them | Third-person plural pronoun |
+| **NU** | Not | Negation particle |
+| **DA** | Past | Past-time marker |
+| **VA** | Future | Future-time marker |
+
+### Basic statement order
+
+**SUBJECT + (NU) + (DA or VA) + VERB + OBJECT**
+
+- Default order is subject → verb → object.
+- No tense marker means present or general action.
+- **DA** before the verb marks past time; **VA** before the verb marks future time.
+- **NU** precedes the tense marker and verb.
+- Verbs retain their dictionary form; they do not conjugate for person or tense.
+- Pronoun forms do not change between subject and object.
+
+Examples:
+
+- **AN BAK.** — I run.
+- **ET DA BAK.** — You ran.
+- **EN VA BAK.** — We will run.
+- **UR ZARK THREN.** — They protect people.
+- **AN NU FALN.** — I do not fall.
+- **ET NU DA DUV SARN.** — You did not eat fruit.
+- **EN VA BRAV BULK.** — We will carry a barrel.
+
+### Possession
+
+Place the possessor before the noun, without an ending or possessive particle: **AN VAEL** (“my heart”), **ET BRUK** (“your door”), **EN DOM** (“our home”), **UR DASK** (“their law”).
+
+Articles, question formation, ordinary noun plural marking, a general “to be” verb, and complex or subordinate sentences remain undefined. Do not present improvised forms for these as approved grammar.
+
+## 7. APPROVED PLACE NAMES WITHOUT ASSIGNED ETYMOLOGIES
 
 The following are approved terms or proper names. Their recorded roles are canon; no internal decomposition is assigned unless explicitly stated otherwise.
 
@@ -562,13 +607,13 @@ The following are approved terms or proper names. Their recorded roles are canon
 
 Country names do not need a literal Edraen meaning. Some may eventually be connected to Edraen or other linguistic histories, but no etymologies are established here and none should be invented merely to justify a name.
 
-## 7. WORLD DESIGN DIRECTION
+## 8. WORLD DESIGN DIRECTION
 
 Edrath is inspired by the scale, layered history, and cultural depth of *The Elder Scrolls*, but must develop its own identity rather than copy its geography, peoples, lore, or narrative structures.
 
 The aim is a coherent world in which geography, history, politics, language, religion, and culture affect one another.
 
-## 8. APPROVED CONTINENTAL CLIMATE AND GEOGRAPHY
+## 9. APPROVED CONTINENTAL CLIMATE AND GEOGRAPHY
 
 The following broad environmental profiles are approved canon:
 
@@ -580,7 +625,7 @@ The following broad environmental profiles are approved canon:
 
 These profiles establish broad identities only. Exact coastlines, continent placement, individual feature locations, detailed biome boundaries, and regional climates remain open. See [Continental Climate and Geography](geography/Continental_Climate_and_Geography.md).
 
-## 9. APPROVED HUMAN FOUNDATION
+## 10. APPROVED HUMAN FOUNDATION
 
 The following human foundation is approved canon:
 
@@ -597,7 +642,7 @@ The following human foundation is approved canon:
 
 The lore supporting or explaining humanity's overall superiority and Dravkhar's historical prominence is deliberately deferred. See [Humanity](peoples/Humanity.md).
 
-## 10. FUTURE DEVELOPMENT — NOT YET AUTHORED
+## 11. FUTURE DEVELOPMENT — NOT YET AUTHORED
 
 The following material remains open for future development:
 
