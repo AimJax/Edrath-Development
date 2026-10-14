@@ -124,7 +124,7 @@ The roots **DANL** and **DANM** mean woman and man; **DANV** means adult; **DANH
 | **AN RAG IN LI RAGAM.** | I work in the office. |
 | **AN DEVR MELKAR.** | I receive a salary. |
 | **AN HURV LI KELDAK.** | I have the receipt. |
-| **KELDAV.** | It is cheap. / Cheap. |
+| **LI KELD ES KELDAV.** | The price is cheap. |
 | **LI KOMAR ES MELKAV.** | The computer is expensive. |
 | **AN DURV LI KOMAR.** | I use the computer. |
 | **HA ET DURV LI KOMAR?** | Do you use the computer? |
@@ -145,7 +145,7 @@ The roots **DANL** and **DANM** mean woman and man; **DANV** means adult; **DANH
 | **KO ES LI NIRTH?** | Where is the hospital? |
 | **AN VA GOVR TO LI NIRTH.** | I will go to the hospital. |
 | **AN ES NIRAK. PLE GARN AN.** | I am sick. Please help me. |
-| **LI NIRTH ES NARV TO LI DOMAR.** | The hospital is near the apartment. |
+| **LI NIRTH ES NARV LI DOMAR.** | The hospital is near the apartment. |
 
 ## Time of day and plans
 
