@@ -52,12 +52,12 @@ This batch is designed to bring the core dictionary to the current milestone of 
 | **BULK** | Barrel; a large cylindrical container | bulk |
 | **FIRN** | Coin; a small stamped piece of metal used as money | firn |
 | **MOLR** | Cabinet; a piece of furniture with enclosed storage | molr |
-| **NORK** | Basket; a container used to carry or store objects | nork |
+| **NORK** | Flask; a small container used to carry liquid | nork |
 | **PULR** | Bucket; a deep container with a handle | pulr |
 | **RALK** | Hammer; a tool with a heavy head used for striking | ralk |
 | **FALV** | Cloak; a loose outer garment worn over other clothing | falv |
 | **DORL** | Chimney; a structure that carries smoke or combustion gases away | dorl |
-| **HULN** | Ladder; a structure with rungs used for climbing | huln |
+| **KURM** | Anchor; a heavy device used to hold a vessel in place | kurm |
 | **TULN** | Cushion; a soft pad used for sitting, leaning, or support | tuln |
 | **GAVK** | Knife; a blade used for cutting | gavk |
 | **RAVM** | Lantern; a portable light enclosed in a protective frame | ravm |
@@ -109,8 +109,8 @@ This batch is designed to bring the core dictionary to the current milestone of 
 
 - The 65 proposed spellings were checked against the 335-root approved inventory and established whole terms and proper names recorded in current project canon. No exact-spelling collisions were found.
 - Exact spelling uniqueness is mandatory. Similarity in sound is a separate design question; the following forms should be reviewed before approval.
-- **Potential sound-similarity flags:** **NIRV** is close to **NURV** (dive / dust); **NORK** resembles **NURK** (basket / tooth); **HULN** is close in form to **GELV** (ladder); **VETHR** resembles **DETHR** and **KETHR** (kettle / taste / hot); **KULK** is close to the existing **KULD**, **KULN**, **KULR**, and **KULTH** cluster; **RULTH** sits near **RULK** and **RULN**; **GULN** resembles **GULR** and **GULTH**; **ZULV** resembles **ZUL** and **ZULN**; **BARN** is close to **BREN**; **GAVR** is close to **GAVN**; **TALN** is close to **TAL** and **TALV**; **VIRL** resembles **VIRN**. These are not exact duplicates, but their clarity should be considered before the batch is approved.
-- **Potential semantic overlap:** **NORK** (basket) overlaps conceptually with **MAVN** (basket). If approved, one should be revised or assigned a clearly different meaning rather than keeping two ordinary roots for the same object. **HULN** (ladder) overlaps with the Phase 5 proposal meaning GELV (ladder), which was approved in Phase 5; this should be replaced before approval. **ZULV** (violet) is close in meaning to **ZULN** (purple); decide whether this finer distinction is useful.
+- **Potential sound-similarity flags:** **NIRV** is close to **NURV** (dive / dust); **NORK** resembles **NURK** (basket / tooth); **KURM** resembles **KURV** (anchor / authority); **VETHR** resembles **DETHR** and **KETHR** (kettle / taste / hot); **KULK** is close to the existing **KULD**, **KULN**, **KULR**, and **KULTH** cluster; **RULTH** sits near **RULK** and **RULN**; **GULN** resembles **GULR** and **GULTH**; **ZULV** resembles **ZUL** and **ZULN**; **BARN** is close to **BREN**; **GAVR** is close to **GAVN**; **TALN** is close to **TAL** and **TALV**; **VIRL** resembles **VIRN**. These are not exact duplicates, but their clarity should be considered before the batch is approved.
+- **Potential semantic distinction:** **ZULV** (violet) is close in meaning to **ZULN** (purple). If both are retained, the narrower violet sense should be useful and consistently maintained. **NORK** (flask) and **BULK** (barrel) are both liquid-capable containers but differ in typical size and use.
 - Pronunciation guides are practical reader aids, not a complete phonological specification. The full consonant inventory, permitted syllable shapes, and consonant-cluster rules remain open language-design topics.
 - **No compounding test has been performed.** Per the current plan, compound testing is deferred until the core dictionary reaches 400 approved roots.
 
