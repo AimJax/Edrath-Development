@@ -47,7 +47,7 @@ This batch is designed to bring the core dictionary to the current milestone of 
 
 ### Tools and household objects
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **BULK** | Barrel; a large cylindrical container | bulk |
 | **FIRN** | Coin; a small stamped piece of metal used as money | firn |
@@ -67,7 +67,7 @@ This batch is designed to bring the core dictionary to the current milestone of 
 
 ### Natural materials and living things
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **MIRV** | Root; the underground part of a plant that anchors it and absorbs water | mirv |
 | **PIRN** | Moss; a small, soft plant that often grows in damp places | pirn |
@@ -82,7 +82,7 @@ This batch is designed to bring the core dictionary to the current milestone of 
 
 ### Qualities and physical descriptions
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **BRUL** | Hollow; having an empty space within | brul |
 | **FALR** | Pale; light or lacking intensity in color | falr |
@@ -97,7 +97,7 @@ This batch is designed to bring the core dictionary to the current milestone of 
 
 ### People and community
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **BARN** | Carpenter; a person who builds or repairs wooden structures | barn |
 | **GAVR** | Sailor; a person who works or travels aboard a ship | gavr |
