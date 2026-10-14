@@ -408,7 +408,7 @@ A command normally uses the bare verb, with the object after it. The subject “
 
 ## 10. Prepositions and relations
 
-Prepositions precede the noun phrase they relate to.
+Prepositions precede the noun phrase they relate to. Some lexical roots with a direct spatial or temporal meaning can also stand before a noun phrase, including **NARV** (“near”), **VULR** (“before”), and **NETHL** (“after”). These remain lexical roots, not grammar words.
 
 | Edraen | Meaning |
 |---|---|
@@ -471,7 +471,7 @@ Examples:
 - **ET VA DUV LI VEM, THEN EN VA GOVR.** — You will eat the food, then we will go.
 - **ALTH LI VOR ES KETHR, AN DUV LI VEM.** — Although the water is hot, I eat the food.
 - **AN SAVM TIL DAK.** — I stay until day.
-- **AN GELR IN LI DARN SIN DA.** — I have lived in the village since daybreak / since the day began; use a more specific time expression when needed.
+- **AN GELR IN LI DARN SIN VULR DAK.** — I have lived in the village since yesterday; use a more specific time expression when needed.
 
 ### Content clauses
 
