@@ -119,6 +119,7 @@ The proposals extend everyday actions, household objects, food, qualities, time 
 
 - The 65 proposed spellings were checked against the 205-root approved inventory and established whole terms and proper names recorded in project canon. No exact-spelling collisions were found.
 - Exact spelling uniqueness is mandatory. Similarity in sound is a separate design question; review any proposed root that feels too close to an existing word.
+- **Sound-similarity flags for deliberate review:** **THARK** (ship) is close to **THAR** (sea); **SILR** (read) is close to **SULR** (quiet); **KELR** (change), **KELV** (deep), and **KELN** (agree) cluster around existing **KEL**; **LUTH** (chair) is close to **LUTHR** (wet) and **LUR** (leg); **KULN** (pot) resembles **KULD** (grain), **KULR** (cloth), and **KULTH** (salt); **FETH** (wait) resembles existing roots **METH**, **SETH**, **KETH**, and **VETH**. These are not exact duplicates, but they may merit replacement before approval.
 - Some proposed roots are intentionally related in meaning, such as **VULR** (before) / **NETHL** (after), **KELV** (deep) / **THERL** (shallow), and **DURK** (dry) / **LUTHR** (wet).
 - Pronunciation guides are practical reader aids, not a complete phonological specification. The full consonant inventory, permitted syllable shapes, and consonant-cluster rules remain open language-design topics.
 - The cumulative target is 400 approved roots after three more 65-root batches: Phase 4 would bring the total to 270, Phase 5 to 335, and Phase 6 to 400.
