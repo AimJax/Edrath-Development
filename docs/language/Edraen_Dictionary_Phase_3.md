@@ -10,13 +10,13 @@
 
 This file records the third approved batch of Edraen roots. All 66 roots below are canon and are included in the master dictionary and Canon Registry. The master inventory remains the canonical alphabetical reference.
 
-The proposals aim to extend the language beyond nouns into everyday actions, qualities, relationships, and common materials. Definitions are lexical suggestions only; they do not establish lore, cultural practices, or facts about Edrath.
+The approved roots extend the language beyond nouns into everyday actions, qualities, relationships, and common materials. Definitions are lexical suggestions only; they do not establish lore, cultural practices, or facts about Edrath.
 
 ## Approved roots
 
 ### Actions and everyday verbs
 
-| Proposed root | Approved meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **BAK** | Run; move rapidly on foot | bak |
 | **DROK** | Break; cause something to separate or cease functioning | drok |
@@ -47,7 +47,7 @@ The proposals aim to extend the language beyond nouns into everyday actions, qua
 
 ### States, qualities, and directions
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **DUM** | Small; limited in size | dum |
 | **GAVN** | Bad; harmful or undesirable in quality | gavn |
@@ -73,7 +73,7 @@ The proposals aim to extend the language beyond nouns into everyday actions, qua
 
 ### People and relationships
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **DANR** | Child; a young person, without implying a fixed age boundary | danr |
 | **DOVN** | Neighbor; a person or household nearby | dovn |
@@ -88,7 +88,7 @@ The proposals aim to extend the language beyond nouns into everyday actions, qua
 
 ### Objects and materials
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **KARTH** | Wall; an upright structure enclosing or dividing a space | karth (TH as in “thin”) |
 | **KELTH** | Rope; a length of twisted or braided material used for tying | kelth (TH as in “thin”) |
@@ -99,14 +99,14 @@ The proposals aim to extend the language beyond nouns into everyday actions, qua
 
 ### Other concepts
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **NERK** | Lose; cease to have or fail to retain something | nerk |
 | **VELTH** | Promise; give one's word or make a commitment | velth (TH as in “thin”) |
 
 ### Additional core vocabulary
 
-| Proposed root | Proposed meaning | Pronunciation guide |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **KRETH** | Understand; grasp the meaning or significance of something | kreth (TH as in “thin”) |
 
