@@ -1,7 +1,7 @@
 # EDRAEN — CONSTRUCTED LANGUAGE FOUNDATION
 
 **Document:** Language Design Principles  
-**Version:** 1.5  
+**Version:** 1.6  
 **Status:** Approved Foundational Canon
 
 ## 1. PURPOSE
@@ -127,7 +127,7 @@ These terms are established vocabulary or chosen proper names. No root decomposi
 
 ## 9. FUTURE VOCABULARY AND GRAMMAR
 
-Future work may add roots after checking the complete approved inventory in [Edraen Dictionary — Learner's Edition & Master Inventory](Edraen_Dictionary.md) for exact-spelling duplicates. The approved cumulative inventory now contains 484 roots across the foundational set and Phases 1–7. The approved batches are recorded in [Phase 4](Edraen_Dictionary_Phase_4.md), [Phase 5](Edraen_Dictionary_Phase_5.md), and [Phase 6](Edraen_Dictionary_Phase_6.md). The initial 400-root milestone is complete. See [Edraen Compounding Test — 400-Root Milestone](Edraen_Compounding_Test_400_Root_Milestone.md) for an exploratory audit of the existing compound patterns; trial compounds are not canon. Further work may refine the standard through usage tests, idioms, conversational registers, and additional vocabulary. The core everyday grammar is established in Standard Grammar v2. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
+Future work may add roots after checking the complete approved inventory in [Edraen Dictionary — Learner's Edition & Master Inventory](Edraen_Dictionary.md) for exact-spelling duplicates. The approved cumulative inventory now contains 485 roots across the foundational set and Phases 1–7. The approved batches are recorded in [Phase 4](Edraen_Dictionary_Phase_4.md), [Phase 5](Edraen_Dictionary_Phase_5.md), and [Phase 6](Edraen_Dictionary_Phase_6.md). The initial 400-root milestone is complete. See [Edraen Compounding Test — 400-Root Milestone](Edraen_Compounding_Test_400_Root_Milestone.md) for an exploratory audit of the existing compound patterns; trial compounds are not canon. Further work may refine the standard through usage tests, idioms, conversational registers, and additional vocabulary. The core everyday grammar is established in Standard Grammar v2. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
 
 These are future expansions of an approved foundation, not unresolved approvals. Add them deliberately as the project needs them.
 
