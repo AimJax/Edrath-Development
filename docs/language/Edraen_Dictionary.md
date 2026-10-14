@@ -2,67 +2,68 @@
 
 **Status:** Approved Canon  
 **Purpose:** Canonical cumulative reference for every approved Edraen root  
-**Inventory:** 400 approved roots  
-**Root batches:** 7 foundational roots + 66 additions in each of Phases 1, 2, and 3 + 65 additions in each of Phases 4, 5, and 6
+**Inventory:** 484 approved lexical roots  
+**Root batches:** 7 foundational roots + 393 additions in Phases 1–6 + 84 additions in Phase 7
 
 ## Canon boundary
 
-This is the single cumulative, learner-facing dictionary for all 400 approved Edraen roots from the foundational set and Phases 1–6. Use it as the everyday reference; the six phase files are historical batch records. Entries retain approved meanings and reader-friendly pronunciation guides. The root list is alphabetized and grouped by initial letter for casual reading and lookup.
+This is the single cumulative, learner-facing dictionary for all 484 approved Edraen lexical roots from the foundational set and Phases 1–7. Use it as the everyday reference; the phase files are historical batch records. Entries retain approved meanings and reader-friendly pronunciation guides. The root list is alphabetized and grouped by initial letter for casual reading and lookup. Standalone grammar words are documented separately in the [Standard Grammar & Usage](Edraen_Standard_Grammar.md) guide and are not counted as lexical roots.
 
 Root definitions are lexical only. They do not independently establish religions, metaphysics, histories, social institutions, cultural practices, or facts about the peoples of Edrath.
 
 ## Quick start: reading and using Edraen
 
-Edraen now has a small approved sentence system. You can use the rules below to make basic sentences without changing the spelling of dictionary roots.
+Edraen Standard v2 supports ordinary statements, questions, commands, basic conversation, and connected clauses. The full rule set and phrase examples are in the [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md) and [Everyday Phrasebook](Edraen_Everyday_Phrasebook.md).
 
-### Grammar words
+### Core pronouns and grammar words
 
-These are standalone grammar words, **not lexical roots**. They do not count toward the 400-root inventory.
+These standalone forms are grammar words, not lexical roots. They are maintained in a separate ledger to prevent spelling collisions.
 
-| Edraen | Meaning | Use |
-|---|---|---|
-| **AN** | I; me | First-person singular pronoun |
-| **ET** | You | Second-person pronoun; number is not distinguished |
-| **EN** | We; us | First-person plural pronoun |
-| **UR** | They; them | Third-person plural pronoun |
-| **NU** | Not | Negates the verb phrase |
-| **DA** | Past | Marks a past action |
-| **VA** | Future | Marks a future action |
+| Edraen | Meaning |
+|---|---|
+| **AN** | I; me |
+| **ET** | you |
+| **EN** | we; us |
+| **IR** | he; she; it |
+| **UR** | they; them |
+| **ES** | be; am; is; are |
+| **NU** | not |
+| **DA** | past |
+| **VA** | future |
+| **LI** | the |
+| **NA** | a; an |
+| **MA** | plural marker |
+| **HA** | yes/no question marker |
 
 ### Basic sentence order
 
-**Subject + (NU) + (DA or VA) + verb + object**
+**Subject + (NU) + (DA or VA) + (aspect/modal) + verb + object**
 
-- The normal order is **subject → verb → object**.
-- Put **DA** before the verb for past time and **VA** before the verb for future time. With no tense marker, the sentence is present or general.
-- Put **NU** before the tense marker and verb to make the action negative.
-- Verbs keep the dictionary form. They do not change for person or tense.
-- The same pronoun form can be used as a subject or object.
+- Default order is **subject → verb → object**.
+- No tense marker means present or general action.
+- **DA** marks past; **VA** marks future.
+- **NU** negates the verb phrase.
+- **LO** marks an action in progress; **PE** marks a completed action; **SA** marks habitual action.
+- Verbs keep their dictionary form; they do not conjugate for person or tense.
+- Articles and modifiers precede nouns: **LI SETH DAN** — “the good person.”
+- **MA** marks an unspecified plural: **LI MA DAN** — “the people.”
+- A possessor precedes the noun: **AN ZULR** — “my book.”
 
-### First examples
+### First sentences
 
 | Edraen | English |
 |---|---|
 | **AN BAK.** | I run. |
-| **ET DA BAK.** | You ran. |
-| **EN VA BAK.** | We will run. |
-| **UR ZARK THREN.** | They protect people. |
-| **AN NU FALN.** | I do not fall. |
-| **ET NU DA DUV SARN.** | You did not eat fruit. |
-| **EN VA BRAV BULK.** | We will carry a barrel. |
+| **AN DA BAK.** | I ran. |
+| **AN VA BAK.** | I will run. |
+| **AN NU FIRV.** | I do not know. |
+| **AN LO FARL EDRAEN.** | I am speaking Edraen. |
+| **HA ET DERV LI VEM?** | Do you want the food? |
+| **KO ET GELR?** | Where do you live? |
+| **AN VA GOVR TO LI DARN.** | I will go to the village. |
+| **AN ZAVN ET.** | I thank you. |
+| **PLE GARN AN.** | Please help me. |
 
-### Possession
-
-Put the possessor before the thing possessed. Do not add an ending.
-
-- **AN VAEL** — my heart
-- **ET BRUK** — your door
-- **EN DOM** — our home
-- **UR DASK** — their law
-
-### What this first version does not define yet
-
-Articles (*a*, *an*, *the*), question formation, plural marking on ordinary nouns, a general “to be” verb, and complex or subordinate sentences are not established yet. English articles may be supplied naturally when translating, based on context. Do not treat missing rules as permission to invent them silently.
 
 ## Approved pronunciation conventions
 
@@ -77,7 +78,7 @@ Articles (*a*, *an*, *the*), question formation, plural marking on ordinary noun
 
 ## Complete approved root inventory
 
-The tables below contain all 400 approved roots in alphabetical order. Each entry gives the root, its approved meaning, and a practical pronunciation guide.
+The tables below contain all 484 approved roots in alphabetical order. Each entry gives the root, its approved meaning, and a practical pronunciation guide.
 
 ### A
 
@@ -93,10 +94,14 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **BAK** | Run; move rapidly on foot | bak |
 | **BARK** | Cut; divide or remove part of something with a sharp edge | bark |
 | **BARN** | Carpenter; a person who builds or repairs wooden structures | barn |
+| **BAVK** | Buy; obtain something in exchange for money, goods, or another agreed value | bavk |
 | **BAVN** | Vegetable; an edible plant or plant part used as food | bavn |
 | **BAVR** | Meat; animal flesh used as food | bavr |
 | **BETHR** | Cook; prepare food using heat | bethr (TH as in “thin”) |
+| **BIRN** | Believe; accept something as true or likely | birn |
+| **BOLN** | Warm; having or giving a comfortably moderate degree of heat | boln |
 | **BOLR** | Wash; clean using liquid | bolr |
+| **BOLV** | Cool; having a moderately low temperature, or make something less hot | bolv |
 | **BRAL** | Sibling; a brother or sister, without specifying gender | bral |
 | **BRAV** | Carry; move something from one place to another | brav |
 | **BREN** | Hill | bren |
@@ -105,11 +110,13 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **BULK** | Barrel; a large cylindrical container | bulk |
 | **BULN** | Shelf; a flat support fixed to a wall or frame for storing objects | buln |
 | **BULR** | Roof; the upper covering of a building | bulr |
+| **BULV** | Room; an enclosed part of a building | bulv |
 
 ### D
 
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
+| **DAG** | Do; perform an action or task | dag |
 | **DAK** | Day; daylight period | dak |
 | **DAN** | Person; an individual human or other person-like being, if the wider setting establishes such beings | dan |
 | **DANR** | Child; a young person, without implying a fixed age boundary | danr |
@@ -117,9 +124,11 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **DARV** | Send; cause something or someone to go to another place | darv |
 | **DASK** | Law; a formal rule or body of rules | dask |
 | **DATH** | Arm | dath (TH as in “thin”) |
+| **DERV** | Want; desire or wish to have or do something | derv |
 | **DETH** | Dusk; the fading of daylight | deth (TH as in “thin”) |
 | **DETHR** | Taste; perceive flavor through the mouth | dethr (TH as in “thin”) |
 | **DEVR** | Receive; accept or take delivery of something | devr |
+| **DOLN** | Street; a public road in a settled area | doln |
 | **DOLR** | Window; an opening in a wall, often fitted with glass or another covering | dolr |
 | **DOLV** | Blanket; a covering used for warmth or bedding | dolv |
 | **DOM** | Home; place of residence or belonging | dom |
@@ -131,12 +140,14 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **DOVL** | Together; in company or in combination | dovl |
 | **DOVN** | Neighbor; a person or household nearby | dovn |
 | **DOVR** | Give; transfer something to another | dovr |
+| **DOVT** | Need; require something essential or useful | dovt |
 | **DREL** | Cliff | drel |
 | **DREM** | Swamp | drem |
 | **DREN** | River | dren |
 | **DROK** | Break; cause something to separate or cease functioning | drok |
 | **DROV** | Borrow; take and use something temporarily with the intention of returning it | drov |
 | **DULK** | Yeast; a microorganism used in fermentation | dulk |
+| **DULM** | Flour; powder made by grinding grain or another food material | dulm |
 | **DULN** | Cheese; food made by curdling and processing milk | duln |
 | **DULR** | Milk; a nutritious liquid produced by mammals | dulr |
 | **DULTH** | Sour; having an acidic taste | dulth (TH as in “thin”) |
@@ -144,7 +155,9 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **DUM** | Small; limited in size | dum |
 | **DUR** | Soil; earth as physical ground or material | dur |
 | **DURK** | Dry; lacking moisture or liquid | durk |
+| **DURM** | Real; existing in fact rather than being imagined or false | durm |
 | **DURN** | Build; construct or assemble | durn |
+| **DURV** | Use; employ something for a purpose | durv |
 | **DUV** | Eat; consume food | duv |
 
 ### E
@@ -158,20 +171,27 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
+| **FALD** | Try; make an attempt to do or achieve something | fald |
 | **FALK** | Throw; send an object through the air by releasing it | falk |
 | **FALN** | Fall; move downward under gravity or lose an upright position | faln |
 | **FALR** | Pale; light or lacking intensity in color | falr |
 | **FALV** | Cloak; a loose outer garment worn over other clothing | falv |
+| **FARL** | Speak; produce words in spoken language | farl |
 | **FARN** | Farmer; a person who cultivates land or raises crops and livestock | farn |
 | **FARV** | Follow; move or come after someone or something | farv |
 | **FAVN** | Shell; a hard outer covering of certain animals or seeds | favn |
 | **FAVR** | Hunt; search for or pursue animals for capture or food | favr |
+| **FELK** | Sell; exchange goods or services for money or another agreed value | felk |
 | **FELN** | Trade; exchange goods or services | feln |
 | **FELR** | Mirror; a surface that reflects an image | felr |
 | **FETH** | Wait; remain until an event or person arrives | feth (TH as in “thin”) |
+| **FIRK** | Finger; one of the digits of a hand | firk |
+| **FIRL** | Think; use the mind to consider, reason, or form ideas | firl |
 | **FIRN** | Coin; a small stamped piece of metal used as money | firn |
+| **FIRV** | Know; have information, awareness, or understanding of something | firv |
 | **FRAV** | Ride; travel while mounted on or carried by a moving conveyance | frav |
 | **FURK** | Bell; an object that produces a ringing sound when struck or moved | furk |
+| **FURM** | Feel; experience a physical sensation or emotion | furm |
 | **FURV** | Notice; become aware of something through observation or attention | furv |
 
 ### G
@@ -184,14 +204,20 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **GAVK** | Knife; a blade used for cutting | gavk |
 | **GAVN** | Bad; harmful or undesirable in quality | gavn |
 | **GAVR** | Sailor; a person who works or travels aboard a ship | gavr |
+| **GAVT** | Happen; take place or occur | gavt |
 | **GEL** | Head | gel |
+| **GELK** | Neck; the part of the body connecting the head and torso | gelk |
 | **GELM** | Clay; fine-grained earth that can be shaped when wet | gelm |
 | **GELN** | Rough; having an uneven or coarse surface | geln |
+| **GELR** | Live; be alive or make one's home in a place | gelr |
+| **GELT** | Greet; acknowledge or welcome someone with a greeting | gelt |
 | **GELTH** | Tool; an implement used to perform a task | gelth (TH as in “thin”) |
 | **GELV** | Ladder; a structure with rungs used for climbing | gelv |
 | **GOL** | Moon | gol |
 | **GOLN** | Meadow; a field of grass and other low-growing plants | goln |
+| **GOLR** | Color; the visual quality of an object determined by light | golr |
 | **GOTH** | Burn; undergo or cause combustion | goth (TH as in “thin”) |
+| **GOVR** | Go; move away from the current place or toward a destination | govr |
 | **GRAK** | Honor; recognized esteem or integrity | grak |
 | **GRATH** | Fear | grath (TH as in “thin”) |
 | **GREL** | Clean; free from dirt or unwanted material | grel |
@@ -200,11 +226,13 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **GREV** | Harvest; gather a crop or useful natural produce | grev |
 | **GRUM** | Growth; increase or development | grum |
 | **GUL** | Yellow | gul |
+| **GULK** | Doorway; an opening through which people pass | gulk |
 | **GULN** | Orange; a color between red and yellow | guln |
 | **GULR** | Cup; a small vessel for drinking | gulr |
 | **GULTH** | Touch; make physical contact with something | gulth (TH as in “thin”) |
 | **GULV** | Green; the color between yellow and blue in the visible spectrum | gulv |
 | **GUR** | Dawn | gur |
+| **GURK** | Weather; the state of the atmosphere at a place and time | gurk |
 | **GURN** | Elder; an older person, without automatically implying authority | gurn |
 | **GURV** | Bright; giving or reflecting much light | gurv |
 | **GUV** | Insect | guv |
@@ -215,7 +243,10 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **HARN** | Sharp; having an edge or point able to cut or pierce | harn |
+| **HULN** | Stomach; the body organ or region associated with digestion | huln |
 | **HULV** | Reed; a tall, slender plant commonly growing in wet ground | hulv |
+| **HURK** | Hour; a unit of time equal to sixty minutes | hurk |
+| **HURV** | Have; possess, own, or hold something as one's own | hurv |
 
 ### K
 
@@ -237,6 +268,7 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **KAVR** | Cave | kavr |
 | **KAVTH** | Companion; one who accompanies another | kavth (TH as in “thin”) |
 | **KEL** | Land; a tract or area of territory, rather than soil as material | kel |
+| **KELD** | Price; the amount of money or value asked or paid for something | keld |
 | **KELK** | Join; connect or bring separate things together | kelk |
 | **KELM** | Bark | kelm |
 | **KELN** | Agree; have the same opinion or accept a proposal | keln |
@@ -251,10 +283,14 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **KETHL** | Lamp; a device that produces light | kethl (TH as in “thin”) |
 | **KETHN** | Narrow; having little width | kethn (TH as in “thin”) |
 | **KETHR** | Hot; having a high temperature | kethr (TH as in “thin”) |
+| **KETHV** | Candle; a wax or similar body with a wick that burns to give light | kethv |
 | **KHAL** | Snow | khal (KH as in Scottish “loch”) |
 | **KHAR** | Stone | khar (KH as in Scottish “loch”) |
 | **KIR** | Back; rear side | kir |
+| **KIRN** | Hope; desire a good outcome while regarding it as possible | kirn |
+| **KIRV** | Toe; one of the digits of a foot | kirv |
 | **KOL** | Low; situated near the bottom or at a small height | kol |
+| **KOLM** | Corner; the point or area where two edges or surfaces meet | kolm |
 | **KOLN** | Wheel; a circular component that turns around an axle | koln |
 | **KOLR** | Round; shaped like a circle or sphere | kolr |
 | **KOLV** | Flat; having a level surface without significant raised areas | kolv |
@@ -268,6 +304,7 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **KREV** | Mud | krev |
 | **KULD** | Grain; cereal seed or grain as food material | kuld |
 | **KULK** | Box; a container with flat sides and a lid or open top | kulk |
+| **KULM** | Clothing; garments worn on the body | kulm |
 | **KULN** | Pot; a vessel used for cooking or holding contents | kuln |
 | **KULR** | Cloth; flexible material made from fibers | kulr |
 | **KULTH** | Salt; a mineral substance used to season or preserve food | kulth (TH as in “thin”) |
@@ -282,14 +319,17 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **LARN** | Bed; furniture or a place used for sleeping | larn |
 | **LARV** | Net; a mesh used to catch, hold, or contain things | larv |
 | **LATH** | Vine | lath (TH as in “thin”) |
+| **LAVN** | Say; express something in words | lavn |
 | **LAVR** | Swim; move through water using the body | lavr |
 | **LETH** | Love; deep affection | leth (TH as in “thin”) |
 | **LEVR** | Bring; carry or accompany something toward a place or person | levr |
 | **LIRK** | Laugh; make sounds or expressions associated with amusement | lirk |
+| **LIRV** | Like; find something pleasant or agreeable | lirv |
 | **LOR** | Light; illumination | lor |
 | **LORV** | Shine; give off or reflect light | lorv |
 | **LOV** | Lake | lov |
 | **LUR** | Leg | lur |
+| **LURV** | Hate; feel intense dislike or hostility toward someone or something | lurv |
 | **LUTH** | Chair; a seat designed for one person | luth (TH as in “thin”) |
 | **LUTHR** | Wet; covered with or saturated by liquid | luthr (TH as in “thin”) |
 
@@ -305,20 +345,29 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **MAVN** | Basket; a container woven or made with an open structure | mavn |
 | **MAVR** | Mammal; an animal of the group that includes humans and other milk-feeding species | mavr |
 | **MEL** | Flower | mel |
+| **MELK** | Money; a medium of exchange or a general store of financial value | melk |
 | **MELN** | Ink; a liquid or paste used for writing or marking | meln |
 | **MELR** | Lush; abundant in healthy vegetation or growth | melr |
+| **MELT** | Month; a calendar period commonly used to divide a year | melt |
 | **MELTH** | Ash; fine residue left after a material has burned | melth (TH as in “thin”) |
 | **MELV** | Artisan; a person skilled in making objects by hand | melv |
 | **MERV** | Make; create or produce something | merv |
 | **METH** | Slow; moving or happening at a low speed | meth (TH as in “thin”) |
 | **METHR** | Sorrow; grief | methr |
+| **METHV** | Apologize; express regret for an action or harm caused | methv |
+| **MIRK** | Minute; a unit of time equal to sixty seconds | mirk |
+| **MIRL** | Smile; form an expression with the corners of the mouth raised | mirl |
 | **MIRN** | Brittle; hard but liable to break or shatter | mirn |
 | **MIRV** | Root; the underground part of a plant that anchors it and absorbs water | mirv |
+| **MOLN** | City; a large, densely settled community | moln |
 | **MOLR** | Cabinet; a piece of furniture with enclosed storage | molr |
 | **MOLV** | Curtain; a hanging piece of fabric used to cover an opening | molv |
 | **MOR** | Down; downward direction | mor |
+| **MORK** | Pain; an unpleasant physical sensation caused by injury, illness, or bodily stress | mork |
+| **MORL** | Many; a large number or amount | morl |
 | **MORTH** | Death; the end of life | morth (TH as in “thin”) |
 | **MORV** | Island | morv |
+| **MULN** | Few; a small number or amount | muln |
 | **MUR** | Sleep; enter or remain in a state of sleep | mur |
 | **MURK** | Dream; experience or imagery during sleep | murk |
 | **MURN** | Wake; stop sleeping or cause someone to stop sleeping | murn |
@@ -350,6 +399,7 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **NULK** | Latch; a fastening used to hold a door or gate closed | nulk |
 | **NULM** | Solid; firm and not hollow or liquid | nulm |
 | **NULR** | Stop; cease movement or activity | nulr |
+| **NULV** | Difficult; requiring effort or skill to do, understand, or overcome | nulv |
 | **NURK** | Tooth | nurk |
 | **NURM** | Thin; having little thickness or a small distance between opposite surfaces | nurm |
 | **NURTH** | Hide; conceal something or keep it out of sight | nurth (TH as in “thin”) |
@@ -362,9 +412,12 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 |---|---|---|
 | **PALK** | Push; apply force to move something away | palk |
 | **PARN** | Pull; apply force to draw something closer | parn |
+| **PAVK** | Pay; give money or another agreed form of value in exchange | pavk |
 | **PAVN** | Feather; a light structure covering a bird's body | pavn |
 | **PAVR** | Play; engage in activity for enjoyment or recreation | pavr |
+| **PAVT** | Cost; the amount required to buy or obtain something | pavt |
 | **PERN** | Oven; an enclosed chamber used for heating or baking | pern |
+| **PETHL** | Windowpane; a flat sheet fitted into a window opening | pethl |
 | **PETHN** | Smooth; having an even surface with few rough projections | pethn |
 | **PETHR** | Bowl; a rounded vessel with an open top | pethr (TH as in “thin”) |
 | **PIRK** | Race; compete to move or travel fastest | pirk |
@@ -388,13 +441,16 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **RAVN** | Meet; come into the presence of another person or group | ravn |
 | **RAVR** | Messenger; a person who carries information or messages between others | ravr |
 | **RAVS** | Shell; a hard outer covering of an animal | ravs |
+| **RAVT** | Shop; a place where goods are sold | ravt |
 | **RETH** | Red | reth (TH as in “thin”) |
+| **RILV** | Arrive; reach a destination | rilv |
 | **RUK** | Time; the passage or measurement of moments | ruk |
 | **RULK** | Count; determine a quantity by numbers | rulk |
 | **RULN** | Key; an object or device used to open or operate a lock | ruln |
 | **RULTH** | Glowing; giving off a steady, soft light | rulth (TH as in “thin”) |
 | **RULV** | Divide; separate into parts or portions | rulv |
 | **RUV** | Travel; journey from one place to another | ruv |
+| **RUVN** | Week; a period of seven days | ruvn |
 
 ### S
 
@@ -403,20 +459,27 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **SARK** | Find; discover or locate something sought or not previously noticed | sark |
 | **SARN** | Fruit; the edible seed-bearing part of a plant or a comparable food category | sarn |
 | **SAVK** | Plan; form an intended course of action | savk |
+| **SAVM** | Stay; remain in a place or state instead of leaving or changing | savm |
 | **SAVN** | Remember; bring stored information or an experience back to mind | savn |
 | **SAVR** | Learn; acquire knowledge or skill through study or experience | savr |
+| **SAVT** | Message; information sent from one person or place to another | savt |
 | **SAVTH** | Student; a person who is learning a subject or skill | savth (TH as in “thin”) |
+| **SELM** | Important; having great significance or consequence | selm |
 | **SEN** | Left | sen |
 | **SETH** | Good; beneficial or desirable in quality | seth (TH as in “thin”) |
 | **SEVR** | Write; record words or information in a visible form | sevr |
 | **SILN** | Loud; producing or characterized by a high level of sound | siln |
 | **SILR** | Read; interpret written symbols or text | silr |
+| **SIRK** | Easy; requiring little effort or difficulty | sirk |
+| **SIRN** | Second; a short standard unit of time | sirn |
+| **SIRV** | Perhaps; possibly, but not certainly | sirv |
 | **SKAR** | Shadow | skar |
 | **SKETH** | Gray | sketh (TH as in “thin”) |
 | **SKOV** | Forest | skov |
 | **SORK** | Seek; try to find or obtain something | sork |
 | **SOV** | South | sov |
 | **SUL** | Fog; mist | sul |
+| **SULK** | Very; to a high degree or extent | sulk |
 | **SULM** | Mineral; a naturally occurring inorganic substance | sulm |
 | **SULN** | Bridge; a structure that allows passage across an obstacle | suln |
 | **SULR** | Quiet; making little or no sound | sulr |
@@ -429,9 +492,12 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **TAL** | Skin | tal |
+| **TALM** | Ready; prepared for an action or event | talm |
 | **TALN** | Cousin; a child of one's aunt or uncle, or a comparable kin relation | taln |
+| **TALR** | Can; be able to do something | talr |
 | **TALV** | Lift; raise something to a higher position | talv |
 | **TAR** | Path; road | tar |
+| **TAREN** | Sentence; a grammatical unit that expresses a statement, question, command, or exclamation | taren |
 | **TARK** | Speech; spoken words or utterance | tark |
 | **TARL** | Gate; a movable barrier controlling passage through an opening | tarl |
 | **TARTH** | Straight; extending uniformly without a bend or curve | tarth |
@@ -443,8 +509,10 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **TAVR** | Thorn | tavr |
 | **TELR** | Thread; a thin strand of fiber used in sewing or weaving | telr |
 | **TELV** | Weave; interlace strands to make a fabric or structure | telv |
+| **TERV** | Come; move toward the speaker, a destination, or a point of reference | terv |
 | **THAK** | War; organized armed conflict | thak (TH as in “thin”) |
 | **THAL** | Leaf | thal (TH as in “thin”) |
+| **THALN** | Word; a meaningful unit of language | thaln (TH as in “thin”) |
 | **THAR** | Sea; large body of salt water | thar (TH as in “thin”) |
 | **THARK** | Ship; a large watercraft used for travel or transport | thark (TH as in “thin”) |
 | **THARN** | Enemy; a person or group opposed to another | tharn (TH as in “thin”) |
@@ -452,11 +520,13 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **THAVK** | Warn; alert someone to danger or a possible problem | thavk (TH as in “thin”) |
 | **THAVN** | Ask; put a question or request information | thavn (TH as in “thin”) |
 | **THAVR** | Herb | thavr (TH as in “thin”) |
+| **THAVT** | Question; a request for information or an expression of uncertainty | thavt (TH as in “thin”) |
 | **THERK** | Old; having existed or been in use for a long time | therk (TH as in “thin”) |
 | **THERL** | Shallow; extending only a short distance downward | therl (TH as in “thin”) |
 | **THERV** | Return; go or bring back to an earlier place or state | therv (TH as in “thin”) |
 | **THIR** | Hear; perceive sound through hearing | thir (TH as in “thin”) |
 | **THOL** | Smoke; airborne particles and gases produced by burning | thol (TH as in “thin”) |
+| **THOLR** | Song; a piece of music made for or with the voice | tholr (TH as in “thin”) |
 | **THOLV** | Mushroom; a fleshy fruiting body of certain fungi | tholv (TH as in “thin”) |
 | **THORG** | Iron | thorg (TH as in “thin”) |
 | **THOV** | Branch | thov (TH as in “thin”) |
@@ -466,10 +536,16 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
 | **THRUL** | Witness; a person who sees an event or gives an account of it | thrul (TH as in “thin”) |
 | **THUL** | Outside; exterior | thul (TH as in “thin”) |
+| **THULK** | Needle; a slender pointed implement used for sewing or piercing | thulk (TH as in “thin”) |
+| **THULM** | Farewell; an expression used when parting from someone | thulm (TH as in “thin”) |
 | **THULN** | Refuse; decline to accept, do, or allow something | thuln (TH as in “thin”) |
 | **THULR** | Leave; go away from a place; exit | thulr (TH as in “thin”) |
 | **THUM** | Mouth | thum (TH as in “thin”) |
+| **THUR** | Tell; communicate information to someone | thur (TH as in “thin”) |
 | **TOL** | Tree | tol |
+| **TOLK** | Place; a particular position, area, or location | tolk |
+| **TOLV** | Put; move or set something into a particular place or position | tolv |
+| **TORK** | Problem; a matter or situation regarded as harmful, difficult, or requiring a solution | tork |
 | **TOVR** | Steal; take something without permission or right | tovr |
 | **TULK** | Leader; a person who guides or directs others | tulk |
 | **TULN** | Cushion; a soft pad used for sitting, leaning, or support | tuln |
@@ -503,6 +579,7 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **VELR** | White | velr |
 | **VELTH** | Promise; give one's word or make a commitment | velth (TH as in “thin”) |
 | **VEM** | Food; something eaten for nourishment | vem |
+| **VEML** | Meal; an occasion or portion of eating food | veml |
 | **VEMR** | Feed; give food to a person or animal | vemr |
 | **VERK** | Open; cause an entrance, passage, or container to become accessible | verk |
 | **VETH** | Ice | veth (TH as in “thin”) |
@@ -530,6 +607,7 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **YAR** | Joy; happiness | yar |
+| **YELN** | Year; a period of about twelve months | yeln |
 
 ### Z
 
@@ -537,6 +615,7 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 |---|---|---|
 | **ZAK** | Wind | zak |
 | **ZAL** | Seed | zal |
+| **ZALR** | Reason; a cause, explanation, or justification | zalr |
 | **ZAR** | Life; the state of being alive | zar |
 | **ZARK** | Protect; keep safe from harm or danger | zark |
 | **ZARL** | Trust; rely on the honesty, ability, or reliability of someone or something | zarl |
@@ -545,6 +624,7 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **ZARV** | Friend; a person with whom one has a bond of mutual affection or trust | zarv |
 | **ZAV** | Grass | zav |
 | **ZAVK** | Shake; move rapidly back and forth or up and down | zavk |
+| **ZAVN** | Thank; express gratitude or appreciation | zavn |
 | **ZAVR** | Bloom; produce flowers or enter a flowering state | zavr |
 | **ZEG** | Skill; an ability developed through practice or experience | zeg |
 | **ZEK** | See; perceive with the eyes | zek |
@@ -556,19 +636,24 @@ The tables below contain all 400 approved roots in alphabetical order. Each entr
 | **ZERK** | Dirty; marked by dirt or unwanted material | zerk |
 | **ZETH** | Star | zeth (TH as in “thin”) |
 | **ZEVR** | Ear | zevr |
+| **ZILR** | Letter; a written or printed symbol representing a sound or part of a writing system | zilr |
+| **ZIRV** | Music; organized sound made by voices or instruments | zirv |
 | **ZIVR** | Fish | zivr |
 | **ZOLN** | Needle; a slender pointed implement used for sewing or piercing | zoln |
+| **ZORK** | Language; a system of words and rules used for communication | zork |
 | **ZORN** | Foot | zorn |
 | **ZORV** | Grow; increase in size or develop over time | zorv |
 | **ZOV** | Wave | zov |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 | **ZUL** | Blue | zul |
+| **ZULM** | Paper; thin material made from fibers and used for writing or wrapping | zulm |
 | **ZULN** | Purple; a color between red and blue | zuln |
 | **ZULR** | Book; a collection of written or printed pages bound together | zulr |
 | **ZULV** | Violet; a blue-purple color | zulv |
 | **ZUM** | Drink; consume liquid | zum |
 | **ZUR** | Rain | zur |
 | **ZURK** | Blood | zurk |
+| **ZURM** | Medicine; a substance or treatment used to prevent or treat illness | zurm |
 | **ZURN** | Guest; a person received or hosted by another | zurn |
 | **ZURTH** | Frost; a thin deposit of ice crystals formed on cold surfaces | zurth (TH as in “thin”) |
 | **ZURV** | Cure; bring about recovery from a disease or ailment | zurv |
@@ -613,9 +698,10 @@ Every root must have a unique complete spelling. Similar sounds, shared letters,
 - Phase 4 additions: 65.
 - Phase 5 additions: 65.
 - Phase 6 additions: 65.
-- Total approved roots: **400**.
+- Phase 7 additions: 84.
+- Total approved lexical roots: **484**.
 - Exact duplicate spellings in the cumulative inventory: **0**.
 - Exact matches against established whole terms and proper names checked for this audit: **0**.
 - Cross-document consistency: all six phase records and the Canon Registry agree with the master inventory on root spelling, approved meaning, and pronunciation guide; no missing or conflicting entries were found.
 
-The initial 400-root milestone is complete. Any future roots must be checked against this full 400-root table before approval. The inventory is broad core vocabulary, not a claim that the language can never add words again.
+The 484-root inventory includes the approved foundational set and Phases 1–7. Any future roots must be checked against this complete table before approval. Grammar words have their own collision-checked ledger. This is a substantial core vocabulary, not a claim that a usable language can never add words again.
