@@ -26,7 +26,7 @@ The current GitHub version of [Edraen Language Foundation](Edraen_Language_Found
 - A, E, I, O, U as core vowels; AE as approximately the vowel in “day”; AU as approximately the vowel in “now”; TH as in “thin”; KH as in Scottish “loch”; and NH as N in NHUR.
 - Default penultimate stress, while established proper names retain their recorded pronunciation guides.
 
-The foundation does **not** yet specify a complete consonant inventory, permitted syllable shapes, or a comprehensive set of consonant-cluster rules. The hard, ancient sound direction is therefore a design target for this proposal, not a claim that full phonotactics have already been established.
+The foundation does **not** yet specify a complete consonant inventory, permitted syllable shapes, or a comprehensive set of consonant-cluster rules. The hard, ancient sound direction established for this batch is a design target, not a claim that full phonotactics have already been established.
 
 Some older project notes label the seven roots or geographical terms provisional. The current approved GitHub foundation and Canon Registry supersede those older statuses.
 
