@@ -4,7 +4,7 @@
 **Version:** 1.8  
 **Status:** Approved Foundational Canon
 
-This registry records the approved foundational decisions for Edrath, including the core Edraen roots and compound rules, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
+This registry records the approved foundational decisions for Edrath, including core Edraen roots, compound rules, minimal sentence grammar, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
 
 ## 1. WORLD AND LANGUAGE
 
