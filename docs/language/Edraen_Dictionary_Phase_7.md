@@ -1,8 +1,8 @@
 # EDRAEN DICTIONARY — PHASE 7
 
 **Status:** Approved Canon  
-**Batch size:** 84 new roots  
-**Cumulative inventory after this phase:** 484 approved lexical roots  
+**Batch size:** 85 new roots  
+**Cumulative inventory after this phase:** 485 approved lexical roots  
 **Grammar:** See [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md)  
 **Master reference:** [Edraen Dictionary — Learner's Edition & Master Inventory](Edraen_Dictionary.md)
 
@@ -47,6 +47,7 @@ Phase 7 expands everyday vocabulary for communication, movement, feelings, pract
 | **KOLM** | Corner; the point or area where two edges or surfaces meet | kolm |
 | **KULM** | Clothing; garments worn on the body | kulm |
 | **LAVN** | Say; express something in words | lavn |
+| **LETHV** | Love; feel deep affection for someone | lethv (TH as in “thin”) |
 | **LIRV** | Like; find something pleasant or agreeable | lirv |
 | **LURV** | Hate; feel intense dislike or hostility toward someone or something | lurv |
 | **MELK** | Money; a medium of exchange or a general store of financial value | melk |
@@ -97,8 +98,8 @@ Phase 7 expands everyday vocabulary for communication, movement, feelings, pract
 
 ## Phase 7 audit
 
-- Roots added: **84**.
+- Roots added: **85**.
 - Duplicate spellings within this phase: **0**.
 - Exact spelling collisions with the prior 400-root inventory: **0**.
-- Cumulative lexical roots: **484**.
+- Cumulative lexical roots: **485**.
 - Grammar words are maintained in a separate list and must also remain spelling-distinct from every lexical root.
