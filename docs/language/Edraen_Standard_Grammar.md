@@ -1,9 +1,9 @@
 # EDRAEN STANDARD GRAMMAR & USAGE
 
-**Standard:** Edraen Standard v2.1  
+**Standard:** Edraen Standard v3.0  
 **Status:** Approved language standard  
 **Purpose:** A practical grammar for everyday conversation, clear prose, dialogue, and connected writing  
-**Lexical inventory:** 485 approved roots; grammar words are listed separately
+**Lexical inventory:** 628 approved roots; grammar words are listed separately
 
 This guide is the primary reference for forming Edraen sentences. The language is designed to be regular: words do not change form for person or tense, grammar words are written separately, and exceptions must be documented rather than improvised.
 
@@ -13,7 +13,7 @@ Edraen text uses three kinds of units:
 
 1. **Lexical roots** carry meanings such as person, water, run, remember, good, and city. The cumulative list is in the [Learner's Dictionary](Edraen_Dictionary.md).
 2. **Compounds** join roots according to the two approved compound patterns. A compound should have a clear relationship between its parts; do not assign a meaning to a trial compound without documenting it.
-3. **Grammar words** are separate short words that show relationships such as I, the, not, past, because, and where. They are not roots and do not count toward the 603-root inventory.
+3. **Grammar words** are separate short words that show relationships such as I, the, not, past, because, and where. They are not roots and do not count toward the 628-root inventory.
 
 The spelling of a root never changes to show tense, number, person, or grammatical role. Grammar words supply those functions.
 
@@ -91,6 +91,9 @@ These forms are separate grammatical words, not lexical roots. Their spellings m
 | **FU** | from | Preposition |
 | **UND** | under | Preposition |
 | **OV** | over; above | Preposition |
+| **SANS** | without | Preposition |
+| **TIL** | until | Preposition or temporal subordinator |
+| **SIN** | since | Preposition or temporal subordinator |
 | **THU** | through | Preposition |
 | **AR** | around | Preposition |
 | **SI** | more | Comparative marker |
@@ -100,9 +103,19 @@ These forms are separate grammatical words, not lexical roots. Their spellings m
 | **OTH** | other; another | Modifier meaning not the same one |
 | **BEH** | behind | Preposition |
 | **BET** | between | Preposition |
+| **SANS** | without | Preposition |
+| **TIL** | until | Preposition or temporal subordinator |
+| **SIN** | since | Preposition or temporal subordinator |
 | **LET** | let; allow | Permissive marker placed before a subject and its verb phrase |
 | **STIL** | still; continuing up to or beyond a reference point | Continuative adverb |
 | **THAN** | than | Comparison connector |
+| **SOM** | some | Indefinite quantity marker |
+| **ANY** | any | Indefinite marker, especially in questions, negatives, and conditions |
+| **SANS** | without | Preposition marking absence |
+| **TIL** | until | Preposition or temporal subordinator marking an endpoint |
+| **SIN** | since | Preposition or temporal subordinator marking a starting point |
+| **ALTH** | although | Concessive conjunction |
+| **DOT** | decimal point | Number separator in spoken or written decimal expressions |
 
 ## 2. Pronunciation and spelling
 
@@ -237,9 +250,9 @@ The demonstrative occupies the determiner position: **DI DOM** — this home; **
 | **DEK** | 10 | **HUN** | 100 |
 | **MIL** | 1,000 | | |
 
-For numbers from 11 to 99, say the tens first, then the remaining units: **DEK UN** = 11; **BI DEK** = 20; **BI DEK TRI** = 23. Scale words **HUN** and **MIL** mark hundreds and thousands: **BI HUN** = 200; **TRI MIL** = 3,000. The number phrase comes before the noun: **BI DEK TRI DAN** — 23 people.
+For numbers from 11 to 19, say **DEK** followed by the unit: **DEK UN** = 11; **DEK NEN** = 19. For multiples of ten, say the multiplier before **DEK**: **BI DEK** = 20; **TRI DEK** = 30. Add a unit after the tens when needed: **BI DEK TRI** = 23. For hundreds and thousands, put the multiplier before **HUN** or **MIL**: **BI HUN** = 200; **TRI MIL** = 3,000. Omit **UN** before a scale word when the multiplier is exactly one. Compose larger numbers from highest scale to lowest: **UN MIL BI HUN TRI DEK KAR** = 1,234. The number phrase comes before the noun: **BI DEK TRI DAN** — 23 people.
 
-Use **ORD** before a number to make an ordinal: **ORD UN** — first; **ORD BI** — second; **ORD TRI** — third.
+Use **ORD** before a number to make an ordinal: **ORD UN** — first; **ORD BI** — second; **ORD TRI** — third. Use **DOT** between the whole and fractional parts of a decimal: **BI DOT PEN** = 2.5. For technical writing, Arabic numerals may be used where exact figures matter; read them aloud using the Edraen number words.
 
 ## 5. Adjectives, adverbs, and comparison
 
@@ -294,7 +307,6 @@ Prepositional phrases and time/place details normally follow the core sentence: 
 - **AN ES SETH.** — I am well/good.
 - **IR ES LI TULK.** — He/she/it is the leader.
 - **EN DA ES IN LI DOM.** — We were in the home.
-- **UR VA ES TALM.** — They will be ready.
 - **UR VA ES TALM.** — They will be ready.
 
 An existential statement (“there is/are”) begins with **ES** followed by the thing that exists: **ES NA DAN IN LI DOM.** — There is a person in the home.
@@ -439,11 +451,12 @@ Examples:
 - **AND** joins words, phrases, or clauses.
 - **OR** gives alternatives.
 - **BUT** marks contrast.
+- **ALTH** introduces a concessive clause meaning “although/even though.”
 
 Examples:
 
 - **AN AND ET** — I and you.
-- **ET DERV VEM OR VOR?** — Do you want food or water?
+- **HA ET DERV VEM OR VOR?** — Do you want food or water?
 - **AN DERV LI ZULR, BUT AN NU HURV MELK.** — I want the book, but I do not have money.
 
 ### Reasons, conditions, and sequence
@@ -459,6 +472,9 @@ Examples:
 - **AN SAVM IN LI DOM BEK LI VOR ES KETHR.** — I stay in the home because the water is hot.
 - **IF ET TERV, AN VA RAVN ET.** — If you come, I will meet you.
 - **ET VA DUV LI VEM, THEN EN VA GOVR.** — You will eat the food, then we will go.
+- **ALTH LI VOR ES KETHR, AN DUV LI VEM.** — Although the water is hot, I eat the food.
+- **AN SAVM TIL DAK.** — I stay until day.
+- **AN GELR IN LI DARN SIN DA.** — I have lived in the village since daybreak / since the day began; use a more specific time expression when needed.
 
 ### Content clauses
 
@@ -512,6 +528,9 @@ The current vocabulary supports simple time expressions:
 - **DAK** — day
 - **NHUR** — night
 - **GUR** — dawn
+- **BEMRA** — morning
+- **MAVATH** — afternoon
+- **MORALA** — evening
 - **DETH** — dusk
 - **RUK** — time
 - **HURK** — hour
@@ -522,7 +541,7 @@ The current vocabulary supports simple time expressions:
 - **YELN** — year
 - **MARN** — age or span of time
 
-Combine them with numbers and prepositions: **BI HURK** — two hours; **IN TRI DAK** — in three days. **DI DAK** (“this day”) can mean “today” when context is clear; **VULR DAK** (“before day”) and **NETHL DAK** (“after day”) can express the day before or after a reference point.
+Combine them with numbers and prepositions: **BI HURK** — two hours; **IN TRI DAK** — in three days. **DI DAK** (“this day”) means “today” when context is clear; **VULR DAK** (“before day”) means “yesterday,” and **NETHL DAK** (“after day”) means “tomorrow,” when the reference point is today. **IN BEMRA**, **IN MAVATH**, and **IN MORALA** mean “in the morning,” “in the afternoon,” and “in the evening.”
 
 ## 15. Common grammatical examples
 
@@ -558,4 +577,121 @@ Before adding a root or grammar word:
 
 Similar sounds are permitted; exact duplicate spellings are not. Roots and grammar words are separate inventories, but **no exact spelling collision between them is allowed**.
 
-This document defines a usable standard grammar. The **AL**, **OTH**, **BEH**, **BET**, and **LET** forms are part of Standard v2.1. Future work should focus on expanding vocabulary, documenting idioms and conversational registers, testing long translations, and refining any rule that proves ambiguous in real use.
+This document defines the practical standard grammar for everyday Edraen. Standard v3.0 clarifies noun-phrase order, number formation, embedded questions, temporal relations, and new everyday vocabulary. It also adds **SOM**, **ANY**, **SANS**, **TIL**, **SIN**, **ALTH**, and **DOT**. Future vocabulary additions remain welcome, but grammar must not be improvised during translation; update this standard first when a rule needs to change.
+
+## 17. Noun-phrase order and quantity
+
+Use this general order as a reliable default:
+
+**DETERMINER OR POSSESSOR + NUMBER/PLURAL + OTHER/DEGREE + DESCRIPTION + NOUN**
+
+The determiner position is normally occupied by only one of these: **LI**, **NA**, a demonstrative (**DI/DU/DE/DO**), a possessive pronoun, or a universal/indefinite determiner (**AL**, **OTH**, **SOM**, **ANY**). Do not stack competing determiners.
+
+- **LI MA SETH DAN** — the good people.
+- **DE MA SETH DAN** — these good people.
+- **AN MA THARN** — my enemies.
+- **SOM MA DAN** — some people.
+- **ANY VEM** — any food.
+- **AL MA OTH DAN** — all the other people.
+- **BI SETH DOM** — two good homes.
+- **LI SU THRAN DOM** — the largest home.
+
+Use **MA** for an unspecified plural count noun. Do not use **MA** after an explicit number or a plural demonstrative: **BI DAN** (“two people”), **DE DAN** (“these people”). Mass nouns such as water and food normally appear without plural marking unless the intended meaning is a countable kind or serving.
+
+**SOM** means “some” and **ANY** means “any.” **ANY** is especially natural in questions, negative clauses, and conditions: **HA ET HURV ANY MELK?** (“Do you have any money?”); **AN NU HURV ANY MELK.** (“I do not have any money.”)
+
+## 18. Verb complements and infinitives
+
+Use **TO + bare verb** after a verb of desire, need, planning, attempt, or a similar intention when the second action is expressed:
+
+- **AN DERV TO TUR.** — I want to walk.
+- **AN DOVT TO SAVR.** — I need to learn.
+- **AN SAVK TO GOVR.** — I plan to go.
+- **AN FALD TO KERV LI BRUK.** — I try to repair the door.
+
+The ability root **TALR** and the grammar modals **ME**, **MO**, **SO**, and **WO** take a bare verb without **TO**:
+
+- **AN TALR FARL EDRAEN.** — I can speak Edraen.
+- **AN ME GOVR.** — I must go.
+- **ET SO SAVN.** — You should remember.
+- **AN MO TERV.** — I may come.
+- **AN WO GARN ET.** — I would help you.
+
+Use **TO** for purpose as well: **AN GOVR TO LI RAGAM TO RAG.** — I go to the office to work. If a sentence contains two consecutive **TO** phrases, use a comma or rewrite it if the relationship is unclear.
+
+## 19. Embedded questions and reference clauses
+
+A direct question uses the question word at the beginning. An embedded question keeps its question word at the beginning of its own clause but does not use **HA**:
+
+- **KO ET GELR?** — Where do you live?
+- **AN FIRV KO ET GELR.** — I know where you live.
+- **AN NU FIRV KU IR THULR.** — I do not know why he/she/it left.
+- **ET THAVN KE EN VA TERV.** — You ask when we will come.
+
+**THA** introduces a statement used as the content of another clause: **AN FIRV THA IR ES SETH.** — I know that he/she/it is well. **TA** introduces a relative clause after its noun: **LI DAN TA AN SAVN** — the person whom I remember. The noun before **TA** is understood as the missing participant in the relative clause. If a long relative clause could be read in two ways, repeat the noun or rewrite the sentence.
+
+## 20. Temporal reference, dates, and clock time
+
+Use existing time roots and numbered periods rather than inventing unapproved weekday or month names:
+
+- **DI DAK** — today.
+- **VULR DAK** — yesterday / the day before the current reference day.
+- **NETHL DAK** — tomorrow / the day after the current reference day.
+- **IN BEMRA** — in the morning.
+- **IN MAVATH** — in the afternoon.
+- **IN MORALA** — in the evening.
+- **AT BI HURK** — at two o'clock / at the second hour.
+- **AT BI HURK AND TRI DEK MIRK** — at 2:30 (two hours and thirty minutes).
+- **ORD UN MELT** — the first month.
+- **UN DAK IN MELT** — one day in the month; use an ordinal before the month when the day number must be exact.
+
+Edraen has no fixed canon calendar at this stage. Numbered days and months are a neutral way to give dates until a setting-specific calendar is established. Use **DOT** in decimals: **UN DOT PEN** = 1.5. Arabic numerals are permitted in technical, financial, and time-sensitive writing when they improve precision.
+
+## 21. Expanded everyday vocabulary
+
+Phase 10 adds words for modern communication and practical life. These words describe concepts; they do not imply that every society in Edrath has the same technology or institutions.
+
+- **TELAR** — telephone.
+- **KOMAR** — computer.
+- **KOMEL** — keyboard.
+- **KOMAV** — screen.
+- **ZORAK** — internet.
+- **ZORAV** — network.
+- **ZORKAL** — technology.
+- **SAVAT** — email.
+- **RUVAK** — vehicle; **RUVAM** — bus; **RUVAN** — bicycle; **RUVATH** — train.
+- **RAGAM** — office; **RAGAV** — job; **MELKAR** — salary.
+- **DOMAR** — apartment; **NIRAL** — doctor; **NIRTH** — hospital; **NIRAK** — sick.
+- **KELDAK** — receipt; **KELDAV** — cheap; **MELKAV** — expensive.
+- **BEMRA**, **MAVATH**, **MORALA** — morning, afternoon, evening.
+
+Example sentences:
+
+- **AN DURV LI KOMAR.** — I use the computer.
+- **AN VA DARV NA SAVAT TO ET.** — I will send you an email.
+- **KO ES LI TELAR?** — Where is the telephone?
+- **AN ES NIRAK.** — I am sick.
+- **AN DERV NA NIRAL.** — I want a doctor.
+- **AN VA GOVR TO LI NIRTH.** — I will go to the hospital.
+- **LI KOMAR ES MELKAV.** — The computer is expensive.
+- **AN FRAV LI RUVAM TO LI NARL.** — I ride the bus to town.
+- **AN VA GOVR TO LI RAGAM IN MORALA.** — I will go to the office in the evening.
+- **AN DEVR MELKAR.** — I receive a salary.
+- **AN HURV LI KELDAK.** — I have the receipt.
+- **AN SAVR ZORKAL.** — I learn about technology.
+
+## 22. Spoken and written style
+
+The standard grammar is used for ordinary conversation and clear prose. The same core rules apply to casual, formal, and poetic writing; register changes vocabulary choice, sentence length, and how directly a speaker phrases a request.
+
+- Use **PLE** to soften requests. A bare imperative is acceptable for urgent, familiar, or direct commands.
+- Repeat a noun instead of using a pronoun when the referent might be unclear.
+- Short clauses are preferred in conversation. Longer subordinate clauses are acceptable in writing when their boundaries are clear.
+- Put direct speech inside quotation marks and use the ordinary punctuation rules. Capitalize proper names, but do not assign them an Edraen etymology unless one is recorded.
+- A new borrowed word or newly coined compound is not automatically standard. Record its spelling, meaning, pronunciation, and role before treating it as approved vocabulary.
+
+## 23. Scope of the standard
+
+Edraen Standard v3.0 is a stable, usable core for everyday speech, practical writing, connected narrative, and formal passages. It defines the regular grammar rather than trying to freeze all future vocabulary or culture. The language can grow without being considered unfinished every time a new technical term is needed.
+
+The following are deliberately left open to future specification rather than silently guessed: regional dialects, historical sound changes, a canonical calendar, a detailed politeness hierarchy, and specialist terminology for fields not yet represented in the dictionary. These are expansion areas, not blockers for ordinary use.
