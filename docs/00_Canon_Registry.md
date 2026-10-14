@@ -1,7 +1,7 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 1.5  
+**Version:** 1.6  
 **Status:** Approved Foundational Canon
 
 This registry records the approved foundational decisions for Edrath, including the core Edraen roots and compound rules, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
@@ -104,7 +104,7 @@ The following 66 roots are approved additions to the initial seven-root core. Th
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 
-The approved inventory contains **270 unique root spellings** across the seven foundational roots and four approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), and [Phase 4](language/Edraen_Dictionary_Phase_4.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
+The approved inventory contains **335 unique root spellings** across the seven foundational roots and five approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), [Phase 4](language/Edraen_Dictionary_Phase_4.md), and [Phase 5](language/Edraen_Dictionary_Phase_5.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
 
 The pronunciation guides are practical reader aids rather than a complete phonetic transcription. Approved proper-name pronunciations listed elsewhere remain fixed.
 
@@ -333,6 +333,78 @@ The following 65 roots are approved additions. Their full alphabetical reference
 | **FURV** | Notice; become aware of something through observation or attention | furv |
 
 The cumulative approved inventory contains **270 unique root spellings** across the seven foundational roots, three 66-root addition batches, and 65 Phase 4 additions. Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
+
+### 2.5 Additional approved roots — Phase 5
+
+The following 65 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 5](language/Edraen_Dictionary_Phase_5.md).
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
+| **BAVN** | Vegetable; an edible plant or plant part used as food | bavn |
+| **BRAL** | Sibling; a brother or sister, without specifying gender | bral |
+| **BULN** | Shelf; a flat support fixed to a wall or frame for storing objects | buln |
+| **BULR** | Roof; the upper covering of a building | bulr |
+| **DARN** | Village; a small settled community | darn |
+| **DOLV** | Blanket; a covering used for warmth or bedding | dolv |
+| **DROV** | Borrow; take and use something temporarily with the intention of returning it | drov |
+| **DULN** | Cheese; food made by curdling and processing milk | duln |
+| **DULTH** | Sour; having an acidic taste | dulth (TH as in “thin”) |
+| **DULV** | Bitter; having a sharp taste commonly associated with certain plants or substances | dulv |
+| **FARN** | Farmer; a person who cultivates land or raises crops and livestock | farn |
+| **FAVN** | Shell; a hard outer covering of certain animals or seeds | favn |
+| **FAVR** | Hunt; search for or pursue animals for capture or food | favr |
+| **FELN** | Trade; exchange goods or services | feln |
+| **FELR** | Mirror; a surface that reflects an image | felr |
+| **FRAV** | Ride; travel while mounted on or carried by a moving conveyance | frav |
+| **FURK** | Bell; an object that produces a ringing sound when struck or moved | furk |
+| **GELM** | Clay; fine-grained earth that can be shaped when wet | gelm |
+| **GELN** | Rough; having an uneven or coarse surface | geln |
+| **GELV** | Ladder; a structure with rungs used for climbing | gelv |
+| **GREV** | Harvest; gather a crop or useful natural produce | grev |
+| **GULV** | Green; the color between yellow and blue in the visible spectrum | gulv |
+| **KALR** | Measure; determine the size, amount, or extent of something | kalr |
+| **KARL** | Lock; a device that secures an opening or object | karl |
+| **KOLN** | Wheel; a circular component that turns around an axle | koln |
+| **KOLR** | Round; shaped like a circle or sphere | kolr |
+| **KULV** | Trader; a person who exchanges or sells goods | kulv |
+| **LARV** | Net; a mesh used to catch, hold, or contain things | larv |
+| **LIRK** | Laugh; make sounds or expressions associated with amusement | lirk |
+| **MAVR** | Mammal; an animal of the group that includes humans and other milk-feeding species | mavr |
+| **MELN** | Ink; a liquid or paste used for writing or marking | meln |
+| **MELR** | Lush; abundant in healthy vegetation or growth | melr |
+| **MELV** | Artisan; a person skilled in making objects by hand | melv |
+| **NARL** | Town; a settled community larger than a village but smaller than a city | narl |
+| **NELR** | Forget; fail to retain or recall information | nelr |
+| **NULK** | Latch; a fastening used to hold a door or gate closed | nulk |
+| **NURM** | Thin; having little thickness or a small distance between opposite surfaces | nurm |
+| **PAVN** | Feather; a light structure covering a bird's body | pavn |
+| **PERN** | Oven; an enclosed chamber used for heating or baking | pern |
+| **PETHN** | Smooth; having an even surface with few rough projections | pethn |
+| **PIRV** | Fly; move through the air under one's own power or by means of wings | pirv |
+| **RAVR** | Messenger; a person who carries information or messages between others | ravr |
+| **SAVN** | Remember; bring stored information or an experience back to mind | savn |
+| **SAVTH** | Student; a person who is learning a subject or skill | savth (TH as in “thin”) |
+| **SILN** | Loud; producing or characterized by a high level of sound | siln |
+| **SORK** | Seek; try to find or obtain something | sork |
+| **SULV** | Ore; rock or mineral material from which a useful substance can be extracted | sulv |
+| **TARTH** | Straight; extending uniformly without a bend or curve | tarth |
+| **TAVN** | Poet; a person who composes poetry | tavn |
+| **TELR** | Thread; a thin strand of fiber used in sewing or weaving | telr |
+| **THRUL** | Witness; a person who sees an event or gives an account of it | thrul (TH as in “thin”) |
+| **TOVR** | Steal; take something without permission or right | tovr |
+| **TULR** | Crooked; bent or not following a straight line | tulr |
+| **VETHN** | Steam; water vapor commonly produced when water is heated | vethn (TH as in “thin”) |
+| **VIRN** | Judge; a person who evaluates a dispute or makes a formal decision | virn |
+| **VULN** | Heavy; having great weight relative to size or comparison | vuln |
+| **VURK** | Heal; recover or help recover from injury or illness | vurk |
+| **ZELN** | Guard; a person who protects a place, person, or object | zeln |
+| **ZELR** | Map; a representation of an area showing places and spatial relationships | zelr |
+| **ZELTH** | Early; occurring before the expected or usual time | zelth (TH as in “thin”) |
+| **ZOLN** | Needle; a slender pointed implement used for sewing or piercing | zoln |
+| **ZORV** | Grow; increase in size or develop over time | zorv |
+| **ZULN** | Purple; a color between red and blue | zuln |
+| **ZURTH** | Frost; a thin deposit of ice crystals formed on cold surfaces | zurth (TH as in “thin”) |
+| **ZURV** | Cure; bring about recovery from a disease or ailment | zurv |
 
 ## 3. THE FIVE CONTINENTS
 
