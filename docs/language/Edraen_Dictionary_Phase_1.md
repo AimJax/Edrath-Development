@@ -1,17 +1,17 @@
 # EDRAEN DICTIONARY — PHASE 1
 
-**Status:** Working Draft — Proposals Only; Not Canon  
-**Scope:** Core-root candidates  
+**Status:** Approved Canon  
+**Scope:** Approved core-root inventory  
 **Sound direction:** Hard and ancient, with strong consonants  
-**Batch:** 66 proposed roots, in addition to the 7 approved roots
+**Inventory:** 73 approved roots total (7 foundational roots + 66 Phase 1 additions)
 
 ## 1. Purpose and canon boundary
 
-This document is a proposal register for the first Edraen dictionary batch. Its new roots and definitions are **not approved canon**. They may be accepted, revised, replaced, or rejected by the creator.
+This document records the approved first Edraen dictionary batch. All 66 roots in the Phase 1 batch are approved alongside the seven foundational roots listed below.
 
-The current approved language foundation remains authoritative. This document does not modify it, redefine existing roots, or establish new lore. Proposed meanings are lexical definitions only; they do not establish religions, metaphysics, histories, social institutions, or facts about the peoples of Edrath.
+This dictionary follows the approved language foundation and does not redefine existing roots or establish new lore. Root meanings are lexical definitions only; they do not establish religions, metaphysics, histories, social institutions, or facts about the peoples of Edrath.
 
-The aim is to establish a useful core vocabulary before building compounds. No new compound entries are approved or proposed here.
+The dictionary establishes a stable core vocabulary for future compound building. Compound words must still follow the two approved compound patterns in the language foundation.
 
 ## 2. Foundation audit
 
@@ -28,6 +28,8 @@ The foundation does **not** yet specify a complete consonant inventory, permitte
 
 Some older project notes label the seven roots or geographical terms provisional. The current approved GitHub foundation and Canon Registry supersede those older statuses.
 
+**Exact-spelling audit:** all 73 approved root spellings are unique. None of the 66 Phase 1 roots duplicates another Phase 1 root, any of the original seven roots, or the known established whole terms and proper names checked for this batch. Similar syllables inside longer names or pronunciation guides are not duplicate dictionary entries.
+
 ## 3. Approved roots — reference only
 
 These entries are already canon and are repeated here only so the dictionary has a single working reference. Their meanings are unchanged.
@@ -42,13 +44,11 @@ These entries are already canon and are repeated here only so the dictionary has
 | **NHUR** | Night | noor (NH pronounced as N) |
 | **AETH** | Sky | ayth (TH as in “thin”) |
 
-## 4. Proposed core-root batch
+## 4. Approved Phase 1 core-root batch
 
-All roots and definitions in this section are candidates. The pronunciation column is a **provisional reader guide**, not a final phonemic specification. Existing conventions apply to TH and KH; KRAETH-like AE spellings are not used in this batch.
+All roots and definitions in this section are approved canon. The pronunciation column is a **reader guide**, not a complete phonemic specification. Existing conventions apply to TH and KH.
 
-### World and elements
-
-| Proposed root | Proposed meaning | Provisional pronunciation |
+| Approved root | Approved meaning | Pronunciation guide |
 |---|---|---|
 | **VOR** | Water | vor |
 | **DUR** | Soil; earth as physical ground or material | dur |
@@ -60,11 +60,6 @@ All roots and definitions in this section are candidates. The pronunciation colu
 | **VARK** | Storm | vark |
 | **DOR** | Sun | dor |
 | **GOL** | Moon | gol |
-
-### Sky and time
-
-| Proposed root | Proposed meaning | Provisional pronunciation |
-|---|---|---|
 | **ZETH** | Star | zeth (TH as in “thin”) |
 | **DAK** | Day; daylight period | dak |
 | **GUR** | Dawn | gur |
@@ -75,11 +70,6 @@ All roots and definitions in this section are candidates. The pronunciation colu
 | **MARN** | Age; a period or span of time | marn |
 | **KAD** | Beginning; starting point | kad |
 | **VAK** | End; finishing point or limit | vak |
-
-### Life and body
-
-| Proposed root | Proposed meaning | Provisional pronunciation |
-|---|---|---|
 | **ZAR** | Life; the state of being alive | zar |
 | **MORTH** | Death; the end of life | morth (TH as in “thin”) |
 | **KAV** | Birth; coming into life | kav |
@@ -92,11 +82,6 @@ All roots and definitions in this section are candidates. The pronunciation colu
 | **ZEL** | Eye | zel |
 | **VOTH** | Voice | voth (TH as in “thin”) |
 | **SURN** | Spirit or soul as a vocabulary concept; this definition does not establish what such a thing is or whether it exists | surn |
-
-### Mind and language
-
-| Proposed root | Proposed meaning | Provisional pronunciation |
-|---|---|---|
 | **KREN** | Mind; faculty of thought | kren |
 | **TAV** | Thought; an idea or act of thinking | tav |
 | **GREM** | Memory; recollection or the faculty of remembering | grem |
@@ -105,11 +90,6 @@ All roots and definitions in this section are candidates. The pronunciation colu
 | **NAG** | Name; identifying word or designation | nag |
 | **TARK** | Speech; spoken words or utterance | tark |
 | **KAL** | Truth; that which is true | kal |
-
-### Society and relationships
-
-| Proposed root | Proposed meaning | Provisional pronunciation |
-|---|---|---|
 | **DASK** | Law; a formal rule or body of rules | dask |
 | **KURV** | Authority; recognized power to direct or govern | kurv |
 | **THREN** | People; a group of persons | thren (TH as in “thin”) |
@@ -118,11 +98,6 @@ All roots and definitions in this section are candidates. The pronunciation colu
 | **DOM** | Home; place of residence or belonging | dom |
 | **KEL** | Land; a tract or area of territory, rather than soil as material | kel |
 | **GRAK** | Honor; recognized esteem or integrity | grak |
-
-### Living world and materials
-
-| Proposed root | Proposed meaning | Provisional pronunciation |
-|---|---|---|
 | **SKOV** | Forest | skov |
 | **TOL** | Tree | tol |
 | **THAL** | Leaf | thal (TH as in “thin”) |
@@ -133,11 +108,6 @@ All roots and definitions in this section are candidates. The pronunciation colu
 | **MALK** | Metal | malk |
 | **THORG** | Iron | thorg (TH as in “thin”) |
 | **KRAK** | Weapon; an implement designed or used for fighting | krak |
-
-### Conflict, work, and knowledge
-
-| Proposed root | Proposed meaning | Provisional pronunciation |
-|---|---|---|
 | **THAK** | War; organized armed conflict | thak (TH as in “thin”) |
 | **VASK** | Peace; a condition without active conflict | vask |
 | **KARD** | Strength; physical force or general capacity | kard |
@@ -147,31 +117,31 @@ All roots and definitions in this section are candidates. The pronunciation colu
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 
-## 5. Semantic boundaries to preserve if roots are approved
+## 5. Lexical distinctions and usage notes
 
-These distinctions are intentional and should remain clear during review:
+These distinctions are intentional and should remain clear in future usage:
 
-- **DUR** would mean soil or earth as material; **KEL** would mean land or territory as a place.
+- **DUR** means soil or earth as material; **KEL** means land or territory as a place.
 - **RATH** already means world or encompassing realm; it is not being replaced by a generic “land” or “earth” root.
-- **DAK** would mean day; **RUK** time; **MARN** an age or span of time.
-- **KAD** would mean a beginning or starting point; **ED** retains its established meaning of primordial/original.
-- **ZAR** would mean life; **MORTH** death; **KAV** birth.
-- **KREN** mind; **TAV** thought; **GREM** memory; **VARN** will; **THRUK** knowledge; **ZOVR** wisdom.
-- **DASK** law; **KURV** authority; **THREN** a group of people; **DAN** an individual person.
-- **MALK** would be the general term for metal; **THORG** the specific material iron.
-- **KREG** craft; **ZEG** skill; **RAG** work. These concepts overlap in ordinary usage but are not interchangeable.
-- **SURN** is only a proposed word for “spirit/soul.” Approving the word would not establish any claim about the nature, existence, or mechanics of a soul.
+- **DAK** means day; **RUK** time; **MARN** an age or span of time.
+- **KAD** means a beginning or starting point; **ED** retains its established meaning of primordial/original.
+- **ZAR** means life; **MORTH** death; **KAV** birth.
+- **KREN** means mind; **TAV** thought; **GREM** memory; **VARN** will; **THRUK** knowledge; **ZOVR** wisdom.
+- **DASK** means law; **KURV** authority; **THREN** a group of people; **DAN** an individual person.
+- **MALK** is the general term for metal; **THORG** the specific material iron.
+- **KREG** means craft; **ZEG** skill; **RAG** work. These concepts overlap in ordinary usage but are not interchangeable.
+- **SURN** is a word for “spirit/soul.” This vocabulary entry does not establish any claim about the nature, existence, or mechanics of a soul.
 
-## 6. Review risks and unresolved decisions
+## 6. Ongoing language-design notes
 
-1. **Root shape:** The proposals favor short forms and strong consonants, but the language still needs an explicit decision on allowed consonant clusters and syllable shapes.
-2. **Near-sounding roots:** A few pairs need explicit review before approval, especially **DAK / KAD** (day / beginning), **KAL / KEL** (truth / land), and **KARD / KARN** (strength / kin). They are proposals, not fixed choices; revise one member of a pair if the distinction does not feel clear enough in speech.
-3. **Semantic overlap:** Proposed meanings should be narrowed where necessary before roots are used in compounds.
-4. **Pronunciation:** The reader guides should be confirmed and then recorded consistently. They are not intended as IPA.
-5. **No automatic approval:** Appearance in this document does not make a root canon.
+1. **Root shape:** The batch favors short forms and strong consonants, but the language still needs an explicit decision on allowed consonant clusters and syllable shapes.
+2. **Near-sounding roots:** **DAK / KAD** (day / beginning), **KAL / KEL** (truth / land), and **KARD / KARN** (strength / kin) are distinct approved roots. Keep their pronunciation and usage clear in speech.
+3. **Semantic precision:** Future compounds should respect the distinctions recorded above and follow the two approved compound patterns.
+4. **Pronunciation:** The reader guides are practical aids, not IPA or a complete phonological specification.
+5. **Future additions:** Any later roots must be checked for exact-spelling duplicates against the full approved inventory before being added.
 
-## 7. Next step
+## 7. Future development
 
-Review the proposed roots as a batch or by category. Once the creator approves or revises them, move only the accepted entries into the approved Edraen foundation or a canonical dictionary. Then begin compound vocabulary using the established patterns.
+The next stage may develop compounds, additional vocabulary, and grammar using the approved roots and the existing language foundation. New roots must be checked against this complete inventory to prevent exact-spelling duplicates.
 
-**Canon rule:** Until explicitly approved, every new root in Section 4 remains a proposal.
+**Canon rule:** The 73 roots recorded in this dictionary are approved. New entries require a deliberate approval decision.
