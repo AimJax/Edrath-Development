@@ -116,7 +116,7 @@ def main() -> int:
         errors.append(f"Canon Registry records {recorded} roots but the dictionary declares {expected_count}.")
     if "Edraen Standard v3.0" not in registry:
         errors.append("Canon Registry does not reference Edraen Standard v3.0.")
-    readme_count = re.search(r"\\*\\*Edraen dictionary\\*\\* — (\\d+) approved lexical roots", readme)
+    readme_count = re.search(r"\*\*Edraen dictionary\*\* — (\d+) approved lexical roots", readme)
     if not readme_count or int(readme_count.group(1)) != expected_count:
         recorded = readme_count.group(1) if readme_count else "missing"
         errors.append(f"README records {recorded} roots but the dictionary declares {expected_count}.")
