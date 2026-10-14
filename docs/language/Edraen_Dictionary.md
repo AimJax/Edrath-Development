@@ -7,7 +7,7 @@
 
 ## Canon boundary
 
-This is the canonical master reference for exact root spellings, meanings, and reader-friendly pronunciation guides. Roots are listed alphabetically so exact spelling can be audited efficiently. Batch histories remain available in [Phase 1](Edraen_Dictionary_Phase_1.md), [Phase 2](Edraen_Dictionary_Phase_2.md), [Phase 3](Edraen_Dictionary_Phase_3.md), and [Phase 4](Edraen_Dictionary_Phase_4.md), [Phase 5](Edraen_Dictionary_Phase_5.md), and [Phase 6](Edraen_Dictionary_Phase_6.md).
+This is the canonical master reference for exact root spellings, meanings, and reader-friendly pronunciation guides. Roots are listed alphabetically so exact spelling can be audited efficiently. Historical batch records are available in [Phase 1](Edraen_Dictionary_Phase_1.md), [Phase 2](Edraen_Dictionary_Phase_2.md), [Phase 3](Edraen_Dictionary_Phase_3.md), [Phase 4](Edraen_Dictionary_Phase_4.md), [Phase 5](Edraen_Dictionary_Phase_5.md), and [Phase 6](Edraen_Dictionary_Phase_6.md).
 
 Root definitions are lexical only. They do not independently establish religions, metaphysics, histories, social institutions, cultural practices, or facts about the peoples of Edrath.
 
@@ -469,5 +469,6 @@ Every root must have a unique complete spelling. Similar sounds, shared letters,
 - Total approved roots: **400**.
 - Exact duplicate spellings in the cumulative inventory: **0**.
 - Exact matches against established whole terms and proper names checked for this audit: **0**.
+- Cross-document consistency: all six phase records and the Canon Registry agree with the master inventory on root spelling, approved meaning, and pronunciation guide; no missing or conflicting entries were found.
 
 The initial 400-root milestone is complete. Any future roots must be checked against this full 400-root table before approval. The inventory is broad core vocabulary, not a claim that the language can never add words again.
