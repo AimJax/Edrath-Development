@@ -11,7 +11,7 @@
 
 This file records the 65 roots approved by the creator in the fifth Edraen vocabulary batch. All entries below are canon and are included in the master dictionary and Canon Registry.
 
-The batch expands everyday actions, household objects, physical descriptions, community roles, natural materials, foods, and living things. Definitions are lexical suggestions only; they do not establish lore, cultural practices, or facts about Edrath.
+The batch expands everyday actions, household objects, physical descriptions, community roles, natural materials, foods, and living things. Definitions are lexical only; they do not establish lore, cultural practices, or facts about Edrath.
 
 ## Approved roots
 
