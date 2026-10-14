@@ -230,7 +230,7 @@ Do not add plural endings to roots.
 | **DE** | these |
 | **DO** | those |
 
-The demonstrative occupies the determiner position: **DI DOM** — this home; **DO MA DAN** — those people. In ordinary use, do not combine a demonstrative with **LI** or **NA**.
+The demonstrative occupies the determiner position: **DI DOM** — this home; **DO MA DAN** — those people. In ordinary use, do not combine a demonstrative with **LI** or **NA**. When the noun is obvious from context, a demonstrative may stand alone as a pronoun: **DI** — this; **DU** — that; **DE** — these; **DO** — those. For example, **KA ES DI?** — “What is this?” and **KI ES DU?** — “Who is that?”
 
 ### Numbers
 
