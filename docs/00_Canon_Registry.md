@@ -1,10 +1,10 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 2.1  
+**Version:** 2.2  
 **Status:** Approved Foundational Canon
 
-This registry records the approved foundational decisions for Edrath, including the 551-root Edraen inventory, compound rules, Edraen Standard Grammar v2.1, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
+This registry records the approved foundational decisions for Edrath, including the 603-root Edraen inventory, compound rules, Edraen Standard Grammar v2.1, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
 
 ## 1. WORLD AND LANGUAGE
 
@@ -104,7 +104,7 @@ The following 66 roots are approved additions to the initial seven-root core. Th
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 
-The approved inventory contains **551 unique root spellings** across the seven foundational roots and eight approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), [Phase 4](language/Edraen_Dictionary_Phase_4.md), and [Phase 5](language/Edraen_Dictionary_Phase_5.md), and [Phase 6](language/Edraen_Dictionary_Phase_6.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
+The approved inventory contains **603 unique root spellings** across the seven foundational roots and nine approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), [Phase 4](language/Edraen_Dictionary_Phase_4.md), and [Phase 5](language/Edraen_Dictionary_Phase_5.md), and [Phase 6](language/Edraen_Dictionary_Phase_6.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
 
 The pronunciation guides are practical reader aids rather than a complete phonetic transcription. Approved proper-name pronunciations listed elsewhere remain fixed.
 
@@ -642,6 +642,65 @@ The following 66 roots are approved additions. Their complete alphabetical refer
 | **VURV** | Breathe; draw air into and out of the lungs | vurv |
 | **ZAVT** | Win; achieve victory or succeed in a contest | zavt |
 | **ZOVRN** | Wise; showing sound judgment and good sense | zovrn (final RN pronounced clearly) |
+
+### 2.9 Additional approved roots — Phase 9
+
+The following 52 roots are approved additions. Their complete alphabetical reference appears in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Phase 9](language/Edraen_Dictionary_Phase_9.md).
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
+| **BULM** | Soup; a liquid food usually made by simmering ingredients in water or stock | bulm |
+| **DANH** | Infant; a very young child or baby | danh |
+| **DANL** | Woman; an adult human female | danl |
+| **DANM** | Man; an adult human male | danm |
+| **DANV** | Adult; a person who has reached maturity | danv |
+| **DOLTH** | Plaza; an open public space in a town or city | dolth (TH as in “thin”) |
+| **DUVR** | Hungry; needing or wanting food | duvr |
+| **FELM** | Market; a place or system where goods are bought and sold | felm |
+| **GAVM** | Ugly; unpleasant in appearance | gavm |
+| **GOLK** | Silver; a valuable pale-gray metal | golk |
+| **GURM** | Greeting; words or actions used when meeting someone | gurm |
+| **GURTH** | Beautiful; pleasing or striking in appearance | gurth (TH as in “thin”) |
+| **KARDV** | Strong; having great physical or figurative strength | kardv |
+| **KARTHV** | Thumb; the short, opposable digit on the hand | karthv (TH as in “thin”) |
+| **KETHS** | Spark; a tiny glowing particle emitted by fire or friction | keths |
+| **KIRL** | Partner; a person joined with another in a relationship or shared activity | kirl |
+| **KIRTH** | Oath; a solemn, formal promise or pledge | kirth (TH as in “thin”) |
+| **KRENV** | Brain; the organ inside the head responsible for thought and bodily control | krenv |
+| **LAVM** | Rest; stop working or moving for a period to recover | lavm |
+| **MALN** | Coat; an outer garment worn over other clothing | maln |
+| **MOLM** | Drawer; a sliding compartment used for storage in furniture | molm |
+| **MULM** | Weak; lacking strength or power | mulm |
+| **MULS** | Sometimes; on some occasions but not always | muls |
+| **MULTH** | Freedom; the condition of being free from undue control or restriction | multh (TH as in “thin”) |
+| **MURM** | Tired; needing rest or sleep | murm |
+| **NEMV** | Sugar; a sweet substance used in food and drink | nemv |
+| **NETHM** | Immediately; without delay | nethm (TH as in “thin”) |
+| **NOLV** | Desk; a table or work surface used for writing or other tasks | nolv |
+| **NULS** | Only; no more than the one or ones specified | nuls |
+| **NURD** | Thick; having a large distance between opposite surfaces | nurd |
+| **PAVS** | Purse; a small bag used for carrying money or personal items | pavs |
+| **RAVD** | Reach; arrive at or extend to a target, place, or result | ravd |
+| **RIRN** | Rice; a cereal grain commonly eaten as food | rirn |
+| **RUVR** | Again; one more time or once more | ruvr |
+| **RUVT** | Station; a designated place where travelers board, leave, or change transport | ruvt |
+| **SILV** | Careful; taking care to avoid harm, error, or damage | silv |
+| **THARV** | Justice; fair treatment and the proper application of rules | tharv (TH as in “thin”) |
+| **THAVM** | Dangerous; likely to cause harm or injury | thavm (TH as in “thin”) |
+| **THOLM** | Sound; something heard, including a noise or tone | tholm (TH as in “thin”) |
+| **THRAVM** | School; a place or institution where people are taught and learn | thravm (TH as in “thin”) |
+| **THRAVN** | Teacher; a person whose work or role is to teach | thravn (TH as in “thin”) |
+| **THULV** | Lip; one of the soft edges surrounding the mouth | thulv (TH as in “thin”) |
+| **TULS** | Urgent; requiring immediate attention or action | tuls |
+| **VIRV** | Trial; a formal process for examining evidence and deciding a legal dispute | virv |
+| **VURTH** | Lung; an organ used for breathing | vurth (TH as in “thin”) |
+| **ZAVM** | Care; attention given to protect, maintain, or improve someone or something | zavm |
+| **ZELM** | Luck; chance that brings a favorable or unfavorable result | zelm |
+| **ZELV** | Safe; protected from danger or harm | zelv |
+| **ZILV** | Pencil; a writing tool that marks by depositing a removable substance | zilv |
+| **ZORL** | Possible; able to happen or be done | zorl |
+| **ZULK** | Spoon; a utensil with a small bowl used for eating or serving food | zulk |
+| **ZUMR** | Thirsty; needing or wanting a drink | zumr |
 
 ## 3. THE FIVE CONTINENTS
 
