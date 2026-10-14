@@ -185,10 +185,10 @@ The roots **DANL** and **DANM** mean woman and man; **DANV** means adult; **DANH
 |---|---|
 | **AN ES NIRAK.** | I am sick. |
 | **AN DOVT NA NIRAL.** | I need a doctor. |
-| **KO ES LI NIRTH?** | Where is the hospital? |
-| **AN VA GOVR TO LI NIRTH.** | I will go to the hospital. |
+| **KO ES LI NIRATH?** | Where is the hospital? |
+| **AN VA GOVR TO LI NIRATH.** | I will go to the hospital. |
 | **AN ES NIRAK. PLE GARN AN.** | I am sick. Please help me. |
-| **LI NIRTH ES NARV LI DOMAR.** | The hospital is near the apartment. |
+| **LI NIRATH ES NARV LI DOMAR.** | The hospital is near the apartment. |
 
 ## Time of day and plans
 
@@ -219,7 +219,7 @@ The roots **DANL** and **DANM** mean woman and man; **DANV** means adult; **DANH
 | **MELKAV** | expensive |
 | **NIRAK** | sick |
 | **NIRAL** | doctor |
-| **NIRTH** | hospital |
+| **NIRATH** | hospital |
 | **RAGAM** | office |
 | **RAGAV** | job |
 | **RUVAK** | vehicle |
