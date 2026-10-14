@@ -26,7 +26,7 @@ Each root has an approved meaning. The roots can be combined to form new vocabul
 | NHUR | Night | noor; NH is pronounced as N |
 | AETH | Sky | ayth; TH as in “thin” |
 
-These seven roots are the approved initial core. The first full dictionary batch adds 66 approved roots; see [Edraen Dictionary — Phase 1](Edraen_Dictionary_Phase_1.md) for the complete inventory and meanings. That dictionary is the reference for exact root spellings and the current approved vocabulary.
+These seven roots are the approved foundational core. The first two dictionary batches add 132 approved roots, for a cumulative total of 139. See [Edraen Dictionary — Master Inventory](Edraen_Dictionary.md) for the complete cumulative inventory and meanings, with [Phase 1](Edraen_Dictionary_Phase_1.md) and [Phase 2](Edraen_Dictionary_Phase_2.md) preserving the batch records. The master inventory is the reference for exact root spellings and current approved vocabulary.
 
 ## 3. APPROVED COMPOUND PATTERNS
 
@@ -118,7 +118,7 @@ These terms are established vocabulary or chosen proper names. No root decomposi
 
 ## 9. FUTURE VOCABULARY AND GRAMMAR
 
-Future work may add further roots after checking the complete approved inventory for exact-spelling duplicates. It may also establish sentence structure, tense, number, pronouns, and idioms. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
+Future work may add further roots after checking the complete approved inventory in [Edraen Dictionary — Master Inventory](Edraen_Dictionary.md) for exact-spelling duplicates. It may also establish sentence structure, tense, number, pronouns, and idioms. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
 
 These are future expansions of an approved foundation, not unresolved approvals. Add them deliberately as the project needs them.
 
