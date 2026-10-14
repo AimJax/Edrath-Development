@@ -82,7 +82,7 @@ These standalone forms are grammar words, not lexical roots. They are maintained
 - NH in NHUR is pronounced as N.
 - Default stress falls on the penultimate syllable, except that established proper names retain their recorded pronunciation guides.
 - The guides in the table are practical reader aids, not IPA or a complete phonological specification.
-- Conservative root-shape guidance is documented in Standard Grammar v3.1; a full phonemic and phonotactic analysis remains open for future refinement.
+- Conservative root-shape guidance is documented in Standard Grammar v3.1. A provisional sound-system specification now records proposed IPA values, attested root shapes, and stress; those phonological values remain provisional pending final approval.
 
 ## Complete approved root inventory
 
