@@ -11,7 +11,7 @@
 
 This file records the 65 roots approved by the creator in the sixth Edraen vocabulary batch. All entries below are canon and are included in the master dictionary and Canon Registry.
 
-This batch is designed to bring the core dictionary to the current milestone of 400 roots. It adds practical verbs, tools and household objects, natural materials and living things, physical qualities, and community roles. Definitions are lexical suggestions only; they do not establish lore, cultural practices, or facts about Edrath.
+This batch brought the core dictionary to the initial milestone of 400 roots. It adds practical verbs, tools and household objects, natural materials and living things, physical qualities, and community roles. Definitions are lexical only; they do not establish lore, cultural practices, or facts about Edrath.
 
 ## Approved roots
 
