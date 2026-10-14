@@ -104,7 +104,7 @@ The following 66 roots are approved additions to the initial seven-root core. Th
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 
-The approved inventory contains **205 unique root spellings** across the seven foundational roots and three approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), and [Phase 3](language/Edraen_Dictionary_Phase_3.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
+The approved inventory contains **270 unique root spellings** across the seven foundational roots and four approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), and [Phase 4](language/Edraen_Dictionary_Phase_4.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
 
 The pronunciation guides are practical reader aids rather than a complete phonetic transcription. Approved proper-name pronunciations listed elsewhere remain fixed.
 
@@ -181,7 +181,7 @@ The following 66 roots are approved additions. The master inventory contains the
 | **VELR** | White | velr |
 | **SKETH** | Gray | sketh (TH as in “thin”) |
 
-The cumulative approved inventory after Phase 2 contained 139 unique root spellings; after the approved Phase 3 batch, it contains **205 unique root spellings**.
+The cumulative approved inventory after Phase 2 contained 139 unique root spellings; after Phase 3 it contained 205; after the approved Phase 4 batch, it contains **270 unique root spellings**.
 
 
 ### 2.3 Additional approved roots — Phase 3
@@ -257,7 +257,82 @@ The following 66 roots are approved additions. Their full alphabetical reference
 | **VELTH** | Promise; give one's word or make a commitment | velth (TH as in “thin”) |
 | **KRETH** | Understand; grasp the meaning or significance of something | kreth (TH as in “thin”) |
 
-The cumulative approved inventory contains **205 unique root spellings** across the seven foundational roots and three 66-root addition batches. Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
+The cumulative approved inventory after Phase 3 contained **205 unique root spellings** across the seven foundational roots and three 66-root addition batches.
+
+
+### 2.4 Additional approved roots — Phase 4
+
+The following 65 roots are approved additions. Their full alphabetical reference appears in [Edraen Dictionary — Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Edraen Dictionary — Phase 4](language/Edraen_Dictionary_Phase_4.md).
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
+| **BRAV** | Carry; move something from one place to another | brav |
+| **BARK** | Cut; divide or remove part of something with a sharp edge | bark |
+| **BETHR** | Cook; prepare food using heat | bethr (TH as in “thin”) |
+| **BOLR** | Wash; clean using liquid | bolr |
+| **DARV** | Send; cause something or someone to go to another place | darv |
+| **DEVR** | Receive; accept or take delivery of something | devr |
+| **FALN** | Fall; move downward under gravity or lose an upright position | faln |
+| **FARV** | Follow; move or come after someone or something | farv |
+| **FETH** | Wait; remain until an event or person arrives | feth (TH as in “thin”) |
+| **GARN** | Help; make a task easier or support another | garn |
+| **GOTH** | Burn; undergo or cause combustion | goth (TH as in “thin”) |
+| **KERV** | Repair; restore something damaged or broken to working condition | kerv |
+| **KELR** | Change; make or become different | kelr |
+| **LEVR** | Bring; carry or accompany something toward a place or person | levr |
+| **NULR** | Stop; cease movement or activity | nulr |
+| **PAVR** | Play; engage in activity for enjoyment or recreation | pavr |
+| **RULK** | Count; determine a quantity by numbers | rulk |
+| **SEVR** | Write; record words or information in a visible form | sevr |
+| **SILR** | Read; interpret written symbols or text | silr |
+| **THERV** | Return; go or bring back to an earlier place or state | therv (TH as in “thin”) |
+| **BRUK** | Door; a movable barrier used to close an entrance | bruk |
+| **DOLR** | Window; an opening in a wall, often fitted with glass or another covering | dolr |
+| **GELTH** | Tool; an implement used to perform a task | gelth (TH as in “thin”) |
+| **GULR** | Cup; a small vessel for drinking | gulr |
+| **KETHL** | Lamp; a device that produces light | kethl (TH as in “thin”) |
+| **KULN** | Pot; a vessel used for cooking or holding contents | kuln |
+| **LARN** | Bed; furniture or a place used for sleeping | larn |
+| **LUTH** | Chair; a seat designed for one person | luth (TH as in “thin”) |
+| **MAVN** | Basket; a container woven or made with an open structure | mavn |
+| **NOLR** | Table; a raised flat surface used for work, eating, or placing objects | nolr |
+| **PETHR** | Bowl; a rounded vessel with an open top | pethr (TH as in “thin”) |
+| **RULN** | Key; an object or device used to open or operate a lock | ruln |
+| **SULN** | Bridge; a structure that allows passage across an obstacle | suln |
+| **TARL** | Gate; a movable barrier controlling passage through an opening | tarl |
+| **THARK** | Ship; a large watercraft used for travel or transport | thark (TH as in “thin”) |
+| **ZULR** | Book; a collection of written or printed pages bound together | zulr |
+| **BAVR** | Meat; animal flesh used as food | bavr |
+| **DULR** | Milk; a nutritious liquid produced by mammals | dulr |
+| **KULTH** | Salt; a mineral substance used to season or preserve food | kulth (TH as in “thin”) |
+| **SARN** | Fruit; the edible seed-bearing part of a plant or a comparable food category | sarn |
+| **VULM** | Bread; food made from a dough of flour or meal, usually baked | vulm |
+| **MURTH** | Black; the darkest color, absorbing most visible light | murth (TH as in “thin”) |
+| **KELV** | Deep; extending far downward or inward | kelv |
+| **THERL** | Shallow; extending only a short distance downward | therl (TH as in “thin”) |
+| **DORV** | Wide; extending a great distance from side to side | dorv |
+| **KETHN** | Narrow; having little width | kethn (TH as in “thin”) |
+| **DURK** | Dry; lacking moisture or liquid | durk |
+| **LUTHR** | Wet; covered with or saturated by liquid | luthr (TH as in “thin”) |
+| **GURV** | Bright; giving or reflecting much light | gurv |
+| **NEMTH** | Sweet; having the taste commonly associated with sugar or ripe fruit | nemth (TH as in “thin”) |
+| **VULR** | Before; earlier than a time or event | vulr |
+| **NETHL** | After; later than a time or event | nethl (TH as in “thin”) |
+| **TURK** | Soon; in a short time from now or from a reference point | turk |
+| **KALN** | Always; at all times or on every relevant occasion | kaln |
+| **ZARTH** | Never; at no time or on no occasion | zarth (TH as in “thin”) |
+| **DOVL** | Together; in company or in combination | dovl |
+| **RAVN** | Meet; come into the presence of another person or group | ravn |
+| **KELN** | Agree; have the same opinion or accept a proposal | keln |
+| **THULN** | Refuse; decline to accept, do, or allow something | thuln (TH as in “thin”) |
+| **ZARL** | Trust; rely on the honesty, ability, or reliability of someone or something | zarl |
+| **SULTH** | Secret; information kept from people who are not meant to know it | sulth (TH as in “thin”) |
+| **NUVR** | Smell; perceive odors through the nose | nuvr |
+| **DETHR** | Taste; perceive flavor through the mouth | dethr (TH as in “thin”) |
+| **GULTH** | Touch; make physical contact with something | gulth (TH as in “thin”) |
+| **FURV** | Notice; become aware of something through observation or attention | furv |
+
+The cumulative approved inventory contains **270 unique root spellings** across the seven foundational roots, three 66-root addition batches, and 65 Phase 4 additions. Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
 
 ## 3. THE FIVE CONTINENTS
 
