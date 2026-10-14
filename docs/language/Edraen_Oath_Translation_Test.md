@@ -72,11 +72,11 @@ My enemies may carry weapons of iron. They may command thousands. They may belie
 
 **Edraen**
 
-AN MA THARN MO BRAV MA THORG KRAK. UR MO KURT MORL MIL MA DAN. LET UR BIRN THA KARD ES OF KI TALR KORL SU MA ZAR.
+AN MA THARN MO BRAV MA THORG KRAK. UR MO KURT MORL MIL MA DAN. LET UR BIRN THA KARD ES OF LI DAN TA TALR KORL SU MA ZAR.
 
 **Literal structure**
 
-My plural enemies / may / carry / plural iron weapons. They / may / command / many thousands / plural people. Let / them / believe / that / strength / is / of / whoever / can / take / the most / plural lives.
+My plural enemies / may / carry / plural iron weapons. They / may / command / many thousands / plural people. Let / them / believe / that / strength / belongs to / the person who / can / take / the most / plural lives.
 
 ### 6. The meaning of victory
 
