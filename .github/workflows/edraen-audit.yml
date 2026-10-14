@@ -1,0 +1,28 @@
+name: Edraen Inventory Audit
+
+on:
+  push:
+    paths:
+      - "docs/language/**"
+      - "docs/00_Canon_Registry.md"
+      - "tools/audit_edraen.py"
+      - ".github/workflows/edraen-audit.yml"
+  pull_request:
+    paths:
+      - "docs/language/**"
+      - "docs/00_Canon_Registry.md"
+      - "tools/audit_edraen.py"
+      - ".github/workflows/edraen-audit.yml"
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check Edraen spelling and inventory consistency
+        run: python tools/audit_edraen.py
