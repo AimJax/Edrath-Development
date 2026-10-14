@@ -46,7 +46,7 @@ These forms are separate grammatical words, not lexical roots. Their spellings m
 | **KA** | what | Interrogative |
 | **KI** | who | Interrogative |
 | **KO** | where | Interrogative |
-| **KE** | when | Interrogative |
+| **KE** | when | Interrogative and temporal subordinator |
 | **KU** | why | Interrogative |
 | **KAI** | how | Interrogative |
 | **YE** | yes | Standalone affirmative answer |
@@ -92,9 +92,7 @@ These forms are separate grammatical words, not lexical roots. Their spellings m
 | **UND** | under | Preposition |
 | **OV** | over; above | Preposition |
 | **THU** | through | Preposition |
-| **AR** | around |
-| **BEH** | behind |
-| **BET** | between | Preposition |
+| **AR** | around | Preposition |
 | **SI** | more | Comparative marker |
 | **SU** | most | Superlative marker |
 | **AS** | as; equally | Equality comparison marker |
@@ -103,6 +101,7 @@ These forms are separate grammatical words, not lexical roots. Their spellings m
 | **BEH** | behind | Preposition |
 | **BET** | between | Preposition |
 | **LET** | let; allow | Permissive marker placed before a subject and its verb phrase |
+| **STIL** | still; continuing up to or beyond a reference point | Continuative adverb |
 | **THAN** | than | Comparison connector |
 
 ## 2. Pronunciation and spelling
@@ -377,7 +376,7 @@ The question word goes at the beginning:
 | **KU** | why |
 | **KAI** | how |
 
-The interrogative **KE** also introduces a temporal clause meaning “when”: **KE LI THAK TERV** — when war comes. In a direct question it asks “when?” and begins the question as usual.
+The word **KE** also introduces a temporal clause meaning “when”: **KE LI THAK TERV** — when war comes. In a direct question it asks “when?” and begins the question as usual.
 
 Examples:
 
@@ -418,6 +417,8 @@ Prepositions precede the noun phrase they relate to.
 | **OV** | over; above |
 | **THU** | through |
 | **AR** | around |
+| **BEH** | behind |
+| **BET** | between |
 
 Examples:
 
