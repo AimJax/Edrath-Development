@@ -239,5 +239,7 @@ The roots **DANL** and **DANM** mean woman and man; **DANV** means adult; **DANH
 - **NU** means “not” inside a clause. **NO** is the standalone answer “no.”
 - **DA** marks past time; **VA** marks future time; **LO**, **PE**, and **SA** mark aspect.
 - Use **LI** for “the,” **NA** for “a/an,” and **MA** for an unspecified plural.
+- **SOM** means “some,” **ANY** means “any,” **SANS** means “without,” **TIL** means “until,” **SIN** means “since,” and **ALTH** means “although.”
+- Use **DOT** between number words when reading a decimal, such as **BI DOT PEN** (“2.5”).
 - **PLE** comes before a request or command.
 - The examples are standard grammatical phrases, not a claim that every one has become a fixed cultural idiom.
