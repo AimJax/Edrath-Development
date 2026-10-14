@@ -22,8 +22,8 @@ The project takes inspiration from the scale, historical depth, and layered worl
 ## Documentation
 
 - [Canon Registry](docs/00_Canon_Registry.md) — definitive list of approved decisions and the boundary between established canon and content not yet developed.
-- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, and pronunciation conventions.
-- [Edraen Dictionary — Master Inventory](docs/language/Edraen_Dictionary.md) — the canonical alphabetical inventory of all 400 approved roots, definitions, pronunciation guides, lexical distinctions, and duplicate-spelling audit.
+- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, pronunciation conventions, and the approved minimal sentence grammar (v1).
+- [Edraen Dictionary — Learner's Edition & Master Inventory](docs/language/Edraen_Dictionary.md) — the single alphabetical, learner-friendly reference combining all 400 approved roots from the foundational set and Phases 1–6, with pronunciation guides, a quick-start grammar, sentence examples, and the exact-spelling audit.
 - [Edraen Dictionary — Phase 1](docs/language/Edraen_Dictionary_Phase_1.md) — historical record of the first 66-root addition batch.
 - [Edraen Dictionary — Phase 2](docs/language/Edraen_Dictionary_Phase_2.md) — record of the 66 newly approved roots covering directions, terrain, weather, plants, animals, body parts, emotions, and colors.
 - [Edraen Dictionary — Phase 3](docs/language/Edraen_Dictionary_Phase_3.md) — approved record of the 66-root third addition batch.
