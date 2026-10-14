@@ -29,7 +29,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - [Edraen Dictionary — Phase 9](docs/language/Edraen_Dictionary_Phase_9.md) — 52 additional roots for relationships, food, health, public places, safety, and everyday life.
 - [Edraen Dictionary — Phase 8](docs/language/Edraen_Dictionary_Phase_8.md) — 66 additional roots for everyday vocabulary and the oath translation.
 - [Edraen Dictionary — Phase 7](docs/language/Edraen_Dictionary_Phase_7.md) — the 85-root approved vocabulary expansion.
-- [Edraen Dictionary — Learner's Edition & Master Inventory](docs/language/Edraen_Dictionary.md) — the single alphabetical, learner-friendly reference for all 551 approved roots from the foundational set and Phases 1–7, with pronunciation guides, a quick-start grammar, examples, and the exact-spelling audit.
+- [Edraen Dictionary — Learner's Edition & Master Inventory](docs/language/Edraen_Dictionary.md) — the single alphabetical, learner-friendly reference for all 603 approved roots from the foundational set and Phases 1–9, with pronunciation guides, a quick-start grammar, examples, and the exact-spelling audit.
 - [Edraen Dictionary — Phase 1](docs/language/Edraen_Dictionary_Phase_1.md) — historical record of the first 66-root addition batch.
 - [Edraen Dictionary — Phase 2](docs/language/Edraen_Dictionary_Phase_2.md) — record of the 66 newly approved roots covering directions, terrain, weather, plants, animals, body parts, emotions, and colors.
 - [Edraen Dictionary — Phase 3](docs/language/Edraen_Dictionary_Phase_3.md) — approved record of the 66-root third addition batch.
