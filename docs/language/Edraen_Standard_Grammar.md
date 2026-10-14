@@ -323,6 +323,8 @@ Aspect describes the internal timing of an action:
 
 Tense comes before aspect: **AN DA LO FARL.** — I was speaking. **AN VA LO FARL.** — I will be speaking. **AN DA PE DUV LI VEM.** — I had eaten the food.
 
+**STIL** means that an action or state continues despite a change or reference point. Place it immediately before the main verb, after tense, aspect, and any modal: **AN VA LO STIL DALK.** — I will still be standing.
+
 ### Negation
 
 **NU** precedes the tense, aspect, modal, and main verb sequence:
