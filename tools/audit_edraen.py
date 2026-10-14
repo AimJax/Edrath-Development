@@ -108,7 +108,7 @@ def main() -> int:
 
     if "Edraen Standard v3.0" not in grammar:
         errors.append("Grammar document does not identify Edraen Standard v3.0.")
-    registry_count = re.search(r"\\*\\*(\\d+) unique root spellings\\*\\*", registry)
+    registry_count = re.search(r"\*\*(\d+) unique root spellings\*\*", registry)
     if not registry_count or int(registry_count.group(1)) != expected_count:
         recorded = registry_count.group(1) if registry_count else "missing"
         errors.append(f"Canon Registry records {recorded} roots but the dictionary declares {expected_count}.")
