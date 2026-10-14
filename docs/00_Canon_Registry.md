@@ -1,10 +1,10 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 2.3  
+**Version:** 2.4  
 **Status:** Approved Foundational Canon
 
-This registry records the approved foundational decisions for Edrath, including the 628-root Edraen inventory, compound rules, Edraen Standard Grammar v3.0, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
+This registry records the approved foundational decisions for Edrath, including the 628-root Edraen inventory, compound rules, Edraen Standard Grammar v3.1, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
 
 ## 1. WORLD AND LANGUAGE
 
@@ -802,9 +802,9 @@ These are the current foundational conventions for newly coined Edraen vocabular
 
 These conventions are intentionally compact. They are sufficient for current vocabulary work; a more technical phonetic transcription is not required for ordinary development.
 
-## 6. APPROVED STANDARD EDRAEN GRAMMAR — VERSION 2.1
+## 6. APPROVED STANDARD EDRAEN GRAMMAR — VERSION 3.1
 
-Edraen Standard v3.0 is approved as the practical grammar for ordinary statements, questions, commands, and connected clauses. The complete reference is [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md), with conversational examples in the [Everyday Phrasebook](language/Edraen_Everyday_Phrasebook.md).
+Edraen Standard v3.1 is approved as the practical grammar for ordinary statements, questions, commands, connected clauses, and activity nominalization. The complete reference is [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md), with conversational examples in the [Everyday Phrasebook](language/Edraen_Everyday_Phrasebook.md).
 
 ### Core sentence order
 
