@@ -1,7 +1,7 @@
 # EDRAEN — CONSTRUCTED LANGUAGE FOUNDATION
 
 **Document:** Language Design Principles  
-**Version:** 1.2  
+**Version:** 1.3  
 **Status:** Approved Foundational Canon
 
 ## 1. PURPOSE
@@ -26,7 +26,7 @@ Each root has an approved meaning. The roots can be combined to form new vocabul
 | NHUR | Night | noor; NH is pronounced as N |
 | AETH | Sky | ayth; TH as in “thin” |
 
-These seven roots are the approved foundational core. The five approved dictionary batches add 328 roots (66 in each of Phases 1–3 and 65 in each of Phases 4–5), for a cumulative total of 335. See [Edraen Dictionary — Master Inventory](Edraen_Dictionary.md) for the complete cumulative inventory and meanings, with [Phase 1](Edraen_Dictionary_Phase_1.md), [Phase 2](Edraen_Dictionary_Phase_2.md), [Phase 3](Edraen_Dictionary_Phase_3.md), [Phase 4](Edraen_Dictionary_Phase_4.md), and [Phase 5](Edraen_Dictionary_Phase_5.md) preserving the batch records. The master inventory is the reference for exact root spellings and current approved vocabulary.
+These seven roots are the approved foundational core. The six approved dictionary batches add 393 roots (66 in each of Phases 1–3 and 65 in each of Phases 4–6), for a cumulative total of 400. See [Edraen Dictionary — Master Inventory](Edraen_Dictionary.md) for the complete cumulative inventory and meanings, with [Phase 1](Edraen_Dictionary_Phase_1.md), [Phase 2](Edraen_Dictionary_Phase_2.md), [Phase 3](Edraen_Dictionary_Phase_3.md), [Phase 4](Edraen_Dictionary_Phase_4.md), and [Phase 5](Edraen_Dictionary_Phase_5.md), and [Phase 6](Edraen_Dictionary_Phase_6.md) preserving the batch records. The master inventory is the reference for exact root spellings and current approved vocabulary.
 
 ## 3. APPROVED COMPOUND PATTERNS
 
@@ -118,7 +118,7 @@ These terms are established vocabulary or chosen proper names. No root decomposi
 
 ## 9. FUTURE VOCABULARY AND GRAMMAR
 
-Future work may add further roots after checking the complete approved inventory in [Edraen Dictionary — Master Inventory](Edraen_Dictionary.md) for exact-spelling duplicates. Phases 4 and 5 are approved and recorded in [Edraen Dictionary — Phase 4](Edraen_Dictionary_Phase_4.md) and [Edraen Dictionary — Phase 5](Edraen_Dictionary_Phase_5.md). The [Phase 6 Proposal](Edraen_Dictionary_Phase_6_Proposal.md) contains 65 unapproved suggestions toward the 400-root milestone and must not be treated as canon until the creator reviews them. Future work may also establish sentence structure, tense, number, pronouns, and idioms. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
+Future work may add further roots after checking the complete approved inventory in [Edraen Dictionary — Master Inventory](Edraen_Dictionary.md) for exact-spelling duplicates. Phases 4 and 5 are approved and recorded in [Edraen Dictionary — Phase 4](Edraen_Dictionary_Phase_4.md) and [Edraen Dictionary — Phase 5](Edraen_Dictionary_Phase_5.md). The initial 400-root milestone is complete. See [Edraen Compounding Test — 400-Root Milestone](Edraen_Compounding_Test_400_Root_Milestone.md) for an exploratory audit of the existing compound patterns; trial compounds are not canon. Future work may also establish sentence structure, tense, number, pronouns, and idioms. The intended association between Dravkhar and achievement remains a vocabulary target, not an approved root definition or literal translation.
 
 These are future expansions of an approved foundation, not unresolved approvals. Add them deliberately as the project needs them.
 
