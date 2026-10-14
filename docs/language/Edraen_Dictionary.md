@@ -2,12 +2,12 @@
 
 **Status:** Approved Canon  
 **Purpose:** Canonical cumulative reference for every approved Edraen root  
-**Inventory:** 484 approved lexical roots  
-**Root batches:** 7 foundational roots + 393 additions in Phases 1–6 + 84 additions in Phase 7
+**Inventory:** 485 approved lexical roots  
+**Root batches:** 7 foundational roots + 393 additions in Phases 1–6 + 85 additions in Phase 7
 
 ## Canon boundary
 
-This is the single cumulative, learner-facing dictionary for all 484 approved Edraen lexical roots from the foundational set and Phases 1–7. Use it as the everyday reference; the phase files are historical batch records. Entries retain approved meanings and reader-friendly pronunciation guides. The root list is alphabetized and grouped by initial letter for casual reading and lookup. Standalone grammar words are documented separately in the [Standard Grammar & Usage](Edraen_Standard_Grammar.md) guide and are not counted as lexical roots.
+This is the single cumulative, learner-facing dictionary for all 485 approved Edraen lexical roots from the foundational set and Phases 1–7. Use it as the everyday reference; the phase files are historical batch records. Entries retain approved meanings and reader-friendly pronunciation guides. The root list is alphabetized and grouped by initial letter for casual reading and lookup. Standalone grammar words are documented separately in the [Standard Grammar & Usage](Edraen_Standard_Grammar.md) guide and are not counted as lexical roots.
 
 Root definitions are lexical only. They do not independently establish religions, metaphysics, histories, social institutions, cultural practices, or facts about the peoples of Edrath.
 
@@ -78,7 +78,7 @@ These standalone forms are grammar words, not lexical roots. They are maintained
 
 ## Complete approved root inventory
 
-The tables below contain all 484 approved roots in alphabetical order. Each entry gives the root, its approved meaning, and a practical pronunciation guide.
+The tables below contain all 485 approved roots in alphabetical order. Each entry gives the root, its approved meaning, and a practical pronunciation guide.
 
 ### A
 
@@ -322,6 +322,7 @@ The tables below contain all 484 approved roots in alphabetical order. Each entr
 | **LAVN** | Say; express something in words | lavn |
 | **LAVR** | Swim; move through water using the body | lavr |
 | **LETH** | Love; deep affection | leth (TH as in “thin”) |
+| **LETHV** | Love; feel deep affection for someone | lethv (TH as in “thin”) |
 | **LEVR** | Bring; carry or accompany something toward a place or person | levr |
 | **LIRK** | Laugh; make sounds or expressions associated with amusement | lirk |
 | **LIRV** | Like; find something pleasant or agreeable | lirv |
@@ -698,10 +699,10 @@ Every root must have a unique complete spelling. Similar sounds, shared letters,
 - Phase 4 additions: 65.
 - Phase 5 additions: 65.
 - Phase 6 additions: 65.
-- Phase 7 additions: 84.
-- Total approved lexical roots: **484**.
+- Phase 7 additions: 85.
+- Total approved lexical roots: **485**.
 - Exact duplicate spellings in the cumulative inventory: **0**.
 - Exact matches against established whole terms and proper names checked for this audit: **0**.
 - Cross-document consistency: all six phase records and the Canon Registry agree with the master inventory on root spelling, approved meaning, and pronunciation guide; no missing or conflicting entries were found.
 
-The 484-root inventory includes the approved foundational set and Phases 1–7. Any future roots must be checked against this complete table before approval. Grammar words have their own collision-checked ledger. This is a substantial core vocabulary, not a claim that a usable language can never add words again.
+The 485-root inventory includes the approved foundational set and Phases 1–7. Any future roots must be checked against this complete table before approval. Grammar words have their own collision-checked ledger. This is a substantial core vocabulary, not a claim that a usable language can never add words again.
