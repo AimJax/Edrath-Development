@@ -109,6 +109,7 @@ The batch expands everyday actions, household objects, physical descriptions, co
 
 - The 65 proposed spellings were checked against the 270-root approved inventory and established whole terms and proper names recorded in the current project canon. No exact-spelling collisions were found.
 - Exact spelling uniqueness is mandatory. Similarity in sound is a separate design question; roots that feel too close should be flagged for review before approval.
+- **Potential sound-similarity flags:** **GELN / GELM / GELV** cluster around existing **GEL** (rough / clay / ladder versus head); **DULV / DULTH / DULN** are close in form (bitter / sour / cheese); **ZELN / ZELR / ZELTH** are close (guard / map / early); **SILN** (loud) is close to **SILR** (read); **MELR** (lush) is close to **MEL** (flower), **MELTH** (ash), **MELN** (ink), and **MELV** (artisan). These are not exact duplicates, but they should be considered during review.
 - **Potential semantic overlap:** **VURK** (heal) and **ZURV** (cure) are deliberately related but not identical: “heal” concerns recovery or the process of becoming well, while “cure” concerns bringing about recovery from a condition.
 - Pronunciation guides are practical reader aids, not a complete phonological specification. The full consonant inventory, permitted syllable shapes, and consonant-cluster rules remain open language-design topics.
 - If approved in full, Phase 5 raises the total from 270 to 335 roots. Phase 6 would then add 65 roots to reach the target of 400.
