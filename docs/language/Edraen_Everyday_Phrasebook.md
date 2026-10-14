@@ -1,6 +1,6 @@
 # EDRAEN EVERYDAY PHRASEBOOK
 
-**Standard:** Edraen Standard v2.1  
+**Standard:** Edraen Standard v3.0  
 **Status:** Approved usage examples  
 **Rule:** Every example below uses approved roots and the documented grammar. Where a phrase is literal rather than idiomatic, the English rendering is kept close to the Edraen structure.
 
@@ -115,6 +115,80 @@ The [Oath Translation Test](Edraen_Oath_Translation_Test.md) demonstrates how th
 | **AN VA STIL GOVR.** | I will still go. |
 
 The roots **DANL** and **DANM** mean woman and man; **DANV** means adult; **DANH** means infant. **THRAVM** is school and **THRAVN** is teacher. These additions broaden ordinary conversation without changing the sentence rules.
+
+
+## Work, money, and technology
+
+| Edraen | English |
+|---|---|
+| **AN RAG IN LI RAGAM.** | I work in the office. |
+| **AN DEVR MELKAR.** | I receive a salary. |
+| **AN HURV LI KELDAK.** | I have the receipt. |
+| **KELDAV.** | It is cheap. / Cheap. |
+| **LI KOMAR ES MELKAV.** | The computer is expensive. |
+| **AN DURV LI KOMAR.** | I use the computer. |
+| **HA ET DURV LI KOMAR?** | Do you use the computer? |
+| **AN HURV NA KOMEL.** | I have a keyboard. |
+| **AN ZEK LI KOMAV.** | I see the screen. |
+| **AN VA DARV NA SAVAT TO ET.** | I will send an email to you. |
+| **AN SAVR ZORKAL.** | I learn about technology. |
+| **AN NU HURV ANY MELK.** | I do not have any money. |
+| **HA ET HURV ANY MELK?** | Do you have any money? |
+| **AN DUV SOM VEM.** | I eat some food. |
+
+## Health and practical help
+
+| Edraen | English |
+|---|---|
+| **AN ES NIRAK.** | I am sick. |
+| **AN DOVT NA NIRAL.** | I need a doctor. |
+| **KO ES LI NIRTH?** | Where is the hospital? |
+| **AN VA GOVR TO LI NIRTH.** | I will go to the hospital. |
+| **AN ES NIRAK. PLE GARN AN.** | I am sick. Please help me. |
+| **LI NIRTH ES NARV TO LI DOMAR.** | The hospital is near the apartment. |
+
+## Time of day and plans
+
+| Edraen | English |
+|---|---|
+| **AN VA GOVR NETHL DAK.** | I will go tomorrow. |
+| **AN DA GOVR VULR DAK.** | I went yesterday. |
+| **AN VA GOVR IN BEMRA.** | I will go in the morning. |
+| **AN VA RAVN ET IN MAVATH.** | I will meet you in the afternoon. |
+| **AN VA RAVN ET IN MORALA.** | I will meet you in the evening. |
+| **AN SAVM TIL DAK.** | I stay until day. |
+| **ALTH LI KOMAR ES MELKAV, AN NU DERV LI KOMAR.** | Although the computer is expensive, I do not want the computer. |
+
+## Everyday vocabulary added in Phase 10
+
+| Edraen | English |
+|---|---|
+| **BEMRA** | morning |
+| **MAVATH** | afternoon |
+| **MORALA** | evening |
+| **DOMAR** | apartment |
+| **KELDAK** | receipt |
+| **KELDAV** | cheap |
+| **KOMAV** | screen |
+| **KOMAR** | computer |
+| **KOMEL** | keyboard |
+| **MELKAR** | salary |
+| **MELKAV** | expensive |
+| **NIRAK** | sick |
+| **NIRAL** | doctor |
+| **NIRTH** | hospital |
+| **RAGAM** | office |
+| **RAGAV** | job |
+| **RUVAK** | vehicle |
+| **RUVAM** | bus |
+| **RUVAN** | bicycle |
+| **RUVATH** | train |
+| **SAVAT** | email |
+| **TELAR** | telephone |
+| **ZORAK** | internet |
+| **ZORAV** | network |
+| **ZORKAL** | technology |
+
 
 ## Practical notes
 
