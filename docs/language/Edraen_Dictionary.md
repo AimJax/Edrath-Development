@@ -13,7 +13,7 @@ Root definitions are lexical only. They do not independently establish religions
 
 ## Quick start: reading and using Edraen
 
-Edraen Standard v3.0 supports ordinary statements, questions, commands, everyday conversation, practical writing, and connected clauses. The full rule set and phrase examples are in the [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md) and [Everyday Phrasebook](Edraen_Everyday_Phrasebook.md).
+Edraen Standard v3.1 supports ordinary statements, questions, commands, everyday conversation, practical writing, and connected clauses. The full rule set and phrase examples are in the [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md) and [Everyday Phrasebook](Edraen_Everyday_Phrasebook.md).
 
 ### Core pronouns and grammar words
 
@@ -65,6 +65,7 @@ These standalone forms are grammar words, not lexical roots. They are maintained
 | **AN VA BAK.** | I will run. |
 | **AN NU FIRV.** | I do not know. |
 | **AN LO FARL EDRAEN.** | I am speaking Edraen. |
+| **AN LIRV LI DUV BAVR.** | I like eating meat. |
 | **HA ET DERV LI VEM?** | Do you want the food? |
 | **KO ET GELR?** | Where do you live? |
 | **AN VA GOVR TO LI DARN.** | I will go to the village. |
@@ -81,7 +82,7 @@ These standalone forms are grammar words, not lexical roots. They are maintained
 - NH in NHUR is pronounced as N.
 - Default stress falls on the penultimate syllable, except that established proper names retain their recorded pronunciation guides.
 - The guides in the table are practical reader aids, not IPA or a complete phonological specification.
-- Permitted syllable shapes and the full consonant-cluster rules have not yet been established.
+- Conservative root-shape guidance is documented in Standard Grammar v3.1; a full phonemic and phonotactic analysis remains open for future refinement.
 
 ## Complete approved root inventory
 
