@@ -3,7 +3,7 @@
 **Standard:** Edraen Standard v2.0  
 **Status:** Approved language standard  
 **Purpose:** A practical grammar for everyday conversation, clear prose, dialogue, and connected writing  
-**Lexical inventory:** 484 approved roots; grammar words are listed separately
+**Lexical inventory:** 485 approved roots; grammar words are listed separately
 
 This guide is the primary reference for forming Edraen sentences. The language is designed to be regular: words do not change form for person or tense, grammar words are written separately, and exceptions must be documented rather than improvised.
 
@@ -16,6 +16,87 @@ Edraen text uses three kinds of units:
 3. **Grammar words** are separate short words that show relationships such as I, the, not, past, because, and where. They are not roots and do not count toward the 484-root inventory.
 
 The spelling of a root never changes to show tense, number, person, or grammatical role. Grammar words supply those functions.
+
+### Complete grammar-word ledger
+
+These forms are separate grammatical words, not lexical roots. Their spellings must not duplicate any lexical root.
+
+| Form | Meaning | Function |
+|---|---|---|
+| **AN** | I; me | First-person singular pronoun |
+| **ET** | you | Second-person pronoun; singular and plural are not distinguished |
+| **EN** | we; us | First-person plural pronoun |
+| **IR** | he; she; it; him; her | Third-person singular pronoun; gender-neutral |
+| **UR** | they; them | Third-person plural pronoun |
+| **ES** | be; am; is; are | Invariant copular verb |
+| **NU** | not | Negation particle |
+| **DA** | past | Past-time marker |
+| **VA** | future | Future-time marker |
+| **LO** | ongoing; in progress | Progressive aspect marker |
+| **PE** | completed; already done | Perfect/completive aspect marker |
+| **SA** | habitually; usually | Habitual aspect marker |
+| **LI** | the | Definite article |
+| **NA** | a; an | Indefinite article |
+| **MA** | plural marker | Plural noun phrase marker |
+| **DI** | this | Singular near demonstrative |
+| **DU** | that | Singular far demonstrative |
+| **DE** | these | Plural near demonstrative |
+| **DO** | those | Plural far demonstrative |
+| **HA** | yes/no question marker | Placed at the beginning of a yes/no question |
+| **KA** | what | Interrogative |
+| **KI** | who | Interrogative |
+| **KO** | where | Interrogative |
+| **KE** | when | Interrogative |
+| **KU** | why | Interrogative |
+| **KAI** | how | Interrogative |
+| **YE** | yes | Standalone affirmative answer |
+| **NO** | no | Standalone negative answer |
+| **ZI** | zero | Number |
+| **UN** | one | Number |
+| **BI** | two | Number |
+| **TRI** | three | Number |
+| **KAR** | four | Number |
+| **PEN** | five | Number |
+| **SEK** | six | Number |
+| **SET** | seven | Number |
+| **OK** | eight | Number |
+| **NEN** | nine | Number |
+| **DEK** | ten | Number |
+| **HUN** | hundred | Number scale word |
+| **MIL** | thousand | Number scale word |
+| **ORD** | ordinal marker | Placed before a number to form first, second, third, and so on |
+| **ME** | must | Obligation modal |
+| **MO** | may; might | Possibility modal |
+| **SO** | should | Advice or expectation modal |
+| **WO** | would | Conditional or hypothetical modal |
+| **RI** | passive marker | Placed before a verb to form a passive clause |
+| **SELF** | self; oneself | Placed after a pronoun to form a reflexive expression |
+| **PLE** | please | Politeness marker placed before a request or command |
+| **AND** | and | Conjunction |
+| **OR** | or | Conjunction |
+| **BUT** | but | Contrastive conjunction |
+| **IF** | if | Conditional conjunction |
+| **BEK** | because | Causal conjunction |
+| **THEN** | then | Sequence or result marker |
+| **THA** | that | Introduces a content clause |
+| **TA** | who; which; that | Introduces a relative clause after its noun |
+| **AT** | at | Preposition |
+| **IN** | in; inside | Preposition |
+| **ON** | on | Preposition |
+| **TO** | to; toward | Preposition |
+| **OF** | of | Preposition marking relation or source |
+| **BY** | by | Preposition marking an agent or means |
+| **MI** | with | Preposition |
+| **FO** | for | Preposition |
+| **FU** | from | Preposition |
+| **UND** | under | Preposition |
+| **OV** | over; above | Preposition |
+| **THU** | through | Preposition |
+| **AR** | around | Preposition |
+| **SI** | more | Comparative marker |
+| **SU** | most | Superlative marker |
+| **AS** | as; equally | Equality comparison marker |
+| **THAN** | than | Comparison connector |
 
 ## 2. Pronunciation and spelling
 
@@ -205,7 +286,8 @@ Prepositional phrases and time/place details normally follow the core sentence: 
 - **AN ES SETH.** — I am well/good.
 - **IR ES LI TULK.** — He/she/it is the leader.
 - **EN DA ES IN LI DOM.** — We were in the home.
-- **UR VA ES READY.** — They will be ready. For strict Edraen, replace the English word “ready” with **TALM**: **UR VA ES TALM.**
+- **UR VA ES TALM.** — They will be ready.
+- **UR VA ES TALM.** — They will be ready.
 
 An existential statement (“there is/are”) begins with **ES** followed by the thing that exists: **ES NA DAN IN LI DOM.** — There is a person in the home.
 
@@ -353,7 +435,7 @@ Examples:
 - **BEK** means “because.”
 - **IF** introduces a condition.
 - **THEN** marks the next step or result.
-- **SE** is not a grammar word in this standard; use **THEN** or **BEK** for the intended relation.
+- Use **THEN** for sequence or result and **BEK** for a reason.
 
 Examples:
 
