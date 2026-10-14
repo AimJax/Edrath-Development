@@ -909,7 +909,7 @@ The following material remains open for future development:
 3. Country borders, size, precise placement, governments, and political histories beyond the approved human-led institutional premise.
 4. Detailed definitions of non-human races and peoples, their subraces, relationships, cultures, religions, and civilizations. See [Race Design Workshop](peoples/Race_Design_Workshop.md); proposals are not canon until explicitly approved.
 5. The supporting lore for humanity's established superiority and Dravkhar's historical prominence; Dravkhar's etymology; its origins and exact regional distribution; the identities of other human subraces; and any later-defined bloodline distinctions.
-6. Further Edraen vocabulary, idioms, conversational registers, and carefully documented refinements beyond Standard Grammar v2. See [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md).
+6. Further Edraen vocabulary, idioms, conversational registers, and carefully documented refinements beyond Edraen Standard Grammar v3.1. See [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md).
 7. Historical events, conflicts, cosmological details, and narrative lore.
 8. Whether additional countries are needed as the setting develops.
 
