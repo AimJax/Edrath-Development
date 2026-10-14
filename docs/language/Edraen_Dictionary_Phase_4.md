@@ -122,7 +122,7 @@ The proposals extend everyday actions, household objects, food, qualities, time 
 - **Sound-similarity audit:** **THARK** (ship) is close to **THAR** (sea); **SILR** (read) is close to **SULR** (quiet); **KELR** (change), **KELV** (deep), and **KELN** (agree) cluster around existing **KEL**; **LUTH** (chair) is close to **LUTHR** (wet) and **LUR** (leg); **KULN** (pot) resembles **KULD** (grain), **KULR** (cloth), and **KULTH** (salt); **FETH** (wait) resembles existing roots **METH**, **SETH**, **KETH**, and **VETH**. These are not exact duplicates. The creator approved the batch with these similarities noted; pronunciation clarity can be reviewed later if actual use reveals confusion.
 - Some proposed roots are intentionally related in meaning, such as **VULR** (before) / **NETHL** (after), **KELV** (deep) / **THERL** (shallow), and **DURK** (dry) / **LUTHR** (wet).
 - Pronunciation guides are practical reader aids, not a complete phonological specification. The full consonant inventory, permitted syllable shapes, and consonant-cluster rules remain open language-design topics.
-- The approved inventory is now 270 roots. The remaining plan is Phase 5 (65 proposed roots, target 335) and Phase 6 (65 roots, target 400).
+- At the time Phase 4 was recorded, the approved inventory stood at 270 roots. Phase 5 has since been approved, bringing the total to 335; Phase 6 is the final planned 65-root batch toward the 400-root milestone.
 
 ## Approval record
 
