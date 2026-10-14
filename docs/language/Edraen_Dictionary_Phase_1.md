@@ -1,9 +1,11 @@
 # EDRAEN DICTIONARY — PHASE 1
 
-**Status:** Approved Canon  
-**Scope:** Approved core-root inventory  
+**Status:** Approved Canon — Phase 1 batch record  
+**Scope:** Foundational roots and the first approved addition batch  
 **Sound direction:** Hard and ancient, with strong consonants  
-**Inventory:** 73 approved roots total (7 foundational roots + 66 Phase 1 additions)
+**Inventory at the end of Phase 1:** 73 approved roots total (7 foundational roots + 66 Phase 1 additions)
+
+**Current reference:** The cumulative approved inventory is now maintained in [Edraen Dictionary — Master Inventory](Edraen_Dictionary.md). This file preserves the Phase 1 record.
 
 ## 1. Purpose and canon boundary
 
@@ -142,6 +144,6 @@ These distinctions are intentional and should remain clear in future usage:
 
 ## 7. Future development
 
-The next stage may develop compounds, additional vocabulary, and grammar using the approved roots and the existing language foundation. New roots must be checked against this complete inventory to prevent exact-spelling duplicates.
+The next stage may develop additional vocabulary and grammar using the approved roots and the existing language foundation. New roots must be checked against the current [Master Inventory](Edraen_Dictionary.md), not only this historical batch record.
 
-**Canon rule:** The 73 roots recorded in this dictionary are approved. New entries require a deliberate approval decision.
+**Canon rule:** The 73 roots recorded in this Phase 1 snapshot were approved at that stage. Later approved additions are recorded in the master inventory and their respective batch records.
