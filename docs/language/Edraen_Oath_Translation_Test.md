@@ -114,7 +114,7 @@ Remember my words when the banners burn. Remember them when the mighty fall sile
 
 **Edraen**
 
-SAVN AN MA THALN KE MA RULM GOTH. SAVN UR KE LI MA THRAN DAN FALN SULR. AND KE LI RATH THAVN THA KI MURV, NU RAKH MI MA NAG OF MA KAVT.
+SAVN AN MA THALN KE MA RULM GOTH. SAVN UR KE LI MA THRAN DAN FALN SULR. AND KE LI RATH THAVN KI MURV, NU RAKH MI MA NAG OF MA KAVT.
 
 **Literal structure**
 
