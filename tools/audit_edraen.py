@@ -156,6 +156,7 @@ def main() -> int:
     for path, text, patterns in (
         (PHRASEBOOK, read(PHRASEBOOK), [re.compile(r"^\| \*\*(.*?)\*\* \|", re.MULTILINE)]),
         (OATH, read(OATH), [re.compile(r"^\*\*Edraen\*\*\s*\n\s*([^\n]+)", re.MULTILINE)]),
+        (BENCHMARK, benchmark, [re.compile(r"^\| T\d{2} \|.*?\| \*\*(.*?)\*\* \|", re.MULTILINE)]),
     ):
         for pattern in patterns:
             for phrase in pattern.findall(text):
