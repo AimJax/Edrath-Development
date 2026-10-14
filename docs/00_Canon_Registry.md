@@ -1,10 +1,10 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 1.8  
+**Version:** 1.9  
 **Status:** Approved Foundational Canon
 
-This registry records the approved foundational decisions for Edrath, including core Edraen roots, compound rules, minimal sentence grammar, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
+This registry records the approved foundational decisions for Edrath, including the 484-root Edraen inventory, compound rules, Edraen Standard Grammar v2, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
 
 ## 1. WORLD AND LANGUAGE
 
@@ -478,6 +478,97 @@ The following 65 roots are approved additions. Their full alphabetical reference
 | **ZAVR** | Bloom; produce flowers or enter a flowering state | zavr |
 | **ZULV** | Violet; a blue-purple color | zulv |
 
+### 2.7 Additional approved roots — Phase 7
+
+The following 84 roots are approved additions. Their complete alphabetical reference appears in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md), and the batch record is [Phase 7](language/Edraen_Dictionary_Phase_7.md).
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
+| **BAVK** | Buy; obtain something in exchange for money, goods, or another agreed value | bavk |
+| **BIRN** | Believe; accept something as true or likely | birn |
+| **BOLN** | Warm; having or giving a comfortably moderate degree of heat | boln |
+| **BOLV** | Cool; having a moderately low temperature, or make something less hot | bolv |
+| **BULV** | Room; an enclosed part of a building | bulv |
+| **DAG** | Do; perform an action or task | dag |
+| **DERV** | Want; desire or wish to have or do something | derv |
+| **DOLN** | Street; a public road in a settled area | doln |
+| **DOVT** | Need; require something essential or useful | dovt |
+| **DULM** | Flour; powder made by grinding grain or another food material | dulm |
+| **DURM** | Real; existing in fact rather than being imagined or false | durm |
+| **DURV** | Use; employ something for a purpose | durv |
+| **FALD** | Try; make an attempt to do or achieve something | fald |
+| **FARL** | Speak; produce words in spoken language | farl |
+| **FELK** | Sell; exchange goods or services for money or another agreed value | felk |
+| **FIRK** | Finger; one of the digits of a hand | firk |
+| **FIRL** | Think; use the mind to consider, reason, or form ideas | firl |
+| **FIRV** | Know; have information, awareness, or understanding of something | firv |
+| **FURM** | Feel; experience a physical sensation or emotion | furm |
+| **GAVT** | Happen; take place or occur | gavt |
+| **GELK** | Neck; the part of the body connecting the head and torso | gelk |
+| **GELR** | Live; be alive or make one's home in a place | gelr |
+| **GELT** | Greet; acknowledge or welcome someone with a greeting | gelt |
+| **GOLR** | Color; the visual quality of an object determined by light | golr |
+| **GOVR** | Go; move away from the current place or toward a destination | govr |
+| **GULK** | Doorway; an opening through which people pass | gulk |
+| **GURK** | Weather; the state of the atmosphere at a place and time | gurk |
+| **HULN** | Stomach; the body organ or region associated with digestion | huln |
+| **HURK** | Hour; a unit of time equal to sixty minutes | hurk |
+| **HURV** | Have; possess, own, or hold something as one's own | hurv |
+| **KELD** | Price; the amount of money or value asked or paid for something | keld |
+| **KETHV** | Candle; a wax or similar body with a wick that burns to give light | kethv |
+| **KIRN** | Hope; desire a good outcome while regarding it as possible | kirn |
+| **KIRV** | Toe; one of the digits of a foot | kirv |
+| **KOLM** | Corner; the point or area where two edges or surfaces meet | kolm |
+| **KULM** | Clothing; garments worn on the body | kulm |
+| **LAVN** | Say; express something in words | lavn |
+| **LIRV** | Like; find something pleasant or agreeable | lirv |
+| **LURV** | Hate; feel intense dislike or hostility toward someone or something | lurv |
+| **MELK** | Money; a medium of exchange or a general store of financial value | melk |
+| **MELT** | Month; a calendar period commonly used to divide a year | melt |
+| **METHV** | Apologize; express regret for an action or harm caused | methv |
+| **MIRK** | Minute; a unit of time equal to sixty seconds | mirk |
+| **MIRL** | Smile; form an expression with the corners of the mouth raised | mirl |
+| **MOLN** | City; a large, densely settled community | moln |
+| **MORK** | Pain; an unpleasant physical sensation caused by injury, illness, or bodily stress | mork |
+| **MORL** | Many; a large number or amount | morl |
+| **MULN** | Few; a small number or amount | muln |
+| **NULV** | Difficult; requiring effort or skill to do, understand, or overcome | nulv |
+| **PAVK** | Pay; give money or another agreed form of value in exchange | pavk |
+| **PAVT** | Cost; the amount required to buy or obtain something | pavt |
+| **PETHL** | Windowpane; a flat sheet fitted into a window opening | pethl |
+| **RAVT** | Shop; a place where goods are sold | ravt |
+| **RILV** | Arrive; reach a destination | rilv |
+| **RUVN** | Week; a period of seven days | ruvn |
+| **SAVM** | Stay; remain in a place or state instead of leaving or changing | savm |
+| **SAVT** | Message; information sent from one person or place to another | savt |
+| **SELM** | Important; having great significance or consequence | selm |
+| **SIRK** | Easy; requiring little effort or difficulty | sirk |
+| **SIRN** | Second; a short standard unit of time | sirn |
+| **SIRV** | Perhaps; possibly, but not certainly | sirv |
+| **SULK** | Very; to a high degree or extent | sulk |
+| **TALM** | Ready; prepared for an action or event | talm |
+| **TALR** | Can; be able to do something | talr |
+| **TAREN** | Sentence; a grammatical unit that expresses a statement, question, command, or exclamation | taren |
+| **TERV** | Come; move toward the speaker, a destination, or a point of reference | terv |
+| **THALN** | Word; a meaningful unit of language | thaln (TH as in “thin”) |
+| **THAVT** | Question; a request for information or an expression of uncertainty | thavt (TH as in “thin”) |
+| **THOLR** | Song; a piece of music made for or with the voice | tholr (TH as in “thin”) |
+| **THULK** | Needle; a slender pointed implement used for sewing or piercing | thulk (TH as in “thin”) |
+| **THULM** | Farewell; an expression used when parting from someone | thulm (TH as in “thin”) |
+| **THUR** | Tell; communicate information to someone | thur (TH as in “thin”) |
+| **TOLK** | Place; a particular position, area, or location | tolk |
+| **TOLV** | Put; move or set something into a particular place or position | tolv |
+| **TORK** | Problem; a matter or situation regarded as harmful, difficult, or requiring a solution | tork |
+| **VEML** | Meal; an occasion or portion of eating food | veml |
+| **YELN** | Year; a period of about twelve months | yeln |
+| **ZALR** | Reason; a cause, explanation, or justification | zalr |
+| **ZAVN** | Thank; express gratitude or appreciation | zavn |
+| **ZILR** | Letter; a written or printed symbol representing a sound or part of a writing system | zilr |
+| **ZIRV** | Music; organized sound made by voices or instruments | zirv |
+| **ZORK** | Language; a system of words and rules used for communication | zork |
+| **ZULM** | Paper; thin material made from fibers and used for writing or wrapping | zulm |
+| **ZURM** | Medicine; a substance or treatment used to prevent or treat illness | zurm |
+
 ## 3. THE FIVE CONTINENTS
 
 The five major continents and their pronunciations are approved canon:
@@ -545,50 +636,51 @@ These are the current foundational conventions for newly coined Edraen vocabular
 
 These conventions are intentionally compact. They are sufficient for current vocabulary work; a more technical phonetic transcription is not required for ordinary development.
 
-## 6. APPROVED MINIMAL EDRAEN SENTENCE GRAMMAR
+## 6. APPROVED STANDARD EDRAEN GRAMMAR — VERSION 2
 
-The first minimal sentence grammar is approved. It supports basic statements and action sentences; it is not a claim that the language's full grammar is complete.
+Edraen Standard v2.0 is approved as the practical grammar for ordinary statements, questions, commands, and connected clauses. The complete reference is [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md), with conversational examples in the [Everyday Phrasebook](language/Edraen_Everyday_Phrasebook.md).
 
-### Grammar words
+### Core sentence order
 
-These standalone forms are grammatical particles and pronouns, not lexical roots. They are not included in the 400-root inventory.
-
-| Edraen | Meaning | Function |
-|---|---|---|
-| **AN** | I; me | First-person singular pronoun |
-| **ET** | You | Second-person pronoun; singular and plural are not distinguished |
-| **EN** | We; us | First-person plural pronoun |
-| **UR** | They; them | Third-person plural pronoun |
-| **NU** | Not | Negation particle |
-| **DA** | Past | Past-time marker |
-| **VA** | Future | Future-time marker |
-
-### Basic statement order
-
-**SUBJECT + (NU) + (DA or VA) + VERB + OBJECT**
+**SUBJECT + (NU) + (DA or VA) + (aspect/modal) + VERB + OBJECT + OPTIONAL DETAILS**
 
 - Default order is subject → verb → object.
-- No tense marker means present or general action.
-- **DA** before the verb marks past time; **VA** before the verb marks future time.
-- **NU** precedes the tense marker and verb.
-- Verbs retain their dictionary form; they do not conjugate for person or tense.
-- Pronoun forms do not change between subject and object.
+- No tense marker means present or general action; **DA** marks past; **VA** marks future.
+- **NU** negates the verb phrase. **LO** marks ongoing action, **PE** completed action, and **SA** habitual action.
+- **ES** is the invariant verb “be.”
+- Verbs do not conjugate for person or tense.
+- Articles and descriptive modifiers precede nouns. Possessors precede the noun they possess.
+- **HA** begins yes/no questions; information questions begin with **KA** (what), **KI** (who), **KO** (where), **KE** (when), **KU** (why), or **KAI** (how).
+- **RI** marks passive voice; **IF**, **BEK**, **THEN**, **THA**, and **TA** support conditional, causal, sequential, content, and relative clauses.
 
-Examples:
+### Pronouns
+
+| Edraen | Meaning |
+|---|---|
+| **AN** | I; me |
+| **ET** | you |
+| **EN** | we; us |
+| **IR** | he; she; it; him; her |
+| **UR** | they; them |
+
+### Articles, number, and other grammar words
+
+**LI** = the; **NA** = a/an; **MA** = plural marker; **DI/DU** = this/that; **DE/DO** = these/those; **YE/NO** = yes/no. Numbers and the full grammar-word inventory are documented in the standard grammar.
+
+### Approved examples
 
 - **AN BAK.** — I run.
-- **ET DA BAK.** — You ran.
-- **EN VA BAK.** — We will run.
-- **UR ZARK THREN.** — They protect people.
-- **AN NU FALN.** — I do not fall.
-- **ET NU DA DUV SARN.** — You did not eat fruit.
-- **EN VA BRAV BULK.** — We will carry a barrel.
+- **AN DA BAK.** — I ran.
+- **AN VA BAK.** — I will run.
+- **AN NU FIRV.** — I do not know.
+- **AN LO FARL EDRAEN.** — I am speaking Edraen.
+- **HA ET DERV LI VEM?** — Do you want the food?
+- **KO ET GELR?** — Where do you live?
+- **AN VA GOVR TO LI DARN.** — I will go to the village.
+- **AN ZAVN ET.** — I thank you.
+- **PLE GARN AN.** — Please help me.
 
-### Possession
-
-Place the possessor before the noun, without an ending or possessive particle: **AN VAEL** (“my heart”), **ET BRUK** (“your door”), **EN DOM** (“our home”), **UR DASK** (“their law”).
-
-Articles, question formation, ordinary noun plural marking, a general “to be” verb, and complex or subordinate sentences remain undefined. Do not present improvised forms for these as approved grammar.
+All grammar words are kept separate from lexical roots. Their spellings are checked against the full root inventory; exact spelling collisions are prohibited.
 
 ## 7. APPROVED PLACE NAMES WITHOUT ASSIGNED ETYMOLOGIES
 
@@ -651,7 +743,7 @@ The following material remains open for future development:
 3. Country borders, size, precise placement, governments, and political histories beyond the approved human-led institutional premise.
 4. Detailed definitions of non-human races and peoples, their subraces, relationships, cultures, religions, and civilizations. See [Race Design Workshop](peoples/Race_Design_Workshop.md); proposals are not canon until explicitly approved.
 5. The supporting lore for humanity's established superiority and Dravkhar's historical prominence; Dravkhar's etymology; its origins and exact regional distribution; the identities of other human subraces; and any later-defined bloodline distinctions.
-6. Additional Edraen roots, vocabulary, grammar, and idioms.
+6. Further Edraen vocabulary, idioms, conversational registers, and carefully documented refinements beyond Standard Grammar v2. See [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md).
 7. Historical events, conflicts, cosmological details, and narrative lore.
 8. Whether additional countries are needed as the setting develops.
 
