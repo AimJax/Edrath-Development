@@ -13,7 +13,7 @@ Root definitions are lexical only. They do not independently establish religions
 
 ## Quick start: reading and using Edraen
 
-Edraen Standard v3.1 supports ordinary statements, questions, commands, everyday conversation, practical writing, and connected clauses. The full rule set and phrase examples are in the [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md) and [Everyday Phrasebook](Edraen_Everyday_Phrasebook.md).
+Edraen Standard v3.2 supports ordinary statements, questions, commands, everyday conversation, practical writing, and connected clauses. The full rule set and phrase examples are in the [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md) and [Everyday Phrasebook](Edraen_Everyday_Phrasebook.md).
 
 ### Core pronouns and grammar words
 
@@ -82,7 +82,7 @@ These standalone forms are grammar words, not lexical roots. They are maintained
 - NH in NHUR is pronounced as N.
 - Default stress falls on the penultimate syllable, except that established proper names retain their recorded pronunciation guides.
 - The guides in the table are practical reader aids, not IPA or a complete phonological specification.
-- Conservative root-shape guidance is documented in Standard Grammar v3.1. A provisional sound-system specification now records proposed IPA values, attested root shapes, and stress; those phonological values remain provisional pending final approval.
+- Conservative root-shape guidance is documented in Standard Grammar v3.2. A provisional sound-system specification now records proposed IPA values, attested root shapes, and stress; those phonological values remain provisional pending final approval.
 
 ## Complete approved root inventory
 
