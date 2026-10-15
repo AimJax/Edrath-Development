@@ -148,6 +148,9 @@ def main() -> int:
         errors.append("Translation benchmark is missing supported or unresolved stress tests.")
     if "**Standard:** Edraen Standard v3.1" in read(PHRASEBOOK) or "**Standard:** Edraen Standard v3.1" in read(OATH):
         errors.append("Phrasebook or oath test still declares Edraen Standard v3.1 as current.")
+    for path, text in ((PHRASEBOOK, read(PHRASEBOOK)), (OATH, read(OATH)), (BENCHMARK, benchmark), (FRAMES, frames), (FOUNDATION, foundation), (DICTIONARY, dictionary)):
+        if "Edraen Standard v3.2" not in text and "Standard Grammar v3.2" not in text:
+            errors.append(f"{path.relative_to(ROOT)} does not reference the current Edraen Standard v3.2.")
     if "**Standard under test:** Edraen Standard v3.1" in benchmark or "**Standard under reference:** Edraen Standard v3.1" in frames:
         errors.append("Benchmark or lexical-frame supplement still declares Edraen Standard v3.1 as current.")
     for phrase in (
