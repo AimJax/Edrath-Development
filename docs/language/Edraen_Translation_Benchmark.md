@@ -1,9 +1,9 @@
 # EDRAEN TRANSLATION BENCHMARK
 
 **Document:** Grammar Stress-Test Set  
-**Version:** 1.0  
+**Version:** 1.1  
 **Status:** Working test suite; examples test the current grammar and do not add new canon  
-**Standard under test:** Edraen Standard v3.2
+**Standard under test:** Edraen Standard v3.3
 
 This benchmark tests whether the documented rules can be applied consistently to sentences that combine more than one grammatical feature. Supported examples use approved vocabulary and existing rules. An unresolved case is deliberately left untranslated rather than filled with guessed grammar.
 
@@ -41,6 +41,7 @@ This benchmark tests whether the documented rules can be applied consistently to
 | T28 | I stopped eating meat. | **AN DA NULR LI DUV BAVR.** | NULR with an LI + verb phrase activity complement |
 | T29 | She said, “I will return tomorrow.” | **IR DA LAVN: “AN VA THERV NETHL DAK.”** | Direct quotation; pronouns and relative time are anchored to the quoted utterance |
 | T30 | I might not have been able to go. | **AN DA PE MO NU TALR GOVR.** | Completed past, possibility, and negation inside the modal complement
+| T31 | Do you not pity yourself, my friend? | **HA ET NU RAETH ET SELF, AN ZARV?** | Transitive pity verb, reflexive object, negative yes/no question, and direct-address vocative |
 
 These are regression fixtures, not claims that every English nuance has a one-to-one Edraen equivalent. In particular, T01 and T02 are intentionally different: LI + verb phrase presents an activity as a noun-like concept; TO + verb phrase presents an action as a complement.
 
