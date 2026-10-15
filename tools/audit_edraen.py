@@ -89,7 +89,7 @@ def main() -> int:
 
     phase_roots: list[str] = []
     phase_counts: dict[int, int] = {}
-    for phase in range(1, 11):
+    for phase in range(1, 12):
         path = ROOT / f"docs/language/Edraen_Dictionary_Phase_{phase}.md"
         try:
             text = read(path)
@@ -116,26 +116,26 @@ def main() -> int:
     if len(phase_roots) != len(roots):
         errors.append(f"Phase records contain {len(phase_roots)} root rows; master dictionary contains {len(roots)}.")
 
-    if "Edraen Standard v3.2" not in grammar:
-        errors.append("Grammar document does not identify Edraen Standard v3.2.")
+    if "Edraen Standard v3.3" not in grammar:
+        errors.append("Grammar document does not identify Edraen Standard v3.3.")
     registry_count = re.search(r"\*\*(\d+) unique root spellings\*\*", registry)
     if not registry_count or int(registry_count.group(1)) != expected_count:
         recorded = registry_count.group(1) if registry_count else "missing"
         errors.append(f"Canon Registry records {recorded} roots but the dictionary declares {expected_count}.")
-    if "Edraen Standard v3.2" not in registry:
-        errors.append("Canon Registry does not reference Edraen Standard v3.2.")
+    if "Edraen Standard v3.3" not in registry:
+        errors.append("Canon Registry does not reference Edraen Standard v3.3.")
     readme_count = re.search(r"\*\*Edraen dictionary\*\* — (\d+) approved lexical roots", readme)
     if not readme_count or int(readme_count.group(1)) != expected_count:
         recorded = readme_count.group(1) if readme_count else "missing"
         errors.append(f"README records {recorded} roots but the dictionary declares {expected_count}.")
-    if "Edraen Standard v3.2" not in readme:
-        errors.append("README does not reference Edraen Standard v3.2.")
+    if "Edraen Standard v3.3" not in readme:
+        errors.append("README does not reference Edraen Standard v3.3.")
     if "practical grammar v3.0" in readme.lower():
         errors.append("README still labels the current grammar as v3.0.")
     if r"\n-" in readme:
         errors.append("README contains a literal escaped newline in its documentation list.")
-    if "all nine phase records" in dictionary.lower():
-        errors.append("Dictionary still refers to nine phase records instead of ten.")
+    if "all ten phase records" in dictionary.lower():
+        errors.append("Dictionary still refers to ten phase records instead of eleven.")
     if "Standard Grammar v3.0." in foundation:
         errors.append("Language Foundation still identifies v3.0 as the current grammar.")
     if "beyond Standard Grammar v2." in registry:
@@ -144,14 +144,14 @@ def main() -> int:
         errors.append("Grammar combines MA with a plural demonstrative in contradiction of its noun-phrase rule.")
     if "Edraen Phonology and Orthography" not in readme or "602 monosyllabic roots" not in phonology:
         errors.append("README or provisional phonology document is missing the sound-system reference or inventory audit.")
-    if "T01" not in benchmark or "T30" not in benchmark or "U03" not in benchmark:
+    if "T01" not in benchmark or "T30" not in benchmark or "T31" not in benchmark or "U03" not in benchmark:
         errors.append("Translation benchmark is missing supported or unresolved stress tests.")
-    if "**Standard:** Edraen Standard v3.1" in read(PHRASEBOOK) or "**Standard:** Edraen Standard v3.1" in read(OATH):
+    if "**Standard:** Edraen Standard v3.2" in read(PHRASEBOOK) or "**Standard:** Edraen Standard v3.2" in read(OATH):
         errors.append("Phrasebook or oath test still declares Edraen Standard v3.1 as current.")
     for path, text in ((PHRASEBOOK, read(PHRASEBOOK)), (OATH, read(OATH)), (BENCHMARK, benchmark), (FRAMES, frames), (FOUNDATION, foundation), (DICTIONARY, dictionary)):
-        if "Edraen Standard v3.2" not in text and "Standard Grammar v3.2" not in text:
-            errors.append(f"{path.relative_to(ROOT)} does not reference the current Edraen Standard v3.2.")
-    if "**Standard under test:** Edraen Standard v3.1" in benchmark or "**Standard under reference:** Edraen Standard v3.1" in frames:
+        if "Edraen Standard v3.3" not in text and "Standard Grammar v3.3" not in text:
+            errors.append(f"{path.relative_to(ROOT)} does not reference the current Edraen Standard v3.3.")
+    if "**Standard under test:** Edraen Standard v3.2" in benchmark or "**Standard under reference:** Edraen Standard v3.2" in frames:
         errors.append("Benchmark or lexical-frame supplement still declares Edraen Standard v3.1 as current.")
     for phrase in (
         "IF AN DA PE FIRV, AN DA PE WO TERV.",
@@ -159,10 +159,11 @@ def main() -> int:
         "AN DA NULR LI DUV BAVR.",
         "IR DA LAVN: “AN VA THERV NETHL DAK.”",
         "AN DA PE MO NU TALR GOVR.",
+        "HA ET NU RAETH ET SELF, AN ZARV?",
     ):
         if phrase not in benchmark or phrase not in read(PHRASEBOOK):
-            errors.append(f"v3.2 regression example is missing from benchmark or phrasebook: {phrase}")
-    if "Edraen Lexical Classes and Verb Frames" not in readme or "NULR" not in frames:
+            errors.append(f"v3.3 regression example is missing from benchmark or phrasebook: {phrase}")
+    if "Edraen Lexical Classes and Verb Frames" not in readme or "NULR" not in frames or "RAETH" not in frames:
         errors.append("README or lexical-frame supplement is missing its documented reference.")
 
     if "Action nominalization" not in grammar or "LI DUV BAVR" not in grammar:
@@ -190,7 +191,7 @@ def main() -> int:
     print(f"  Unique grammar words:   {len(set(grammar_words))}")
     print(f"  Root/grammar collisions:{len(collisions)}")
     print(f"  Phrasebook/oath/benchmark entries checked: {checked_phrases}")
-    print("  Phase root rows:        " + ", ".join(f"P{p}={phase_counts.get(p, 0)}" for p in range(1, 11)))
+    print("  Phase root rows:        " + ", ".join(f"P{p}={phase_counts.get(p, 0)}" for p in range(1, 12)))
     if errors:
         print("\nFAIL")
         for error in errors:
