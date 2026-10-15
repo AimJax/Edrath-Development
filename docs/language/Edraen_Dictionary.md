@@ -2,18 +2,18 @@
 
 **Status:** Approved Canon  
 **Purpose:** Canonical cumulative reference for every approved Edraen root  
-**Inventory:** 628 approved lexical roots  
-**Root batches:** 7 foundational roots + 393 additions in Phases 1–6 + 85 additions in Phase 7 + 66 additions in Phase 8 + 52 additions in Phase 9 + 25 additions in Phase 10
+**Inventory:** 629 approved lexical roots  
+**Root batches:** 7 foundational roots + 393 additions in Phases 1–6 + 85 additions in Phase 7 + 66 additions in Phase 8 + 52 additions in Phase 9 + 25 additions in Phase 10 + 1 addition in Phase 11
 
 ## Canon boundary
 
-This is the single cumulative, learner-facing dictionary for all 628 approved Edraen lexical roots from the foundational set and Phases 1–10. Use it as the everyday reference; the phase files are historical batch records. Entries retain approved meanings and reader-friendly pronunciation guides. The root list is alphabetized and grouped by initial letter for casual reading and lookup. Standalone grammar words are documented separately in the [Standard Grammar & Usage](Edraen_Standard_Grammar.md) guide and are not counted as lexical roots.
+This is the single cumulative, learner-facing dictionary for all 629 approved Edraen lexical roots from the foundational set and Phases 1–11. Use it as the everyday reference; the phase files are historical batch records. Entries retain approved meanings and reader-friendly pronunciation guides. The root list is alphabetized and grouped by initial letter for casual reading and lookup. Standalone grammar words are documented separately in the [Standard Grammar & Usage](Edraen_Standard_Grammar.md) guide and are not counted as lexical roots.
 
 Root definitions are lexical only. They do not independently establish religions, metaphysics, histories, social institutions, cultural practices, or facts about the peoples of Edrath.
 
 ## Quick start: reading and using Edraen
 
-Edraen Standard v3.2 supports ordinary statements, questions, commands, everyday conversation, practical writing, and connected clauses. The full rule set and phrase examples are in the [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md) and [Everyday Phrasebook](Edraen_Everyday_Phrasebook.md).
+Edraen Standard v3.3 supports ordinary statements, questions, commands, everyday conversation, practical writing, and connected clauses. The full rule set and phrase examples are in the [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md) and [Everyday Phrasebook](Edraen_Everyday_Phrasebook.md).
 
 ### Core pronouns and grammar words
 
@@ -86,7 +86,7 @@ These standalone forms are grammar words, not lexical roots. They are maintained
 
 ## Complete approved root inventory
 
-The tables below contain all 628 approved roots in alphabetical order. Each entry gives the root, its approved meaning, and a practical pronunciation guide.
+The tables below contain all 629 approved roots in alphabetical order. Each entry gives the root, its approved meaning, and a practical pronunciation guide.
 
 ### A
 
@@ -537,6 +537,7 @@ The tables below contain all 628 approved roots in alphabetical order. Each entr
 
 | Root | Approved meaning | Pronunciation guide |
 |---|---|---|
+| **RAETH** | Pity; feel compassionate concern for someone who is suffering or in hardship, with a wish that their distress be eased | rayth (AE as in “day”; TH as in “thin”) |
 | **RAG** | Work; labor or purposeful activity | rag |
 | **RAGAM** | Office; a place where administrative, professional, or clerical work is done | rah-gam |
 | **RAGAV** | Job; a role, task, or position of work, especially paid employment | rah-gav |
@@ -824,6 +825,7 @@ The tables below contain all 628 approved roots in alphabetical order. Each entr
 - **MALK** = metal generally; **THORG** = iron specifically.
 - **KREG** = craft; **ZEG** = skill; **RAG** = work.
 - **LETH** = love/deep affection; **YAR** = joy/happiness; **GRATH** = fear; **VURN** = anger; **METHR** = sorrow/grief.
+- **RAETH** = pity/compassion directed toward someone suffering; **ZAVM** = care or protective attention. **RAETH** is distinct from **RATH** (world) and **AETH** (sky).
 - **SURN** is a word for spirit/soul; its existence or nature is not established by the vocabulary entry.
 - **DAN** refers to an individual person. Whether it applies to any particular kind of being depends on the wider setting.
 - **MERV** means make or create generally; **DURN** means build or assemble specifically.
@@ -854,9 +856,10 @@ Every root must have a unique complete spelling. Similar sounds, shared letters,
 - Phase 8 additions: 66.
 - Phase 9 additions: 52.
 - Phase 10 additions: 25.
-- Total approved lexical roots: **628**.
+- Phase 11 additions: 1.
+- Total approved lexical roots: **629**.
 - Exact duplicate spellings in the cumulative inventory: **0**.
 - Exact matches against established whole terms and proper names checked for this audit: **0**.
-- Cross-document consistency: all ten phase records and the Canon Registry agree with the master inventory on root spelling, approved meaning, and pronunciation guide; no missing or conflicting entries were found.
+- Cross-document consistency: all eleven phase records and the Canon Registry agree with the master inventory on root spelling, approved meaning, and pronunciation guide; no missing or conflicting entries were found.
 
-The 628-root inventory includes the approved foundational set and Phases 1–10. Any future roots must be checked against this complete table before approval. Grammar words have their own collision-checked ledger. This is a substantial core vocabulary, not a claim that a usable language can never add words again.
+The 629-root inventory includes the approved foundational set and Phases 1–11. Any future roots must be checked against this complete table before approval. Grammar words have their own collision-checked ledger. This is a substantial core vocabulary, not a claim that a usable language can never add words again.
