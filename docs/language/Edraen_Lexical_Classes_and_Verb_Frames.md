@@ -3,7 +3,7 @@
 **Document:** Working Lexical-Syntax Supplement  
 **Version:** 1.0  
 **Status:** Descriptive supplement; no new root meanings or grammar rules are approved by this document  
-**Standard under reference:** Edraen Standard v3.1
+**Standard under reference:** Edraen Standard v3.2
 
 Edraen has 628 approved lexical roots, but a large root inventory does not by itself tell a learner which sentence patterns each verb accepts. This supplement records the frames already supported by the grammar and examples. It distinguishes attested patterns from careful extensions that still need testing.
 
@@ -34,7 +34,7 @@ The frames below describe syntax, not English word-for-word order.
 | S + V | Intransitive or complete predicate | **IR TERV.** — He/she/it comes. | Standard Grammar |
 | S + V + NP | Direct object | **AN DUV LI VEM.** — I eat the food. | Standard Grammar |
 | S + V + TO + VP | Infinitive or purpose complement | **AN DERV TO TUR.** — I want to walk. | Standard Grammar |
-| S + V + LI + VP | Activity noun phrase as complement | **AN LIRV LI DUV BAVR.** — I like eating meat. | Standard Grammar v3.1 |
+| S + V + LI + VP | Activity noun phrase as complement | **AN LIRV LI DUV BAVR.** — I like eating meat. | Standard Grammar v3.2 |
 | S + V + THA + clause | Content clause | **AN FIRV THA IR ES SETH.** — I know that he/she/it is well. | Standard Grammar |
 | S + V + embedded question | Indirect question | **AN FIRV KO ET GELR.** — I know where you live. | Standard Grammar |
 | S + V + NP + TO + NP | Object plus recipient/destination | **AN VA DARV NA SAVAT TO ET.** — I will send an email to you. | Phrasebook/Standard Grammar |
@@ -67,13 +67,13 @@ This register is deliberately limited to verbs whose patterns are shown in the c
 | **SAVN** | remember | NP; object gap in a relative clause | Example: **LI DAN TA AN SAVN.** |
 | **KERV** | repair | NP | Example: **AN KERV LI BRUK.** |
 | **DURN** | build | NP; passive use with RI | Example: **LI DOM DA RI DURN BY EN.** |
-| **NULR** | stop; cease movement or activity | Not fully specified | Whether it can take an activity phrase as a complement is unresolved; see the benchmark. |
+| **NULR** | stop; cease movement or activity | LI + VP activity complement | **AN DA NULR LI DUV BAVR.** — I stopped eating meat. The activity phrase names what ceased; this frame is now specified in Standard Grammar v3.2. |
 
 The register does not mean that every verb with a similar English translation takes the same frames. New verbs should be checked against their own approved meanings and documented examples.
 
 ## 5. Activity phrases versus infinitives
 
-The distinction established in Standard Grammar v3.1 is important:
+The distinction established in Standard Grammar v3.2 is important:
 
 - **AN LIRV TO DUV BAVR.** — I like to eat meat.
 - **AN LIRV LI DUV BAVR.** — I like eating meat.
@@ -89,10 +89,10 @@ Do not create an English-style -ing suffix or infer that every verb accepts LI +
 
 The current frame register does not yet define every verb's argument structure. In particular:
 
-- whether **NULR** (“stop”) accepts LI + VP, TO + VP, or another complement;
-- how counterfactual past meanings combine with tense, aspect, and WO;
-- how several embedded clauses should be punctuated and parsed when nested;
-- how multiple modal meanings stack, including a modal with **TALR**;
+- whether verbs other than **NULR** may take an activity phrase as a complement; do not generalize this frame to every verb;
+- how counterfactual past meanings combine with tense, aspect, and WO beyond the documented standard pattern;
+- how multiple levels of embedded and relative clauses should be punctuated and parsed beyond the one-level nested example;
+- how multiple grammatical modal meanings stack; MO with the lexical ability verb TALR is documented, but MO + ME and similar stacks remain open;
 - whether additional roots permit both a direct object and a recipient phrase.
 
 These are language-design questions, not vocabulary gaps. Add a frame only when the meaning and syntax have been tested, and record the example in the [Translation Benchmark](Edraen_Translation_Benchmark.md).
