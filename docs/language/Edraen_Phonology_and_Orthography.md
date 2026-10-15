@@ -5,7 +5,7 @@
 **Status:** Provisional technical standard  
 **Scope:** Pronunciation, syllable structure, stress, and spelling; no root spelling or lexical meaning is changed here.
 
-This document turns the existing pronunciation notes and the 628-root inventory into a consistent working system. The IPA values below are explicit recommendations so that Edraen can be pronounced consistently. They remain provisional until the language creator confirms or revises them. The dictionary's recorded pronunciation guide continues to take priority for an established word.
+This document turns the existing pronunciation notes and the 629-root inventory into a consistent working system. The IPA values below are explicit recommendations so that Edraen can be pronounced consistently. They remain provisional until the language creator confirms or revises them. The dictionary's recorded pronunciation guide continues to take priority for an established word.
 
 ## 1. Vowel system
 
@@ -56,9 +56,9 @@ The current native-root inventory does not use C, J, Q, W, or X as letters. KH r
 
 ## 3. Syllables and root shapes
 
-Counting AE and AU as single nuclei, the 628-root inventory contains:
+Counting AE and AU as single nuclei, the 629-root inventory contains:
 
-- **602 monosyllabic roots**
+- **603 monosyllabic roots**
 - **25 disyllabic roots**
 - **1 trisyllabic root: MORALA**
 
