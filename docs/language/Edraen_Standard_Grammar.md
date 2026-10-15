@@ -1,6 +1,6 @@
 # EDRAEN STANDARD GRAMMAR & USAGE
 
-**Standard:** Edraen Standard v3.1  
+**Standard:** Edraen Standard v3.2  
 **Status:** Approved language standard  
 **Purpose:** A practical grammar for everyday conversation, clear prose, dialogue, and connected writing  
 **Lexical inventory:** 628 approved roots; grammar words are listed separately
@@ -498,6 +498,8 @@ Examples:
 
 A verb meaning “ask” may take an embedded question directly, without **THA**: **LI RATH THAVN KI MURV.** — The world asks who remained.
 
+A relative clause may contain a **THA** content clause. Read the content clause as part of the verb that selects it, then continue with the main clause predicate after the complete relative clause. For example, **LI DAN TA LAVN THA ET WO TERV DA THULR.** means “The person who said that you would come left.” Here **LI DAN TA LAVN THA ET WO TERV** is the subject noun phrase with its relative clause; **DA THULR** is the main predicate. In longer writing, punctuation may be used to make clause boundaries easier to follow.
+
 ### Relative clauses
 
 **TA** follows the noun it describes and introduces a clause that identifies it.
@@ -592,7 +594,7 @@ Before adding a root or grammar word:
 
 Similar sounds are permitted; exact duplicate spellings are not. Roots and grammar words are separate inventories, but **no exact spelling collision between them is allowed**.
 
-This document defines the practical standard grammar for everyday Edraen. Standard v3.1 clarifies action nominalization, infinitive subject control, negation scope in verb complements, and conservative sound-shape guidance drawn from the approved inventory. Standard v3.0 established noun-phrase order, number formation, embedded questions, temporal relations, and additional everyday grammar words. Future vocabulary additions remain welcome, but grammar must not be improvised during translation; update this standard first when a rule needs to change.
+This document defines the practical standard grammar for everyday Edraen. Standard v3.2 adds explicit rules for counterfactual past, nested relative/content clauses, direct quotation and speaker-relative time, activity complements of **NULR**, and negation scope inside modal complements. Standard v3.1 clarified activity nominalization, infinitive subject control, negation scope in verb complements, and conservative sound-shape guidance drawn from the approved inventory. Standard v3.0 established noun-phrase order, number formation, embedded questions, temporal relations, and additional everyday grammar words. Future vocabulary additions remain welcome, but grammar must not be improvised during translation; update this standard first when a rule needs to change.
 
 ## 17. Noun-phrase order and quantity
 
@@ -641,6 +643,8 @@ The ability root **TALR** and the grammar modals **ME**, **MO**, **SO**, and **W
 - **AN WO GARN ET.** — I would help you.
 
 Use **TO** for purpose as well: **AN GOVR TO LI RAGAM FO RAG.** — I go to the office for work. If a sentence contains two consecutive **TO** phrases, use a comma or rewrite it if the relationship is unclear.
+
+The root **NULR** (“stop; cease movement or activity”) may take **LI + verb phrase** as an activity complement. The activity phrase names what ceases: **AN DA NULR LI DUV BAVR.** — I stopped eating meat. This is a documented frame for **NULR**, not a rule that every verb automatically accepts an activity complement.
 
 ### Action nominalization
 
@@ -724,11 +728,49 @@ The standard grammar is used for ordinary conversation and clear prose. The same
 - Use **PLE** to soften requests. A bare imperative is acceptable for urgent, familiar, or direct commands.
 - Repeat a noun instead of using a pronoun when the referent might be unclear.
 - Short clauses are preferred in conversation. Longer subordinate clauses are acceptable in writing when their boundaries are clear.
-- Put direct speech inside quotation marks and use the ordinary punctuation rules. Capitalize proper names, but do not assign them an Edraen etymology unless one is recorded.
+- Put direct speech inside quotation marks and use the ordinary punctuation rules. A speech verb such as **LAVN** may be followed by a colon and the quoted sentence without **THA**: **IR DA LAVN: “AN VA THERV NETHL DAK.”** — He/she/it said, “I will return tomorrow.” Inside direct quotation, first- and second-person pronouns refer to the original speaker and addressee; time expressions such as **NETHL DAK** (“tomorrow”) are anchored to the time of the quoted utterance, not automatically to the present narrator. Use **THA** for indirect reported content instead. Capitalize proper names, but do not assign them an Edraen etymology unless one is recorded.
 - A new borrowed word or newly coined compound is not automatically standard. Record its spelling, meaning, pronunciation, and role before treating it as approved vocabulary.
 
 ## 23. Scope of the standard
 
-Edraen Standard v3.1 is a stable, usable core for everyday speech, practical writing, connected narrative, and formal passages. It defines the regular grammar rather than trying to freeze all future vocabulary or culture. The language can grow without being considered unfinished every time a new technical term is needed.
+Edraen Standard v3.2 is a stable, usable core for everyday speech, practical writing, connected narrative, and formal passages. It defines the regular grammar rather than trying to freeze all future vocabulary or culture. The language can grow without being considered unfinished every time a new technical term is needed.
 
 The following are deliberately left open to future specification rather than silently guessed: regional dialects, historical sound changes, a canonical calendar, a detailed politeness hierarchy, and specialist terminology for fields not yet represented in the dictionary. These are expansion areas, not blockers for ordinary use.
+
+## 24. Counterfactual past
+
+Use **DA + PE** in a condition to present its event as a completed past condition. In the hypothetical result, use **DA + PE + WO** before the bare verb phrase. The order remains the standard order: tense, aspect, modal, verb.
+
+**Pattern:**
+
+**IF + SUBJECT + DA PE + VERB PHRASE, [THEN] SUBJECT + DA PE WO + VERB PHRASE.**
+
+- **IF AN DA PE FIRV, AN DA PE WO TERV.** — If I had known, I would have come.
+- **IF ET DA PE TERV, EN DA PE WO RAVN ET.** — If you had come, we would have met you.
+
+**THEN** may be added before the result clause for emphasis, but is not required. This pattern is specifically for a counterfactual past condition and its hypothetical past result. Do not use it for ordinary open conditions such as **IF ET TERV, AN VA RAVN ET** — “If you come, I will meet you.”
+
+## 25. Nested clauses and direct quotation
+
+A relative clause introduced by **TA** may contain a content clause introduced by **THA**. Parse each clause according to its own marker: **TA** attaches a relative clause to the preceding noun; **THA** introduces the content selected by a verb such as **LAVN** (“say”). After the complete relative clause, the main predicate follows.
+
+- **LI DAN TA LAVN THA ET WO TERV DA THULR.** — The person who said that you would come left.
+
+In direct quotation, use quotation marks to preserve the quoted speaker's exact clause. A speech verb may be followed by a colon and the quotation; **THA** is not placed before the direct quote.
+
+- **IR DA LAVN: “AN VA THERV NETHL DAK.”** — He/she/it said, “I will return tomorrow.”
+
+Inside a direct quotation, **AN** refers to the original speaker, **ET** to the original addressee, and relative time expressions are interpreted from the quoted utterance's time. In indirect speech, use a **THA** content clause instead, and interpret pronouns according to the reported clause's stated context.
+
+## 26. Nested modal scope
+
+A modal such as **MO** (“may; might”) may govern a verb phrase whose main verb is the lexical ability verb **TALR** (“can; be able”). **TALR** then takes its own bare verb complement. Do not insert **TO** after **TALR**.
+
+When negation belongs inside the modal's scope, place **NU** after the modal and immediately before its complement:
+
+- **AN MO NU GOVR.** — I might not go.
+- **AN DA PE MO NU TALR GOVR.** — I might not have been able to go.
+
+In the second example, **DA PE** places the possible ability event in the completed past, **MO** marks possibility, and **NU TALR GOVR** means “not be able to go.” By contrast, **NU** at the beginning of the main clause, before tense/aspect/modal markers, negates the main predication rather than just the modal's complement. The placement of **NU** therefore affects meaning.
+
+This rule licenses the tested nesting of one modal with the lexical ability verb. It does **not** establish a general rule for stacking multiple grammatical modals such as **MO + ME**; such combinations remain unstandardized until their scope and interpretation are documented.
