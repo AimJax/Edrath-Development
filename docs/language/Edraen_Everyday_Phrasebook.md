@@ -1,6 +1,6 @@
 # EDRAEN EVERYDAY PHRASEBOOK
 
-**Standard:** Edraen Standard v3.2  
+**Standard:** Edraen Standard v3.3  
 **Status:** Approved usage examples  
 **Rule:** Every example below uses approved roots and the documented grammar. Where a phrase is literal rather than idiomatic, the English rendering is kept close to the Edraen structure.
 
@@ -115,6 +115,7 @@ A name may be inserted as a proper name. Do not invent an Edraen etymology for a
 |---|---|
 | **AN LIRV ET.** | I like you. |
 | **AN LETHV ET.** | I love you. |
+| **HA ET NU RAETH ET SELF, AN ZARV?** | Do you not pity yourself, my friend? |
 | **AN NU LURV ET.** | I do not hate you. |
 | **AN FURM YAR.** | I feel joy. |
 | **AN FURM METHR.** | I feel sorrow. |
