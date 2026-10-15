@@ -57,7 +57,7 @@ This register is deliberately limited to verbs whose patterns are shown in the c
 | **FALD** | try; make an attempt | TO + VP | No additional complement frame is implied. |
 | **TALR** | can; be able | Bare VP | Do not add TO after TALR under the current standard. |
 | **FIRV** | know | NP; THA clause; embedded question | These cover a known fact, a proposition, and an indirect question. |
-| **LAVN** | say | THA clause | Example: **IR LAVN THA ET VA TERV.** |
+| **LAVN** | say | THA clause; direct quotation | Indirect report: **IR LAVN THA ET VA TERV.** Direct quote: **IR DA LAVN: “AN VA THERV NETHL DAK.”** |
 | **THAVN** | ask | Embedded question | Example: **ET THAVN KE EN VA TERV.** |
 | **DARV** | send | NP + TO recipient/destination | Example: **AN VA DARV NA SAVAT TO ET.** |
 | **LEVR** | bring | NP + TO recipient/destination | Example: **PLE LEVR LI ZULR TO EN.** |
