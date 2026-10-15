@@ -1,10 +1,10 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 2.4  
+**Version:** 2.5  
 **Status:** Approved Foundational Canon
 
-This registry records the approved foundational decisions for Edrath, including the 628-root Edraen inventory, compound rules, Edraen Standard Grammar v3.1, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
+This registry records the approved foundational decisions for Edrath, including the 628-root Edraen inventory, compound rules, Edraen Standard Grammar v3.2, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
 
 ## 1. WORLD AND LANGUAGE
 
@@ -802,9 +802,9 @@ These are the current foundational conventions for newly coined Edraen vocabular
 
 These conventions are intentionally compact. They are sufficient for current vocabulary work; a more technical phonetic transcription is not required for ordinary development.
 
-## 6. APPROVED STANDARD EDRAEN GRAMMAR — VERSION 3.1
+## 6. APPROVED STANDARD EDRAEN GRAMMAR — VERSION 3.2
 
-Edraen Standard v3.1 is approved as the practical grammar for ordinary statements, questions, commands, connected clauses, and activity nominalization. The complete reference is [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md), with conversational examples in the [Everyday Phrasebook](language/Edraen_Everyday_Phrasebook.md).
+Edraen Standard v3.2 is approved as the practical grammar for ordinary statements, questions, commands, connected clauses, activity nominalization, counterfactual past, nested relative/content clauses, direct quotation, and modal-complement negation scope. The complete reference is [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md), with conversational examples in the [Everyday Phrasebook](language/Edraen_Everyday_Phrasebook.md).
 
 ### Core sentence order
 
@@ -812,12 +812,12 @@ Edraen Standard v3.1 is approved as the practical grammar for ordinary statement
 
 - Default order is subject → verb → object.
 - No tense marker means present or general action; **DA** marks past; **VA** marks future.
-- **NU** negates the verb phrase. **LO** marks ongoing action, **PE** completed action, and **SA** habitual action.
+- **NU** normally negates the main verb phrase from the beginning of the clause. Inside a modal complement, **NU** may follow the modal to negate only its complement, as in **AN DA PE MO NU TALR GOVR** — “I might not have been able to go.” **LO** marks ongoing action, **PE** completed action, and **SA** habitual action.
 - **ES** is the invariant verb “be.”
 - Verbs do not conjugate for person or tense.
 - Articles and descriptive modifiers precede nouns. Possessors precede the noun they possess.
 - **HA** begins yes/no questions; information questions begin with **KA** (what), **KI** (who), **KO** (where), **KE** (when), **KU** (why), or **KAI** (how).
-- **RI** marks passive voice; **IF**, **BEK**, **THEN**, **THA**, and **TA** support conditional, causal, sequential, content, and relative clauses.
+- **RI** marks passive voice; **IF**, **BEK**, **THEN**, **THA**, and **TA** support conditional, causal, sequential, content, and relative clauses. A counterfactual past uses **IF + subject + DA PE + verb phrase**, followed by **subject + DA PE WO + verb phrase** as the hypothetical result.
 
 ### Pronouns
 
@@ -845,6 +845,11 @@ Edraen Standard v3.1 is approved as the practical grammar for ordinary statement
 - **AN VA GOVR TO LI DARN.** — I will go to the village.
 - **AN ZAVN ET.** — I thank you.
 - **PLE GARN AN.** — Please help me.
+- **IF AN DA PE FIRV, AN DA PE WO TERV.** — If I had known, I would have come.
+- **LI DAN TA LAVN THA ET WO TERV DA THULR.** — The person who said that you would come left.
+- **AN DA NULR LI DUV BAVR.** — I stopped eating meat.
+- **IR DA LAVN: “AN VA THERV NETHL DAK.”** — He/she/it said, “I will return tomorrow.”
+- **AN DA PE MO NU TALR GOVR.** — I might not have been able to go.
 
 All grammar words are kept separate from lexical roots. Their spellings are checked against the full root inventory; exact spelling collisions are prohibited.
 
@@ -909,7 +914,7 @@ The following material remains open for future development:
 3. Country borders, size, precise placement, governments, and political histories beyond the approved human-led institutional premise.
 4. Detailed definitions of non-human races and peoples, their subraces, relationships, cultures, religions, and civilizations. See [Race Design Workshop](peoples/Race_Design_Workshop.md); proposals are not canon until explicitly approved.
 5. The supporting lore for humanity's established superiority and Dravkhar's historical prominence; Dravkhar's etymology; its origins and exact regional distribution; the identities of other human subraces; and any later-defined bloodline distinctions.
-6. Further Edraen vocabulary, idioms, conversational registers, and carefully documented refinements beyond Edraen Standard Grammar v3.1. See [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md).
+6. Further Edraen vocabulary, idioms, conversational registers, and carefully documented refinements beyond Edraen Standard Grammar v3.2. See [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md).
 7. Historical events, conflicts, cosmological details, and narrative lore.
 8. Whether additional countries are needed as the setting develops.
 
