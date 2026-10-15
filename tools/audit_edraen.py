@@ -142,7 +142,7 @@ def main() -> int:
         errors.append("Canon Registry still identifies grammar v2 as the current baseline.")
     if "DO MA DAN" in grammar or "DE MA SETH DAN" in grammar:
         errors.append("Grammar combines MA with a plural demonstrative in contradiction of its noun-phrase rule.")
-    if "Edraen Phonology and Orthography" not in readme or "602 monosyllabic roots" not in phonology:
+    if "Edraen Phonology and Orthography" not in readme or "603 monosyllabic roots" not in phonology:
         errors.append("README or provisional phonology document is missing the sound-system reference or inventory audit.")
     if "T01" not in benchmark or "T30" not in benchmark or "T31" not in benchmark or "U03" not in benchmark:
         errors.append("Translation benchmark is missing supported or unresolved stress tests.")
