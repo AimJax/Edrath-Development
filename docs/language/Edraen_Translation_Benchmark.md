@@ -3,7 +3,7 @@
 **Document:** Grammar Stress-Test Set  
 **Version:** 1.0  
 **Status:** Working test suite; examples test the current grammar and do not add new canon  
-**Standard under test:** Edraen Standard v3.1
+**Standard under test:** Edraen Standard v3.2
 
 This benchmark tests whether the documented rules can be applied consistently to sentences that combine more than one grammatical feature. Supported examples use approved vocabulary and existing rules. An unresolved case is deliberately left untranslated rather than filled with guessed grammar.
 
@@ -35,23 +35,26 @@ This benchmark tests whether the documented rules can be applied consistently to
 | T22 | At 2:30. | **AT BI HURK AND TRI DEK MIRK.** | Clock-time expression and number composition |
 | T23 | I gave the book to her. | **AN DA DOVR LI ZULR TO IR.** | Past tense, direct object, and recipient phrase with TO |
 | T24 | The book I gave him is in the home. | **LI ZULR TA AN DA DOVR TO IR ES IN LI DOM.** | Relative clause with a missing object, recipient phrase, and locative predicate |
-| T25 | I had not been helped by them. | **AN NU DA PE RI GARN BY UR.** | Negation, past-completive sequence, passive marker, and agent phrase
+| T25 | I had not been helped by them. | **AN NU DA PE RI GARN BY UR.** | Negation, past-completive sequence, passive marker, and agent phrase |
+| T26 | If I had known, I would have come. | **IF AN DA PE FIRV, AN DA PE WO TERV.** | Counterfactual past condition and hypothetical completed result |
+| T27 | The person who said that you would come left. | **LI DAN TA LAVN THA ET WO TERV DA THULR.** | Nested relative clause and THA content clause followed by the main predicate |
+| T28 | I stopped eating meat. | **AN DA NULR LI DUV BAVR.** | NULR with an LI + verb phrase activity complement |
+| T29 | She said, “I will return tomorrow.” | **IR DA LAVN: “AN VA THERV NETHL DAK.”** | Direct quotation; pronouns and relative time are anchored to the quoted utterance |
+| T30 | I might not have been able to go. | **AN DA PE MO NU TALR GOVR.** | Completed past, possibility, and negation inside the modal complement
 
 These are regression fixtures, not claims that every English nuance has a one-to-one Edraen equivalent. In particular, T01 and T02 are intentionally different: LI + verb phrase presents an activity as a noun-like concept; TO + verb phrase presents an action as a complement.
 
-## 2. Unresolved stress tests
+## 2. Remaining unresolved stress tests
 
-These targets expose combinations or distinctions that need an explicit decision before a reliable Edraen translation should be treated as standard.
+The following combinations remain deliberately outside the current standard. They should not be translated by stacking markers mechanically; the scope and interpretation must be designed and tested first.
 
-| ID | English target | Why it is unresolved |
+| ID | English target | Why it remains unresolved |
 |---|---|---|
-| U01 | If I had known, I would have come. | The standard defines past, completive aspect, and WO as hypothetical, but does not yet define a full counterfactual-past construction or its interpretation. |
-| U02 | The person who said that you would come left. | This nests a content clause inside a relative clause and then adds past time; the individual clause types exist, but their nested combination has not been stress-tested. |
-| U04 | I stopped eating meat. | The current infinitive and activity constructions do not yet specify which construction expresses stopping an activity, and no approved root meaning for “stop” should be presumed. |
-| U05 | She said, “I will return tomorrow.” | Direct quotation is permitted in writing, but quotation boundaries, speaker-relative time words, and whether the quoted clause keeps its own tense reference need a formal example. |
-| U06 | I might not have been able to go. | The modal, negation, completive aspect, and ability verb require a documented scope and ordering rule for stacked modality. |
+| U01 | I might have had to leave. | This combines two grammatical modals, MO and ME. The standard permits MO with the lexical ability verb TALR, but it does not yet define the order or scope of two grammatical modals. |
+| U02 | I did not know whether I might have been able to return. | This combines an embedded question, matrix negation, past-completive reference, and nested modal/ability scope. The current standard has not tested the interaction of all four layers in one sentence. |
+| U03 | The person who said that the friend who helped us had left arrived. | This requires a relative clause nested inside a content clause nested inside another relative clause, beyond the one-level nesting now tested. |
 
-Do not invent translations for U01–U06 during ordinary use. Resolve each by documenting a rule, adding a test sentence, and then adding the supported translation to Section 1.
+Do not invent translations for U01–U03 during ordinary use. Resolve each by documenting the intended scope, adding a test sentence, and then adding the supported translation to Section 1.
 
 ## 3. How to use this benchmark
 
