@@ -71,3 +71,7 @@ A culture within Edrath may develop its own folk etymology, religious explanatio
 ## DESIGN PRINCIPLE
 
 Names and vocabulary should work within Edraen's established rules. Words may acquire deeper cultural, historical, religious, and poetic meanings as the civilizations of Edrath develop, without changing their approved root meanings.
+
+## RELATED WORKING DRAFT — NOT APPROVED CANON
+
+The developing cosmology concept is documented separately in [The War of the Firstborn](The_War_of_the_Firstborn.md). That document is explicitly provisional and does not change the approved meanings of **Edrath**, **Rathaen**, or **Edraen** recorded above. Its creation narrative, divine hierarchy, and proposed names must not be treated as approved canon until explicitly accepted.
