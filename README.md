@@ -22,13 +22,13 @@ The project takes inspiration from the scale, historical depth, and layered worl
 ## Documentation
 
 - [Canon Registry](docs/00_Canon_Registry.md) — definitive list of approved decisions and the boundary between established canon and content not yet developed.
-- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, pronunciation conventions, and the Edraen Standard v3.1 overview.
-- [Edraen Standard Grammar & Usage](docs/language/Edraen_Standard_Grammar.md) — practical grammar v3.1 for sentence formation, questions, tense, aspect, negation, prepositions, clauses, passive voice, numbers, temporal expressions, and everyday usage.
+- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, pronunciation conventions, and the Edraen Standard v3.2 overview.
+- [Edraen Standard Grammar & Usage](docs/language/Edraen_Standard_Grammar.md) — practical grammar v3.2 for sentence formation, questions, tense, aspect, negation, prepositions, clauses, passive voice, numbers, temporal expressions, and everyday usage.
 - [Edraen Phonology and Orthography](docs/language/Edraen_Phonology_and_Orthography.md) — provisional IPA targets, syllable patterns, stress, and attested sound clusters; existing root spellings remain unchanged.
 - [Edraen Lexical Classes and Verb Frames](docs/language/Edraen_Lexical_Classes_and_Verb_Frames.md) — records supported verb-complement patterns and marks untested frames instead of assuming them.
 - [Edraen Everyday Phrasebook](docs/language/Edraen_Everyday_Phrasebook.md) — usable examples for greetings, needs, requests, movement, feelings, health, work, money, technology, and everyday questions.
 - [Edraen Oath Translation Test](docs/language/Edraen_Oath_Translation_Test.md) — a line-by-line long-text test of the approved grammar and vocabulary.
-- [Edraen Translation Benchmark](docs/language/Edraen_Translation_Benchmark.md) — supported regression tests plus unresolved sentence combinations that must not be translated by guesswork.
+- [Edraen Translation Benchmark](docs/language/Edraen_Translation_Benchmark.md) — 30 supported regression tests plus three unresolved sentence combinations that must not be translated by guesswork.
 - [Edraen Dictionary — Phase 10](docs/language/Edraen_Dictionary_Phase_10.md) — 25 additional roots for time of day, housing, work, health care, transport, computers, and digital communication.
 - [Edraen Dictionary — Phase 9](docs/language/Edraen_Dictionary_Phase_9.md) — 52 additional roots for relationships, food, health, public places, safety, and everyday life.
 - [Edraen Dictionary — Phase 8](docs/language/Edraen_Dictionary_Phase_8.md) — 66 additional roots for everyday vocabulary and the oath translation.
