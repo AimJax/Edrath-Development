@@ -14,7 +14,7 @@ The project takes inspiration from the scale, historical depth, and layered worl
 - **Five continents** — Kaldura, Veskara, Othmere, Sylvaris, and Umbrava.
 - **Twenty named countries** — four assigned to each continent in the current country plan.
 - **Five distinct continental profiles** — approved broad climate and geography for each continent.
-- **Edraen dictionary** — 629 approved lexical roots with unique spellings: seven foundational roots, 393 additions in Phases 1–6, 85 additions in Phase 7, 66 additions in Phase 8, 52 additions in Phase 9, 25 additions in Phase 10, and one addition in Phase 11.
+- **Edraen dictionary** — 631 approved lexical roots with unique spellings: seven foundational roots, 393 additions in Phases 1–6, 85 additions in Phase 7, 66 additions in Phase 8, 52 additions in Phase 9, 25 additions in Phase 10, one addition in Phase 11, and two additions in Phase 12.
 - **Humanity** — approved as a foundational people and the world's “best” race as a fundamental truth from the Age of the Beginning onward, not a status earned later. Humans dominate much of the world's major political and institutional life, with variation by continent. This does not mean humans must be smarter, stronger, or best at every individual ability.
 - **Dravkhar** — chosen name of the preeminent human subrace. Its core design is approved: broad potential across human pursuits, a recognizable but non-mandatory visual signature, and ordinary human baseline biology. The supporting lore and formal Edraen etymology are deferred.
 - **Other races and peoples** — the design workshop prioritizes recognizable fantasy races, with original races to be developed alongside them. Detailed definitions remain proposals until approved.
@@ -22,19 +22,20 @@ The project takes inspiration from the scale, historical depth, and layered worl
 ## Documentation
 
 - [Canon Registry](docs/00_Canon_Registry.md) — definitive list of approved decisions and the boundary between established canon and content not yet developed.
-- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, pronunciation conventions, and the Edraen Standard v3.3 overview.
+- [Edraen Language Foundation](docs/language/Edraen_Language_Foundation.md) — core language principles, compound patterns, pronunciation conventions, and the Edraen Standard v3.4 overview.
 - [Edraen Standard Grammar & Usage](docs/language/Edraen_Standard_Grammar.md) — practical grammar v3.3 for sentence formation, questions, tense, aspect, negation, prepositions, clauses, passive voice, numbers, temporal expressions, and everyday usage.
 - [Edraen Phonology and Orthography](docs/language/Edraen_Phonology_and_Orthography.md) — provisional IPA targets, syllable patterns, stress, and attested sound clusters; existing root spellings remain unchanged.
 - [Edraen Lexical Classes and Verb Frames](docs/language/Edraen_Lexical_Classes_and_Verb_Frames.md) — records supported verb-complement patterns and marks untested frames instead of assuming them.
 - [Edraen Everyday Phrasebook](docs/language/Edraen_Everyday_Phrasebook.md) — usable examples for greetings, needs, requests, movement, feelings, health, work, money, technology, and everyday questions.
 - [Edraen Oath Translation Test](docs/language/Edraen_Oath_Translation_Test.md) — a line-by-line long-text test of the approved grammar and vocabulary.
-- [Edraen Translation Benchmark](docs/language/Edraen_Translation_Benchmark.md) — 31 supported regression tests plus three unresolved sentence combinations that must not be translated by guesswork.
+- [Edraen Translation Benchmark](docs/language/Edraen_Translation_Benchmark.md) — 32 supported regression tests plus three unresolved sentence combinations that must not be translated by guesswork.
 - [Edraen Dictionary — Phase 10](docs/language/Edraen_Dictionary_Phase_10.md) — 25 additional roots for time of day, housing, work, health care, transport, computers, and digital communication.
 - [Edraen Dictionary — Phase 11](docs/language/Edraen_Dictionary_Phase_11.md) — a targeted root for pity/compassion, added after a translation stress test exposed a lexical gap.
+- [Edraen Dictionary — Phase 12](docs/language/Edraen_Dictionary_Phase_12.md) — two targeted roots for “somehow” and “kill,” added after a sentence-level translation stress test.
 - [Edraen Dictionary — Phase 9](docs/language/Edraen_Dictionary_Phase_9.md) — 52 additional roots for relationships, food, health, public places, safety, and everyday life.
 - [Edraen Dictionary — Phase 8](docs/language/Edraen_Dictionary_Phase_8.md) — 66 additional roots for everyday vocabulary and the oath translation.
 - [Edraen Dictionary — Phase 7](docs/language/Edraen_Dictionary_Phase_7.md) — the 85-root approved vocabulary expansion.
-- [Edraen Dictionary — Learner's Edition & Master Inventory](docs/language/Edraen_Dictionary.md) — the single alphabetical, learner-friendly reference for all 628 approved roots from the foundational set and Phases 1–11, with pronunciation guides, a quick-start grammar, examples, and the exact-spelling audit.
+- [Edraen Dictionary — Learner's Edition & Master Inventory](docs/language/Edraen_Dictionary.md) — the single alphabetical, learner-friendly reference for all 631 approved roots from the foundational set and Phases 1–12, with pronunciation guides, a quick-start grammar, examples, and the exact-spelling audit.
 - [Edraen Dictionary — Phase 1](docs/language/Edraen_Dictionary_Phase_1.md) — historical record of the first 66-root addition batch.
 - [Edraen Dictionary — Phase 2](docs/language/Edraen_Dictionary_Phase_2.md) — record of the 66 newly approved roots covering directions, terrain, weather, plants, animals, body parts, emotions, and colors.
 - [Edraen Dictionary — Phase 3](docs/language/Edraen_Dictionary_Phase_3.md) — approved record of the 66-root third addition batch.
