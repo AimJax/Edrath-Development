@@ -186,7 +186,7 @@ def main() -> int:
     print(f"  Master dictionary roots: {len(roots)}")
     print(f"  Unique grammar words:   {len(set(grammar_words))}")
     print(f"  Root/grammar collisions:{len(collisions)}")
-    print(f"  Phrasebook/oath entries checked: {checked_phrases}")
+    print(f"  Phrasebook/oath/benchmark entries checked: {checked_phrases}")
     print("  Phase root rows:        " + ", ".join(f"P{p}={phase_counts.get(p, 0)}" for p in range(1, 11)))
     if errors:
         print("\nFAIL")
