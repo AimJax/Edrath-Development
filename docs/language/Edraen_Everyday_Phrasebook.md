@@ -1,6 +1,6 @@
 # EDRAEN EVERYDAY PHRASEBOOK
 
-**Standard:** Edraen Standard v3.1  
+**Standard:** Edraen Standard v3.2  
 **Status:** Approved usage examples  
 **Rule:** Every example below uses approved roots and the documented grammar. Where a phrase is literal rather than idiomatic, the English rendering is kept close to the Edraen structure.
 
@@ -295,6 +295,25 @@ The roots **DANL** and **DANM** mean woman and man; **DANV** means adult; **DANH
 | **ZORAV** | network |
 | **ZORKAL** | technology |
 
+
+## Complex sentence practice
+
+These examples use the additional constructions documented in Edraen Standard v3.2. They are compositional grammar examples, not fixed idioms.
+
+| Edraen | English |
+|---|---|
+| **IF AN DA PE FIRV, AN DA PE WO TERV.** | If I had known, I would have come. |
+| **LI DAN TA LAVN THA ET WO TERV DA THULR.** | The person who said that you would come left. |
+| **AN DA NULR LI DUV BAVR.** | I stopped eating meat. |
+| **IR DA LAVN: “AN VA THERV NETHL DAK.”** | He/she/it said, “I will return tomorrow.” |
+| **AN DA PE MO NU TALR GOVR.** | I might not have been able to go. |
+
+Remember the scope distinctions:
+
+- **DA PE WO** marks the hypothetical completed past result in a counterfactual condition.
+- **TA** introduces a relative clause; **THA** introduces the content of a verb such as **LAVN**.
+- In direct quotation, first-person pronouns and relative time words belong to the original utterance's perspective.
+- **MO NU TALR GOVR** means “might not be able to go”: the negation belongs inside the modal's scope.
 
 ## Practical notes
 
