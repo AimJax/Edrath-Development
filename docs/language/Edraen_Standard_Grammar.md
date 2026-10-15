@@ -1,9 +1,9 @@
 # EDRAEN STANDARD GRAMMAR & USAGE
 
-**Standard:** Edraen Standard v3.2  
+**Standard:** Edraen Standard v3.3  
 **Status:** Approved language standard  
 **Purpose:** A practical grammar for everyday conversation, clear prose, dialogue, and connected writing  
-**Lexical inventory:** 628 approved roots; grammar words are listed separately
+**Lexical inventory:** 629 approved roots; grammar words are listed separately
 
 This guide is the primary reference for forming Edraen sentences. The language is designed to be regular: words do not change form for person or tense, grammar words are written separately, and exceptions must be documented rather than improvised.
 
@@ -13,7 +13,7 @@ Edraen text uses three kinds of units:
 
 1. **Lexical roots** carry meanings such as person, water, run, remember, good, and city. The cumulative list is in the [Learner's Dictionary](Edraen_Dictionary.md).
 2. **Compounds** join roots according to the two approved compound patterns. A compound should have a clear relationship between its parts; do not assign a meaning to a trial compound without documenting it.
-3. **Grammar words** are separate short words that show relationships such as I, the, not, past, because, and where. They are not roots and do not count toward the 628-root inventory.
+3. **Grammar words** are separate short words that show relationships such as I, the, not, past, because, and where. They are not roots and do not count toward the 629-root inventory.
 
 The spelling of a root never changes to show tense, number, person, or grammatical role. Grammar words supply those functions.
 
@@ -594,7 +594,7 @@ Before adding a root or grammar word:
 
 Similar sounds are permitted; exact duplicate spellings are not. Roots and grammar words are separate inventories, but **no exact spelling collision between them is allowed**.
 
-This document defines the practical standard grammar for everyday Edraen. Standard v3.2 adds explicit rules for counterfactual past, nested relative/content clauses, direct quotation and speaker-relative time, activity complements of **NULR**, and negation scope inside modal complements. Standard v3.1 clarified activity nominalization, infinitive subject control, negation scope in verb complements, and conservative sound-shape guidance drawn from the approved inventory. Standard v3.0 established noun-phrase order, number formation, embedded questions, temporal relations, and additional everyday grammar words. Future vocabulary additions remain welcome, but grammar must not be improvised during translation; update this standard first when a rule needs to change.
+This document defines the practical standard grammar for everyday Edraen. Standard v3.3 adds a documented direct-address (vocative) construction. Standard v3.2 added explicit rules for counterfactual past, nested relative/content clauses, direct quotation and speaker-relative time, activity complements of **NULR**, and negation scope inside modal complements. Standard v3.1 clarified activity nominalization, infinitive subject control, negation scope in verb complements, and conservative sound-shape guidance drawn from the approved inventory. Standard v3.0 established noun-phrase order, number formation, embedded questions, temporal relations, and additional everyday grammar words. Future vocabulary additions remain welcome, but grammar must not be improvised during translation; update this standard first when a rule needs to change.
 
 ## 17. Noun-phrase order and quantity
 
@@ -733,7 +733,7 @@ The standard grammar is used for ordinary conversation and clear prose. The same
 
 ## 23. Scope of the standard
 
-Edraen Standard v3.2 is a stable, usable core for everyday speech, practical writing, connected narrative, and formal passages. It defines the regular grammar rather than trying to freeze all future vocabulary or culture. The language can grow without being considered unfinished every time a new technical term is needed.
+Edraen Standard v3.3 is a stable, usable core for everyday speech, practical writing, connected narrative, and formal passages. It defines the regular grammar rather than trying to freeze all future vocabulary or culture. The language can grow without being considered unfinished every time a new technical term is needed.
 
 The following are deliberately left open to future specification rather than silently guessed: regional dialects, historical sound changes, a canonical calendar, a detailed politeness hierarchy, and specialist terminology for fields not yet represented in the dictionary. These are expansion areas, not blockers for ordinary use.
 
@@ -774,3 +774,12 @@ When negation belongs inside the modal's scope, place **NU** after the modal and
 In the second example, **DA PE** places the possible ability event in the completed past, **MO** marks possibility, and **NU TALR GOVR** means “not be able to go.” By contrast, **NU** at the beginning of the main clause, before tense/aspect/modal markers, negates the main predication rather than just the modal's complement. The placement of **NU** therefore affects meaning.
 
 This rule licenses the tested nesting of one modal with the lexical ability verb. It does **not** establish a general rule for stacking multiple grammatical modals such as **MO + ME**; such combinations remain unstandardized until their scope and interpretation are documented.
+
+## 27. Direct address (vocatives)
+
+A noun phrase used to address the listener directly is outside the clause's subject/object structure and is separated from the clause by a comma. Place it before or after the clause; no separate vocative particle is required. The phrase keeps ordinary noun-phrase order, including the possessor-before-noun pattern.
+
+- **AN ZARV** — my friend.
+- **HA ET NU RAETH ET SELF, AN ZARV?** — Do you not pity yourself, my friend?
+
+In the example, **HA** marks a yes/no question, **ET** is the subject, **NU** negates the main verb, **RAETH** means “pity,” and **ET SELF** is the reflexive object. **AN ZARV** is the vocative (“my friend”), not another participant in the clause.
