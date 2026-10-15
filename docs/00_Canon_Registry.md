@@ -924,12 +924,22 @@ The following material remains open for future development:
 4. Detailed definitions of non-human races and peoples, their subraces, relationships, cultures, religions, and civilizations. See [Race Design Workshop](peoples/Race_Design_Workshop.md); proposals are not canon until explicitly approved.
 5. The supporting lore for humanity's established superiority and Dravkhar's historical prominence; Dravkhar's etymology; its origins and exact regional distribution; the identities of other human subraces; and any later-defined bloodline distinctions.
 6. Further Edraen vocabulary, idioms, conversational registers, and carefully documented refinements beyond Edraen Standard Grammar v3.3. See [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md).
-7. Historical events, conflicts, cosmological details, and narrative lore.
+7. Historical events, conflicts, cosmological details, and narrative lore. A separate **proposed cosmology narrative** is maintained in [The War of the Firstborn](cosmology/The_War_of_the_Firstborn.md). It is a working draft, not approved foundational canon; its names, counts, and cosmological claims must not be treated as finalized until explicitly approved.
 8. Whether additional countries are needed as the setting develops.
 
 The current country plan contains four named countries per continent, for a total of 20. This is an approved starting scope, not a claim that the political history of Edrath has always contained exactly 20 countries.
 
 Do not invent unwritten details merely to fill a checklist. Develop them when the project reaches that stage and document the decisions in GitHub.
+
+## 12. PROPOSED COSMOLOGY — WORKING DRAFT ONLY
+
+[The War of the Firstborn](cosmology/The_War_of_the_Firstborn.md) records a developing cosmology concept involving the original Being, the First Dawn, the eight Firstborn, the sixteen Veylith, and the Axiom (provisionally named Ithrion). This material is explicitly **proposed and not yet approved as foundational canon**. The document preserves open questions and must not be used to silently settle deferred lore.
+
+In particular:
+- The names and numbers of the proposed divine beings remain working decisions until explicitly approved.
+- The origin of the universe, the War of the Firstborn, the creation-game on Edrath, the divine/mortal time difference, the Veylith's roles, and the Axiom's nature remain proposed cosmology.
+- Do not use this draft to explain humanity's established superiority, Dravkhar potential, or the origins of any other race.
+- No mortal race is designated the current divine competition's MVP; other races have not yet been developed sufficiently for that comparison.
 
 ## CANON RULE
 
