@@ -1,10 +1,10 @@
 # EDRAEN OATH — FIRST FULL TRANSLATION TEST
 
-**Standard:** Edraen Standard v3.2  
+**Standard:** Edraen Standard v3.3  
 **Status:** Translation test using approved vocabulary and grammar  
 **Purpose:** Test whether Edraen can carry a long, dramatic passage without silently inventing grammar
 
-This is a working translation, not a new piece of Edrath canon. The translation uses the approved roots, the grammar-word ledger, and the sentence rules documented in [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md). All Edraen tokens in the translation were checked against the 628-root inventory and grammar-word ledger. Some English rhetorical effects are expressed more literally in Edraen.
+This is a working translation, not a new piece of Edrath canon. The translation uses the approved roots, the grammar-word ledger, and the sentence rules documented in [Edraen Standard Grammar & Usage](Edraen_Standard_Grammar.md). All Edraen tokens in the translation were checked against the 629-root inventory and grammar-word ledger. Some English rhetorical effects are expressed more literally in Edraen.
 
 ## The Oath of the Unbroken King
 
