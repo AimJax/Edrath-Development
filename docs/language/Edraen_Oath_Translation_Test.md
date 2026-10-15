@@ -1,6 +1,6 @@
 # EDRAEN OATH — FIRST FULL TRANSLATION TEST
 
-**Standard:** Edraen Standard v3.1  
+**Standard:** Edraen Standard v3.2  
 **Status:** Translation test using approved vocabulary and grammar  
 **Purpose:** Test whether Edraen can carry a long, dramatic passage without silently inventing grammar
 
