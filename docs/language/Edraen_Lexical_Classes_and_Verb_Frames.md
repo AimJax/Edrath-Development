@@ -3,7 +3,7 @@
 **Document:** Working Lexical-Syntax Supplement  
 **Version:** 1.0  
 **Status:** Descriptive supplement; no new root meanings or grammar rules are approved by this document  
-**Standard under reference:** Edraen Standard v3.2
+**Standard under reference:** Edraen Standard v3.3
 
 Edraen has 628 approved lexical roots, but a large root inventory does not by itself tell a learner which sentence patterns each verb accepts. This supplement records the frames already supported by the grammar and examples. It distinguishes attested patterns from careful extensions that still need testing.
 
@@ -41,6 +41,7 @@ The frames below describe syntax, not English word-for-word order.
 | NP + RI + V + BY + agent | Passive clause | **LI DAN RI SAVN BY AN.** — The person is remembered by me. | Standard Grammar |
 | S + ES + description/location | Copular predicate | **AN ES SETH.** — I am well. | Standard Grammar |
 | ES + NP + location | Existential statement | **ES NA DAN IN LI DOM.** — There is a person in the home. | Standard Grammar |
+| Clause + vocative NP | Direct address outside the clause's core argument structure | **HA ET NU RAETH ET SELF, AN ZARV?** — Do you not pity yourself, my friend? | Standard Grammar v3.3 |
 
 **TO has more than one function.** Before a noun phrase it marks a destination or recipient (“to you”); before a bare verb phrase it marks an infinitive or purpose complement. The following word determines which pattern is present.
 
@@ -67,7 +68,8 @@ This register is deliberately limited to verbs whose patterns are shown in the c
 | **SAVN** | remember | NP; object gap in a relative clause | Example: **LI DAN TA AN SAVN.** |
 | **KERV** | repair | NP | Example: **AN KERV LI BRUK.** |
 | **DURN** | build | NP; passive use with RI | Example: **LI DOM DA RI DURN BY EN.** |
-| **NULR** | stop; cease movement or activity | LI + VP activity complement | **AN DA NULR LI DUV BAVR.** — I stopped eating meat. The activity phrase names what ceased; this frame is now specified in Standard Grammar v3.2. |
+| **NULR** | stop; cease movement or activity | LI + VP activity complement | **AN DA NULR LI DUV BAVR.** — I stopped eating meat. The activity phrase names what ceased; this frame is specified in Standard Grammar v3.2. |
+| **RAETH** | pity; feel compassionate concern for someone suffering or in hardship | NP direct object | **HA ET NU RAETH ET SELF, AN ZARV?** uses **ET SELF** as the reflexive object. The root is a transitive verb; direct address is handled separately by the vocative rule. |
 
 The register does not mean that every verb with a similar English translation takes the same frames. New verbs should be checked against their own approved meanings and documented examples.
 
