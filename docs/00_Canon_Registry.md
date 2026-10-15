@@ -1,10 +1,10 @@
 # EDRATH — CANON REGISTRY
 
 **Document:** Project Canon and Decision Log  
-**Version:** 2.5  
+**Version:** 2.6  
 **Status:** Approved Foundational Canon
 
-This registry records the approved foundational decisions for Edrath, including the 628-root Edraen inventory, compound rules, Edraen Standard Grammar v3.2, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
+This registry records the approved foundational decisions for Edrath, including the 629-root Edraen inventory, compound rules, Edraen Standard Grammar v3.3, the five continents, the initial country-name plan, broad continental climate and geography, and the foundational premise for humanity.
 
 ## 1. WORLD AND LANGUAGE
 
@@ -104,7 +104,7 @@ The following 66 roots are approved additions to the initial seven-root core. Th
 | **THRUK** | Knowledge; what is known or understood | thruk (TH as in “thin”) |
 | **ZOVR** | Wisdom; sound judgment in applying knowledge | zovr |
 
-The approved inventory contains **628 unique root spellings** across the seven foundational roots and ten approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), [Phase 4](language/Edraen_Dictionary_Phase_4.md), [Phase 5](language/Edraen_Dictionary_Phase_5.md), [Phase 6](language/Edraen_Dictionary_Phase_6.md), [Phase 7](language/Edraen_Dictionary_Phase_7.md), [Phase 8](language/Edraen_Dictionary_Phase_8.md), [Phase 9](language/Edraen_Dictionary_Phase_9.md), and [Phase 10](language/Edraen_Dictionary_Phase_10.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
+The approved inventory contains **629 unique root spellings** across the seven foundational roots and eleven approved addition batches. The complete cumulative list is maintained in [Edraen Dictionary — Learner's Edition & Master Inventory](language/Edraen_Dictionary.md); batch records are [Phase 1](language/Edraen_Dictionary_Phase_1.md), [Phase 2](language/Edraen_Dictionary_Phase_2.md), [Phase 3](language/Edraen_Dictionary_Phase_3.md), [Phase 4](language/Edraen_Dictionary_Phase_4.md), [Phase 5](language/Edraen_Dictionary_Phase_5.md), [Phase 6](language/Edraen_Dictionary_Phase_6.md), [Phase 7](language/Edraen_Dictionary_Phase_7.md), [Phase 8](language/Edraen_Dictionary_Phase_8.md), [Phase 9](language/Edraen_Dictionary_Phase_9.md), and [Phase 10](language/Edraen_Dictionary_Phase_10.md), and [Phase 11](language/Edraen_Dictionary_Phase_11.md). Exact-spelling duplicates are not permitted; future root additions must be checked against the master dictionary.
 
 The pronunciation guides are practical reader aids rather than a complete phonetic transcription. Approved proper-name pronunciations listed elsewhere remain fixed.
 
@@ -735,6 +735,15 @@ The following 25 roots are approved additions. They expand everyday vocabulary f
 | **ZORKAL** | Technology; the practical use of knowledge through tools, methods, and organized systems | zor-kal |
 
 
+### 2.11 Additional approved root — Phase 11
+
+The following root is an approved addition prompted by a translation stress test. It fills the lexical gap for pity/compassion; the grammar of direct address is specified in Edraen Standard v3.3.
+
+| Root | Approved meaning | Pronunciation guide |
+|---|---|---|
+| **RAETH** | Pity; feel compassionate concern for someone who is suffering or in hardship, with a wish that their distress be eased | rayth (AE as in “day”; TH as in “thin”) |
+
+
 ## 3. THE FIVE CONTINENTS
 
 The five major continents and their pronunciations are approved canon:
@@ -802,9 +811,9 @@ These are the current foundational conventions for newly coined Edraen vocabular
 
 These conventions are intentionally compact. They are sufficient for current vocabulary work; a more technical phonetic transcription is not required for ordinary development.
 
-## 6. APPROVED STANDARD EDRAEN GRAMMAR — VERSION 3.2
+## 6. APPROVED STANDARD EDRAEN GRAMMAR — VERSION 3.3
 
-Edraen Standard v3.2 is approved as the practical grammar for ordinary statements, questions, commands, connected clauses, activity nominalization, counterfactual past, nested relative/content clauses, direct quotation, and modal-complement negation scope. The complete reference is [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md), with conversational examples in the [Everyday Phrasebook](language/Edraen_Everyday_Phrasebook.md).
+Edraen Standard v3.3 is approved as the practical grammar for ordinary statements, questions, commands, connected clauses, activity nominalization, counterfactual past, nested relative/content clauses, direct quotation, modal-complement negation scope, and direct-address/vocative syntax. The complete reference is [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md), with conversational examples in the [Everyday Phrasebook](language/Edraen_Everyday_Phrasebook.md).
 
 ### Core sentence order
 
@@ -851,7 +860,7 @@ Edraen Standard v3.2 is approved as the practical grammar for ordinary statement
 - **IR DA LAVN: “AN VA THERV NETHL DAK.”** — He/she/it said, “I will return tomorrow.”
 - **AN DA PE MO NU TALR GOVR.** — I might not have been able to go.
 
-All grammar words are kept separate from lexical roots. Their spellings are checked against the full root inventory; exact spelling collisions are prohibited.
+All grammar words are kept separate from lexical roots. Their spellings are checked against the full root inventory; exact spelling collisions are prohibited. RAETH is a lexical verb, not a new grammar word.
 
 ## 7. APPROVED PLACE NAMES WITHOUT ASSIGNED ETYMOLOGIES
 
@@ -914,7 +923,7 @@ The following material remains open for future development:
 3. Country borders, size, precise placement, governments, and political histories beyond the approved human-led institutional premise.
 4. Detailed definitions of non-human races and peoples, their subraces, relationships, cultures, religions, and civilizations. See [Race Design Workshop](peoples/Race_Design_Workshop.md); proposals are not canon until explicitly approved.
 5. The supporting lore for humanity's established superiority and Dravkhar's historical prominence; Dravkhar's etymology; its origins and exact regional distribution; the identities of other human subraces; and any later-defined bloodline distinctions.
-6. Further Edraen vocabulary, idioms, conversational registers, and carefully documented refinements beyond Edraen Standard Grammar v3.2. See [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md).
+6. Further Edraen vocabulary, idioms, conversational registers, and carefully documented refinements beyond Edraen Standard Grammar v3.3. See [Edraen Standard Grammar & Usage](language/Edraen_Standard_Grammar.md).
 7. Historical events, conflicts, cosmological details, and narrative lore.
 8. Whether additional countries are needed as the setting develops.
 
